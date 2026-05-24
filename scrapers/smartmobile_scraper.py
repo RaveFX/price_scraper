@@ -5,6 +5,14 @@ from bs4 import BeautifulSoup
 from typing import List, Dict, Any
 from scrapers.base_scraper import BaseScraper
 
+PLAYWRIGHT_AVAILABLE = False
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    pass
+
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -97,14 +105,32 @@ class SmartMobileScraper(BaseScraper):
         
         while current_url:
             logger.info(f"Scraping Smart Mobile Page {page_num}: {current_url}")
+            html_content = None
             try:
-                response = requests.get(current_url, headers=headers, timeout=30)
+                response = requests.get(current_url, headers=headers, timeout=15)
                 response.raise_for_status()
+                html_content = response.text
             except Exception as e:
-                logger.error(f"Failed to fetch Smart Mobile category page: {e}")
+                logger.warning(f"Standard requests failed for Smart Mobile ({e}). Trying Playwright fallback...")
+                if PLAYWRIGHT_AVAILABLE:
+                    try:
+                        from playwright.sync_api import sync_playwright
+                        with sync_playwright() as p:
+                            browser = p.chromium.launch(headless=True)
+                            context = browser.new_context(user_agent=headers["User-Agent"])
+                            page = context.new_page()
+                            page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+                            html_content = page.content()
+                            browser.close()
+                        logger.info("Successfully fetched Smart Mobile using Playwright fallback.")
+                    except Exception as pw_err:
+                        logger.error(f"Playwright fallback failed for Smart Mobile: {pw_err}")
+                else:
+                    logger.warning("Playwright is not available on this system to attempt fallback.")
+            
+            if not html_content:
+                logger.error("Failed to retrieve HTML for Smart Mobile using both requests and Playwright.")
                 break
-                
-            html_content = response.text
             soup = BeautifulSoup(html_content, 'lxml')
             
             # OpenCart grid layouts selector

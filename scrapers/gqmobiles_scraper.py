@@ -5,6 +5,14 @@ from bs4 import BeautifulSoup
 from typing import List, Dict, Any
 from scrapers.base_scraper import BaseScraper
 
+PLAYWRIGHT_AVAILABLE = False
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    pass
+
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -70,15 +78,33 @@ class GQMobilesScraper(BaseScraper):
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
         }
         
+        html_content = None
         logger.info(f"Fetching GQ Mobiles: {url}")
         try:
-            response = requests.get(url, headers=headers, timeout=30)
+            response = requests.get(url, headers=headers, timeout=15)
             response.raise_for_status()
+            html_content = response.text
         except Exception as e:
-            logger.error(f"Failed to fetch GQ Mobiles: {e}")
-            raise
+            logger.warning(f"Standard requests failed for GQ Mobiles ({e}). Trying Playwright fallback...")
+            if PLAYWRIGHT_AVAILABLE:
+                try:
+                    from playwright.sync_api import sync_playwright
+                    with sync_playwright() as p:
+                        browser = p.chromium.launch(headless=True)
+                        context = browser.new_context(user_agent=headers["User-Agent"])
+                        page = context.new_page()
+                        page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                        html_content = page.content()
+                        browser.close()
+                    logger.info("Successfully fetched GQ Mobiles using Playwright fallback.")
+                except Exception as pw_err:
+                    logger.error(f"Playwright fallback failed for GQ Mobiles: {pw_err}")
+            else:
+                logger.warning("Playwright is not available on this system to attempt fallback.")
             
-        html_content = response.text
+        if not html_content:
+            logger.error("Failed to retrieve HTML for GQ Mobiles using both requests and Playwright.")
+            return []
         
         # Headless WordPress next state products parsing
         # Looks for the raw JSON nodes containing:
