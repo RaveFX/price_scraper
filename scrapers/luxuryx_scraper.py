@@ -25,7 +25,7 @@ class LuxuryXScraper(BaseScraper):
     def scrape(self) -> List[Dict[str, Any]]:
         urls = [
             {"url": f"{self.base_url}/android-price", "default_cat": "Android", "default_brand": "Samsung"},
-            {"url": f"{self.base_url}/macbook-price-in-sri-lanka", "default_cat": "Laptops", "default_brand": "Apple"}
+            {"url": f"{self.base_url}/macbook-price-in-sri-lanka", "default_cat": "Macbook", "default_brand": "Apple"}
         ]
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
