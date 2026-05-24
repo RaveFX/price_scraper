@@ -120,9 +120,11 @@ class SmartMobileScraper(BaseScraper):
                             context = browser.new_context(user_agent=headers["User-Agent"])
                             page = context.new_page()
                             page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
+                            page.wait_for_timeout(5000)
                             html_content = page.content()
+                            page_title = page.title()
                             browser.close()
-                        logger.info("Successfully fetched Smart Mobile using Playwright fallback.")
+                        logger.info(f"Successfully fetched Smart Mobile using Playwright. Page Title: '{page_title}' | HTML Length: {len(html_content)} | '.product-layout' count: {html_content.count('product-layout')} | '.product-thumb' count: {html_content.count('product-thumb')}")
                     except Exception as pw_err:
                         logger.error(f"Playwright fallback failed for Smart Mobile: {pw_err}")
                 else:

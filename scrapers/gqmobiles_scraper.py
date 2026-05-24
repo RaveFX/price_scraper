@@ -94,9 +94,11 @@ class GQMobilesScraper(BaseScraper):
                         context = browser.new_context(user_agent=headers["User-Agent"])
                         page = context.new_page()
                         page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                        page.wait_for_timeout(5000)
                         html_content = page.content()
+                        page_title = page.title()
                         browser.close()
-                    logger.info("Successfully fetched GQ Mobiles using Playwright fallback.")
+                    logger.info(f"Successfully fetched GQ Mobiles using Playwright. Page Title: '{page_title}' | HTML Length: {len(html_content)} | 'in_stock' count: {html_content.count('in_stock')}")
                 except Exception as pw_err:
                     logger.error(f"Playwright fallback failed for GQ Mobiles: {pw_err}")
             else:
