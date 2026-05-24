@@ -1,0 +1,5183 @@
+[
+    {
+        "title": "Samsung Galaxy A17",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 40990.0,
+        "max_price": 108990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a17-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya176gbr",
+                "price": 59990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya176gbr",
+                "price": 73990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya174gbr",
+                "price": 47990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya174gbr",
+                "price": 40990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya178gbr",
+                "price": 82990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya178gbr",
+                "price": 108990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya178gbr",
+                "price": 59990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya178gbr",
+                "price": 82990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A17 4G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 52990.0,
+        "max_price": 62990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a17-4g-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya174g6g",
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya174g6g",
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya174g4g",
+                "price": 62990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya174g4g",
+                "price": 52990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 344990.0,
+        "max_price": 4049990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s26-ultra-12gb-ram-1tb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys26ultr",
+                "price": 424990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys26ultr",
+                "price": 679490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys26ultr",
+                "price": 4049990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys26ultr",
+                "price": 568990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys26ultr",
+                "price": 344990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys26ultr",
+                "price": 449990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26+",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 424990.0,
+        "max_price": 424990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s26-plus-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys2612gb",
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys2612gb",
+                "price": 424990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 308999.0,
+        "max_price": 312990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s26-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys2612gb",
+                "price": 308999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys2612gb",
+                "price": 312990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A07 4G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 35990.0,
+        "max_price": 51990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a07-4g-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya074g8g",
+                "price": 51990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya074g6g",
+                "price": 44990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya074g6g",
+                "price": 46990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya074g4g",
+                "price": 41490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya074g4g",
+                "price": 45490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya074g4g",
+                "price": 35990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya074g4g",
+                "price": 39990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S25 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 294990.0,
+        "max_price": 431490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s25-ultra-12gb-ram-512gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys25ultr",
+                "price": 431490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys25ultr",
+                "price": 344990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys25ultr",
+                "price": 294990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S25",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 209990.0,
+        "max_price": 261990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s25-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys2512gb",
+                "price": 209990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys2512gb",
+                "price": 261990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A56 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 102990.0,
+        "max_price": 171990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a56-5g-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya565g12",
+                "price": 171990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya565g8g",
+                "price": 158990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya565g12",
+                "price": 121990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya565g8g",
+                "price": 114990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya565g8g",
+                "price": 102990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A36 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 86990.0,
+        "max_price": 129990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a36-5g-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya365g12",
+                "price": 101990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya365g12",
+                "price": 129990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya365g8g",
+                "price": 117990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya365g8g",
+                "price": 95990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya365g8g",
+                "price": 86990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M16 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 46490.0,
+        "max_price": 53990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m16-5g-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym165g8g",
+                "price": 53990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym165g6g",
+                "price": 46490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A26 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 72990.0,
+        "max_price": 83990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a26-5g-8gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya265g8g",
+                "price": 83990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya265g8g",
+                "price": 81990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya265g6g",
+                "price": 74990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya265g8g",
+                "price": 72990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F16",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 59990.0,
+        "max_price": 61990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f16-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf166gbr",
+                "price": 59990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf166gbr",
+                "price": 61990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F06 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 37490.0,
+        "max_price": 55990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f06-5g-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf065g6g",
+                "price": 55990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf065g4g",
+                "price": 49490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf065g6g",
+                "price": 37490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf065g4g",
+                "price": 48990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 169990.0,
+        "max_price": 404990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s24-ultra-12gb-ram-1tb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys24ultr",
+                "price": 404990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys24ultr",
+                "price": 269990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys24ultr",
+                "price": 169990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A06",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 29990.0,
+        "max_price": 42990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a06-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya066gbr",
+                "price": 42990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya064gbr",
+                "price": 34990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya064gbr",
+                "price": 30990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya066gbr",
+                "price": 38990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya064gbr",
+                "price": 31990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya064gbr",
+                "price": 29990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Flip6",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 194990.0,
+        "max_price": 194990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-flip6-12gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzflip61",
+                "price": 194990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold6",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 369990.0,
+        "max_price": 369990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-fold6-12gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzfold61",
+                "price": 369990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S24",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 164990.0,
+        "max_price": 169990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s24-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys248gbr",
+                "price": 169990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys248gbr",
+                "price": 164990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Flip5",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 186990.0,
+        "max_price": 249000.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-flip5-8gb-ram-512gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzflip58",
+                "price": 249000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyzflip58",
+                "price": 186990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold5",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 327490.0,
+        "max_price": 327490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-fold5-12gb-ram-512gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzfold51",
+                "price": 327490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M06",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 33490.0,
+        "max_price": 42490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m06-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym066gbr",
+                "price": 42490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym064gbr",
+                "price": 33490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A16 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 48990.0,
+        "max_price": 70990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a16-5g-8gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya165g8g",
+                "price": 70990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya165g8g",
+                "price": 54490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya165g8g",
+                "price": 69990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya165g8g",
+                "price": 60990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya165g6g",
+                "price": 48990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A16",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 40490.0,
+        "max_price": 56490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a16-4gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya164gbr",
+                "price": 40490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya168gbr",
+                "price": 56490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya166gbr",
+                "price": 48990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F05",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 27500.0,
+        "max_price": 29490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f05-4gb-ram-64gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf054gbr",
+                "price": 27500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf054gbr",
+                "price": 29490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M35 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 59990.0,
+        "max_price": 73990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m35-5g-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym355g8g",
+                "price": 73990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym355g6g",
+                "price": 59990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S24 FE",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 126990.0,
+        "max_price": 193990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s24-fe-8gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys24fe8g",
+                "price": 193990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys24fe8g",
+                "price": 126990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F55",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 79990.0,
+        "max_price": 79990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f55-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf558gbr",
+                "price": 79990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M05",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 27990.0,
+        "max_price": 27990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m05-4gb-ram-64gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym054gbr",
+                "price": 27990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A15 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 52490.0,
+        "max_price": 58990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a15-5g-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya155g6g",
+                "price": 52490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya155g8g",
+                "price": 58990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya155g8g",
+                "price": 55990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M14 4G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 34990.0,
+        "max_price": 34990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m14-4g-4gb-ram-64gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym144g4g",
+                "price": 34990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A55 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 96990.0,
+        "max_price": 167990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a55-5g-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya555g12",
+                "price": 167990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya555g12",
+                "price": 111990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya555g8g",
+                "price": 163990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya555g8g",
+                "price": 96990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya555g8g",
+                "price": 101990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M15 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 47990.0,
+        "max_price": 66990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m15-5g-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym155g6g",
+                "price": 66990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym155g4g",
+                "price": 62990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym155g6g",
+                "price": 47990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym155g4g",
+                "price": 62990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M55",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 114500.0,
+        "max_price": 138990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m55-12gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym5512gb",
+                "price": 138990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym558gbr",
+                "price": 126990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym558gbr",
+                "price": 114500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A15",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 44490.0,
+        "max_price": 55990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a15-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya158gbr",
+                "price": 52490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya158gbr",
+                "price": 55990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya156gbr",
+                "price": 46990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya154gbr",
+                "price": 44490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A35 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 78990.0,
+        "max_price": 132990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a35-5g-8gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya355g8g",
+                "price": 132990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya355g8g",
+                "price": 84490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya355g8g",
+                "price": 78990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S24+",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 249990.0,
+        "max_price": 249990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s24-plus-12gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys2412gb",
+                "price": 249990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A25",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 56990.0,
+        "max_price": 65990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a25-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya258gbr",
+                "price": 65990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya258gbr",
+                "price": 62490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya256gbr",
+                "price": 56990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A24 4G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 55990.0,
+        "max_price": 76990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a24-4g-4gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya244g4g",
+                "price": 55990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya244g8g",
+                "price": 76990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya244g6g",
+                "price": 65990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A05s",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 35490.0,
+        "max_price": 57990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a05s-4gb-ram-64gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya05s4gb",
+                "price": 35490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya05s6gb",
+                "price": 57990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya05s4gb",
+                "price": 46990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya05s6gb",
+                "price": 39990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya05s4gb",
+                "price": 36490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A14 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 47990.0,
+        "max_price": 63990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a14-5g-4gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya145g4g",
+                "price": 56990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya145g8g",
+                "price": 63990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya145g6g",
+                "price": 47990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya145g4g",
+                "price": 50490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S23 FE",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 129990.0,
+        "max_price": 129990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s23-fe-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys23fe8g",
+                "price": 129990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A05",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 26990.0,
+        "max_price": 41490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a05-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya056gbr",
+                "price": 36990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya054gbr",
+                "price": 26990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya054gbr",
+                "price": 27990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya056gbr",
+                "price": 41490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya054gbr",
+                "price": 37990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya054gbr",
+                "price": 32490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M34 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 55490.0,
+        "max_price": 106990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m34-5g-8gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym345g8g",
+                "price": 58990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym345g6g",
+                "price": 55490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym345g8g",
+                "price": 106990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 214990.0,
+        "max_price": 444990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s23-ultra-12gb-ram-1tb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys23ultr",
+                "price": 444990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys23ultr",
+                "price": 309990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys23ultr",
+                "price": 224990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys23ultr",
+                "price": 214990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys23ultr",
+                "price": 439990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S23+",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 224990.0,
+        "max_price": 224990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s23-plus-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys238gbr",
+                "price": 224990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S22 Ultra 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 254990.0,
+        "max_price": 354990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s22-ultra-5g-12gb-ram-512gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys22ultr",
+                "price": 263990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys22ultr",
+                "price": 254990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys22ultr",
+                "price": 354990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F54",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 87990.0,
+        "max_price": 87990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f54-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf548gbr",
+                "price": 87990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A54",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 98990.0,
+        "max_price": 186990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a54-8gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya548gbr",
+                "price": 186990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya548gbr",
+                "price": 98990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya548gbr",
+                "price": 105990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A34",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 70990.0,
+        "max_price": 90990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a34-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya348gbr",
+                "price": 90990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya348gbr",
+                "price": 70990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M04",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 36990.0,
+        "max_price": 63990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m04-4gb-ram-64gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym044gbr",
+                "price": 50490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym046gbr",
+                "price": 63990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym044gbr",
+                "price": 39990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym044gbr",
+                "price": 36990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F14",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 41990.0,
+        "max_price": 41990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f14-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf146gbr",
+                "price": 41990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold4",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 371990.0,
+        "max_price": 649990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-fold4-12gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzfold41",
+                "price": 371990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyzfold41",
+                "price": 649990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M14",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 44490.0,
+        "max_price": 69490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m14-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym146gbr",
+                "price": 44490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym146gbr",
+                "price": 47990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym144gbr",
+                "price": 69490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A04e",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 29990.0,
+        "max_price": 49490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a04e-4gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya04e4gb",
+                "price": 39990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04e4gb",
+                "price": 49490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04e3gb",
+                "price": 35990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04e3gb",
+                "price": 41490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04e3gb",
+                "price": 31990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04e3gb",
+                "price": 29990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A14",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 36990.0,
+        "max_price": 46990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a14-4gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya144gbr",
+                "price": 41490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya146gbr",
+                "price": 46990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya144gbr",
+                "price": 36990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S21 FE 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 104990.0,
+        "max_price": 132990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s21-fe-5g-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys21fe5g",
+                "price": 104990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys21fe5g",
+                "price": 109990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys21fe5g",
+                "price": 132990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A13 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 58990.0,
+        "max_price": 58990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a13-5g-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya135g6g",
+                "price": 58990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A22",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 50990.0,
+        "max_price": 79990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a22-4gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya224gbr",
+                "price": 62990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya226gbr",
+                "price": 79990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya226gbr",
+                "price": 50990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A32 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 91990.0,
+        "max_price": 91990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a32-5g-6gb-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya325g6g",
+                "price": 91990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F04",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 31990.0,
+        "max_price": 31990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f04-4gb-ram-64gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf044gbr",
+                "price": 31990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S23",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 166990.0,
+        "max_price": 294990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s23-8gb-ram-256gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys238gbr",
+                "price": 193990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys238gbr",
+                "price": 166990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys238gbr",
+                "price": 294990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F23",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 65990.0,
+        "max_price": 70990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f23-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf238gbr",
+                "price": 70990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf236gbr",
+                "price": 65990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M53",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 112990.0,
+        "max_price": 112990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m53-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym538gbr",
+                "price": 112990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A04s",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 36490.0,
+        "max_price": 61490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a04s-3gb-ram-32gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya04s3gb",
+                "price": 36490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04s4gb",
+                "price": 61490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04s4gb",
+                "price": 50990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04s4gb",
+                "price": 39490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya04s4gb",
+                "price": 37490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M13 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 52990.0,
+        "max_price": 66990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m13-5g-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym135g8g",
+                "price": 66990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym135g6g",
+                "price": 52990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A04",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 29490.0,
+        "max_price": 71490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a04-4gb-ram-64gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya044gbr",
+                "price": 71490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya043gbr",
+                "price": 35990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya044gbr",
+                "price": 33490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya043gbr",
+                "price": 29490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S22 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 159990.0,
+        "max_price": 259990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s22-5g-8gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys225g8g",
+                "price": 159990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys225g8g",
+                "price": 189990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxys225g8g",
+                "price": 259990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F13",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 37490.0,
+        "max_price": 63990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f13-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf136gbr",
+                "price": 63990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf134gbr",
+                "price": 45990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf134gbr",
+                "price": 37490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M32",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 51990.0,
+        "max_price": 109990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m32-4gb-64gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym324gbr",
+                "price": 51990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym328gbr",
+                "price": 88490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym326gbr",
+                "price": 63990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym328gbr",
+                "price": 109990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A23",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 58990.0,
+        "max_price": 108990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a23-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya236gbr",
+                "price": 108990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya234gbr",
+                "price": 70990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya236gbr",
+                "price": 63990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya234gbr",
+                "price": 58990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A03",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 34990.0,
+        "max_price": 60490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a03-4gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya034gbr",
+                "price": 50990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya034gbr",
+                "price": 34990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya033gbr",
+                "price": 39990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya034gbr",
+                "price": 60490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya034gbr",
+                "price": 56490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya033gbr",
+                "price": 47490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M23",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 112990.0,
+        "max_price": 112990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m23-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym236gbr",
+                "price": 112990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A53 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 101490.0,
+        "max_price": 183990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a53-5g-8gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya535g8g",
+                "price": 183990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya535g8g",
+                "price": 101490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya535g6g",
+                "price": 103990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A13",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 53990.0,
+        "max_price": 91990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a13-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya136gbr",
+                "price": 91990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya134gbr",
+                "price": 87490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya134gbr",
+                "price": 78490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya136gbr",
+                "price": 58990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya134gbr",
+                "price": 53990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya134gbr",
+                "price": 54990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 210990.0,
+        "max_price": 210990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-flip4-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzflip48",
+                "price": 210990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F22",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 43990.0,
+        "max_price": 58490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f22-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf226gbr",
+                "price": 58490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxyf224gbr",
+                "price": 43990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M13",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 39490.0,
+        "max_price": 50990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m13-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym136gbr",
+                "price": 50990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym134gbr",
+                "price": 39490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A33 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 81990.0,
+        "max_price": 85990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a33-5g-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya335g6g",
+                "price": 85990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya335g8g",
+                "price": 81990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M32 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 68990.0,
+        "max_price": 91990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m32-5g-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym325g6g",
+                "price": 91990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym325g8g",
+                "price": 68990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A73 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 132990.0,
+        "max_price": 148990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a73-5g-8gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya735g8g",
+                "price": 132990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya735g8g",
+                "price": 148990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M33 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 61990.0,
+        "max_price": 76490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m33-6gb-ram-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym335g6g",
+                "price": 61990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym335g8g",
+                "price": 76490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A32 8GB+128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 60990.0,
+        "max_price": 83990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a32-8gb-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya328gb1",
+                "price": 83990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya328gb1",
+                "price": 60990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A32 6GB+128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 83990.0,
+        "max_price": 83990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a32-6gb-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya326gb1",
+                "price": 83990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A22 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 79990.0,
+        "max_price": 82990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a22-5g-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya225g8g",
+                "price": 82990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya225g6g",
+                "price": 79990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A03s",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 34990.0,
+        "max_price": 59990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a03s-3gb-ram-32gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya03s3gb",
+                "price": 34990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya03s4gb",
+                "price": 39990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya03s4gb",
+                "price": 59990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya03s3gb",
+                "price": 50990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A52",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 121990.0,
+        "max_price": 121990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a52-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya528gbr",
+                "price": 121990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M12",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 42990.0,
+        "max_price": 74990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m12-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym126gbr",
+                "price": 74990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym124gbr",
+                "price": 42990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym126gbr",
+                "price": 71990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym124gbr",
+                "price": 58990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A12",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 55990.0,
+        "max_price": 84990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a12-6gb-128gb-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya126gbr",
+                "price": 66490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya124gbr",
+                "price": 69490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya124gbr",
+                "price": 55990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya126gbr",
+                "price": 84990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A03 Core",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 27490.0,
+        "max_price": 41490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a03-core-",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya03core",
+                "price": 27490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "2 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxya03core",
+                "price": 41490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "2 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S22+ 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 259999.0,
+        "max_price": 259999.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s22--plus-5g-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys225g8g",
+                "price": 259999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M52 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 106990.0,
+        "max_price": 106990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m52-5g",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym525g8g",
+                "price": 106990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M22",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 94990.0,
+        "max_price": 94990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m22-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym226gbr",
+                "price": 94990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy F42 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 94990.0,
+        "max_price": 94990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-f42-5g-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyf425g8g",
+                "price": 94990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A52s 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 99990.0,
+        "max_price": 99990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a52s-5g-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya52s5g8",
+                "price": 99990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 304990.0,
+        "max_price": 304990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-fold3-5g-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzfold35",
+                "price": 304990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 354990.0,
+        "max_price": 354990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-flip3-5g",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzflip35",
+                "price": 354990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M42 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 69990.0,
+        "max_price": 69990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka?product_id=445",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym425g8g",
+                "price": 69990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S20 FE 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 144990.0,
+        "max_price": 144990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s20-fe-5g",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys20fe5g",
+                "price": 144990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A72 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 85990.0,
+        "max_price": 85990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a72-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya72128g",
+                "price": 85990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A72 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 94990.0,
+        "max_price": 94990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a72-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya72256g",
+                "price": 94990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A52 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 139990.0,
+        "max_price": 139990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a52-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya52128g",
+                "price": 139990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A12 64GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 74990.0,
+        "max_price": 74990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a12-64gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya1264gb",
+                "price": 74990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A12 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 72990.0,
+        "max_price": 72990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a12-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya12128g",
+                "price": 72990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A32",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 55990.0,
+        "max_price": 55990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a32-5g",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya326gbr",
+                "price": 55990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M51 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 67990.0,
+        "max_price": 67990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m51",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym51128g",
+                "price": 67990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M02 32GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 41990.0,
+        "max_price": 47990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m02-64gb-3gb-ram",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym0232gb",
+                "price": 47990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_samsunggalaxym0232gb",
+                "price": 41990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "2 GB",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 265990.0,
+        "max_price": 265990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s21-ultra-5g-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys21ultr",
+                "price": 265990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 214990.0,
+        "max_price": 214990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s21-plus-5g-256gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys215g25",
+                "price": 214990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S21 5G 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 177990.0,
+        "max_price": 177990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s21-5g-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys215g25",
+                "price": 177990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Flip",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 109990.0,
+        "max_price": 109990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-flip",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzflip",
+                "price": 109990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M02s 64GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 28990.0,
+        "max_price": 28990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m02s-64gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym02s64g",
+                "price": 28990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M02s 32GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 25990.0,
+        "max_price": 25990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m02s-32gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym02s32g",
+                "price": 25990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M01s",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 26490.0,
+        "max_price": 26490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m01s",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym01s",
+                "price": 26490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A21s - 128GB 6GB RAM",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 40990.0,
+        "max_price": 40990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/Samsung Galaxy A21s - 6GB RAM",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya21s128",
+                "price": 40990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S20 FE 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 128990.0,
+        "max_price": 128990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-s20-fe-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxys20fe12",
+                "price": 128990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold2 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 349990.0,
+        "max_price": 349990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-z-fold2",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxyzfold25",
+                "price": 349990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A71 8GB RAM 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 78990.0,
+        "max_price": 78990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a71-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya718gbr",
+                "price": 78990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A51 8GB RAM 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 62990.0,
+        "max_price": 62990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a51-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya518gbr",
+                "price": 62990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Note20 Ultra 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 234990.0,
+        "max_price": 234990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-note20-ultra-5g",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxynote20u",
+                "price": 234990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Note20",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 163990.0,
+        "max_price": 163990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-note20",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxynote20",
+                "price": 163990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M31 8GB RAM",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 51490.0,
+        "max_price": 51490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m31-8gb-ram",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym318gbr",
+                "price": 51490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M21 128GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 41490.0,
+        "max_price": 41490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m21-128gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym21128g",
+                "price": 41490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M01 Core 32GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 16990.0,
+        "max_price": 16990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m01-core-32gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym01core",
+                "price": 16990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M01 Core 16GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 14990.0,
+        "max_price": 14990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-m01-core-16gb",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxym01core",
+                "price": 14990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A21s - 6GB RAM",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 40490.0,
+        "max_price": 40490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a21s-6gb-ram",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya21s6gb",
+                "price": 40490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A21s - 4GB RAM",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 37490.0,
+        "max_price": 37490.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/samsung-mobile-phone-price-list-sri-lanka/samsung-galaxy-a21s-4gb-ram",
+        "variants": [
+            {
+                "id": "smart_samsunggalaxya21s4gb",
+                "price": 37490.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10 Pro XL",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 293990.0,
+        "max_price": 293990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-10-pro-xl-16gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel10proxl16",
+                "price": 293990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 253990.0,
+        "max_price": 321990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-10-pro-16gb-ram-512gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel10pro16gb",
+                "price": 321990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel10pro16gb",
+                "price": 282990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel10pro16gb",
+                "price": 253990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 215990.0,
+        "max_price": 233990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-10-12gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel1012gbram",
+                "price": 233990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel1012gbram",
+                "price": 215990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9a",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 154990.0,
+        "max_price": 164990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-9a-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel9a8gbram2",
+                "price": 164990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel9a8gbram1",
+                "price": 154990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 227990.0,
+        "max_price": 227990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-9-pro-16gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel9pro16gbr",
+                "price": 227990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel9pro12gbr",
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9 Pro XL",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 233990.0,
+        "max_price": 250990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-9-pro-xl-16gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel9proxl16g",
+                "price": 233990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel9proxl16g",
+                "price": 250990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 189990.0,
+        "max_price": 204990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-9-12gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel912gbram1",
+                "price": 189990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel912gbram2",
+                "price": 204990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 8 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 159990.0,
+        "max_price": 232990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-8-pro-12gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel8pro12gbr",
+                "price": 159990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel8pro12gbr",
+                "price": 232990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 8",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 139990.0,
+        "max_price": 194990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-8-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel88gbram12",
+                "price": 139990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel88gbram25",
+                "price": 194990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 7 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 118990.0,
+        "max_price": 131990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-7-pro-12gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel7pro12gbr",
+                "price": 118990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel7pro12gbr",
+                "price": 129990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel7pro12gbr",
+                "price": 131990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 7",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 103990.0,
+        "max_price": 127990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-7-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel78gbram12",
+                "price": 103990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel78gbram25",
+                "price": 127990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 6",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 99990.0,
+        "max_price": 139990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-6-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel68gbram12",
+                "price": 99990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel68gbram25",
+                "price": 139990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 6a",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 87990.0,
+        "max_price": 87990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-6a-6gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel6a6gbram1",
+                "price": 87990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 6 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 127990.0,
+        "max_price": 159990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-6-pro-12gb-ram-256gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel6pro12gbr",
+                "price": 159990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "smart_googlepixel6pro12gbr",
+                "price": 127990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 7a",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 139990.0,
+        "max_price": 139990.0,
+        "in_stock": true,
+        "url": "https://smartmobile.lk/google-mobile-phones-prices-in-sri-lanka/google-pixel-7a-8gb-ram-128gb",
+        "variants": [
+            {
+                "id": "smart_googlepixel7a8gbram1",
+                "price": 139990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    }
+]

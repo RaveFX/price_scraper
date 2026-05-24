@@ -1,0 +1,52 @@
+name: Daily Price Scraper
+
+on:
+  schedule:
+    # Runs daily at 18:00 UTC (11:30 PM IST)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper Pipeline
+        run: python run_scraper.py
+
+      - name: Commit and Push CSV changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Add raw data and master database
+          git add data/master_price_data.csv
+          if [ -d "data/raw" ]; then
+            git add data/raw/
+          fi
+          
+          # Check if there are changes staged for commit
+          if git diff --cached --quiet; then
+            echo "No price updates found today."
+          else
+            git commit -m "auto: Daily scraper price update $(date +'%Y-%m-%d')"
+            git push origin main
+          fi

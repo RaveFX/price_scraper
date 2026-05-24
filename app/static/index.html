@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartPrice | Shop Intelligence & Analytics Dashboard</title>
+    
+    <!-- Google Fonts: Outfit -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom Style Sheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- Dynamic Glowing Backdrops -->
+    <div class="glow-bg glow-pink"></div>
+    <div class="glow-bg glow-blue"></div>
+    
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+        <div class="brand">
+            <div class="brand-logo">
+                <i class="fa-solid fa-chart-line-up"></i>
+            </div>
+            <span class="brand-name">Smart<span>Price</span></span>
+        </div>
+        
+        <nav class="nav-menu">
+            <a href="#" class="nav-item active" data-tab="catalog">
+                <i class="fa-solid fa-mobile-screen-button"></i>
+                <span>Smartphones</span>
+            </a>
+            <a href="#" class="nav-item" data-tab="scraper">
+                <i class="fa-solid fa-terminal"></i>
+                <span>Scraper Hub</span>
+            </a>
+        </nav>
+        
+        <div class="sidebar-footer">
+            <div class="developer-info">
+                <p>Pair Programmed by</p>
+                <h5>Antigravity AI</h5>
+            </div>
+        </div>
+    </aside>
+    
+    <!-- Main Application Area -->
+    <main class="main-content">
+        
+        <!-- Header -->
+        <header class="app-header">
+            <div class="welcome-box">
+                <h1>Shop Price Comparison</h1>
+                <p>Daily scraped shop analytics to find the absolute cheapest electronics in Sri Lanka.</p>
+            </div>
+            
+            <div class="live-status">
+                <span class="status-indicator online"></span>
+                <span class="status-text">Master Database Loaded</span>
+            </div>
+        </header>
+        
+        <!-- Tab Content: Catalog -->
+        <section id="tab-catalog" class="tab-pane active">
+            
+            <!-- Statistics Panel -->
+            <div class="stats-grid">
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon pink-accent">
+                        <i class="fa-solid fa-mobile-retro"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h4 id="stat-products">--</h4>
+                        <p>Models Tracked</p>
+                    </div>
+                </div>
+                
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon blue-accent">
+                        <i class="fa-solid fa-shop"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h4 id="stat-shops">--</h4>
+                        <p>Compared Shops</p>
+                    </div>
+                </div>
+                
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon green-accent">
+                        <i class="fa-solid fa-trend-down"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h4 id="stat-price-change">--%</h4>
+                        <p>Market Drift (24h)</p>
+                    </div>
+                </div>
+                
+                <div class="stat-card glass-panel">
+                    <div class="stat-icon purple-accent">
+                        <i class="fa-solid fa-calendar-day"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h4 id="stat-last-update">--</h4>
+                        <p>Latest Scrape</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Search & Filters Container -->
+            <div class="filters-container glass-panel">
+                <div class="search-box">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" id="search-input" placeholder="Search phone name, model, or brand (e.g. Galaxy S26 Ultra)...">
+                </div>
+                
+                <div class="filter-controls">
+                    <!-- Brand filter -->
+                    <div class="filter-group">
+                        <label for="brand-filter">Brand</label>
+                        <select id="brand-filter">
+                            <option value="">All Brands</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Model filter -->
+                    <div class="filter-group">
+                        <label for="model-filter">Model</label>
+                        <select id="model-filter">
+                            <option value="">All Models</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Shop filter -->
+                    <div class="filter-group">
+                        <label for="shop-filter">Shop</label>
+                        <select id="shop-filter">
+                            <option value="">All Shops</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Min Price filter -->
+                    <div class="filter-group">
+                        <label for="price-sort">Sort By</label>
+                        <select id="price-sort">
+                            <option value="name-asc">Alphabetical (A-Z)</option>
+                            <option value="price-asc">Price: Low to High</option>
+                            <option value="price-desc">Price: High to Low</option>
+                        </select>
+                    </div>
+                    
+                    <!-- Stock toggle -->
+                    <div class="filter-checkbox-group">
+                        <input type="checkbox" id="stock-toggle">
+                        <label for="stock-toggle">In-Stock Only</label>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Dynamic Grid Loader -->
+            <div class="grid-loader" id="grid-loader">
+                <div class="spinner"></div>
+                <p>Querying Pandas Analytics Database...</p>
+            </div>
+            
+            <!-- Products Grid -->
+            <div class="products-grid" id="products-grid">
+                <!-- Javascript populates cards here -->
+            </div>
+        </section>
+        
+        <!-- Tab Content: Scraper Control -->
+        <section id="tab-scraper" class="tab-pane">
+            <div class="scraper-dashboard glass-panel">
+                <div class="scraper-header">
+                    <div class="scraper-info">
+                        <h2>Scraper Engine Status</h2>
+                        <p>Schedule or trigger the daily web scrapers instantly. The pipeline extracts raw JSON pages and consolidates prices via Pandas.</p>
+                    </div>
+                    <button class="btn btn-primary" id="btn-trigger-scrape">
+                        <i class="fa-solid fa-play"></i> Run Daily Scrapers Now
+                    </button>
+                </div>
+                
+                <div class="scraper-status-banner">
+                    <div class="status-stat">
+                        <span class="label">Current Engine State:</span>
+                        <span class="value badge" id="scraper-status-badge">Idle</span>
+                    </div>
+                    <div class="status-stat">
+                        <span class="label">Last Ran Pipeline:</span>
+                        <span class="value" id="scraper-last-run">Never</span>
+                    </div>
+                </div>
+                
+                <div class="console-box">
+                    <div class="console-header">
+                        <span><i class="fa-solid fa-terminal"></i> Scraper Output Logging Stream</span>
+                        <button class="btn btn-icon" id="btn-clear-console" title="Clear Logging Console">
+                            <i class="fa-solid fa-trash-can"></i>
+                        </button>
+                    </div>
+                    <pre class="console-body" id="console-logs">Console idle. Click "Run Daily Scrapers Now" to start the crawl process and view logs here.</pre>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <!-- Modal: Price Trend Analysis (Chart.js) -->
+    <div class="modal" id="trend-modal">
+        <div class="modal-content glass-panel">
+            <div class="modal-header">
+                <div>
+                    <h3 id="trend-modal-title">Model Price Trend History</h3>
+                    <p id="trend-modal-subtitle">Historic daily LKR tracking</p>
+                </div>
+                <button class="btn-close" id="btn-close-trend"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="chart-container">
+                    <canvas id="trend-chart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal: Comparison Matrix -->
+    <div class="modal" id="compare-modal">
+        <div class="modal-content glass-panel max-width-lg">
+            <div class="modal-header">
+                <div>
+                    <h3 id="compare-modal-title">Shop Comparison Center</h3>
+                    <p id="compare-modal-subtitle">Side-by-side pricing matrix</p>
+                </div>
+                <button class="btn-close" id="btn-close-compare"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="comparison-summary-card">
+                    <div class="recommended-shop">
+                        <i class="fa-solid fa-circle-check"></i>
+                        <div>
+                            <span>Recommended Best Deal:</span>
+                            <h4 id="best-shop-name">--</h4>
+                        </div>
+                    </div>
+                    <div class="price-gap">
+                        <span>LKR Savings:</span>
+                        <h4 id="best-shop-savings">--</h4>
+                    </div>
+                </div>
+                
+                <div class="table-container">
+                    <table class="compare-table">
+                        <thead>
+                            <tr>
+                                <th>Shop Name</th>
+                                <th>RAM / Storage</th>
+                                <th>Availability Status</th>
+                                <th>Cash price (LKR)</th>
+                                <th>Purchase link</th>
+                            </tr>
+                        </thead>
+                        <tbody id="compare-table-body">
+                            <!-- Populated dynamically -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
