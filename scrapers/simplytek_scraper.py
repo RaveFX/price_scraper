@@ -3,7 +3,7 @@ import json
 import logging
 import requests
 from bs4 import BeautifulSoup
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 from scrapers.base_scraper import BaseScraper
 
 logging.basicConfig(level=logging.INFO)
