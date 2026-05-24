@@ -127,6 +127,13 @@ class SmartMobileScraper(BaseScraper):
                             )
                             page = context.new_page()
                             page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+                            # Establish Cloudflare session cookies by visiting the homepage first
+                            try:
+                                page.goto("https://smartmobile.lk", wait_until="domcontentloaded", timeout=20000)
+                                page.wait_for_timeout(3000)
+                            except Exception as clear_err:
+                                logger.warning(f"Failed to visit homepage for clearance: {clear_err}")
+                                
                             page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
                             page.wait_for_timeout(5000)
                             html_content = page.content()
