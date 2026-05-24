@@ -1483,5 +1483,1765 @@
                 }
             }
         ]
+    },
+    {
+        "title": "MacBook Neo",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 243000.0,
+        "max_price": 283000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-neo-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1251,
+                "price": 243000.0,
+                "quantity": 7,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1252,
+                "price": 243000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Blush"
+                }
+            },
+            {
+                "id": 1253,
+                "price": 243000.0,
+                "quantity": 8,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Indigo"
+                }
+            },
+            {
+                "id": 1254,
+                "price": 243000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Citrus"
+                }
+            },
+            {
+                "id": 1255,
+                "price": 283000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1256,
+                "price": 283000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Blush"
+                }
+            },
+            {
+                "id": 1257,
+                "price": 283000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Indigo"
+                }
+            },
+            {
+                "id": 1258,
+                "price": 283000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Citrus"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air 13 inch M5 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 385000.0,
+        "max_price": 551500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1259,
+                "price": 385000.0,
+                "quantity": 11,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1260,
+                "price": 385000.0,
+                "quantity": 14,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1261,
+                "price": 385000.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1262,
+                "price": 385000.0,
+                "quantity": 13,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1263,
+                "price": 455500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1264,
+                "price": 455500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1265,
+                "price": 455500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1266,
+                "price": 455500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1267,
+                "price": 551500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1268,
+                "price": 551500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1269,
+                "price": 551500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1270,
+                "price": 551500.0,
+                "quantity": 15,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air 15 inch M5 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 439000.0,
+        "max_price": 618500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch",
+        "variants": [
+            {
+                "id": 1271,
+                "price": 439000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1272,
+                "price": 439000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1273,
+                "price": 439000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1274,
+                "price": 439000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1275,
+                "price": 526000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1276,
+                "price": 526000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1277,
+                "price": 526000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1278,
+                "price": 526000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1280,
+                "price": 618500.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1281,
+                "price": 618500.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1282,
+                "price": 618500.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1279,
+                "price": 618500.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air 13 inch M4 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 373500.0,
+        "max_price": 491000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-m4",
+        "variants": [
+            {
+                "id": 487,
+                "price": 373500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 488,
+                "price": 373500.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 493,
+                "price": 373500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 494,
+                "price": 373500.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 489,
+                "price": 377500.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 490,
+                "price": 377500.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 495,
+                "price": 377500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 496,
+                "price": 377500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 491,
+                "price": 491000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 492,
+                "price": 491000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 497,
+                "price": 491000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 498,
+                "price": 491000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air M4 Chip 15 inch",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 407000.0,
+        "max_price": 537500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-m4-15inch-price",
+        "variants": [
+            {
+                "id": 537,
+                "price": 407000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 540,
+                "price": 407000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 541,
+                "price": 407000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 542,
+                "price": 407000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 538,
+                "price": 459500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 543,
+                "price": 459500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 544,
+                "price": 459500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 545,
+                "price": 459500.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 539,
+                "price": 537500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 546,
+                "price": 537500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 547,
+                "price": 537500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 548,
+                "price": 537500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air 15 inch M3 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 410500.0,
+        "max_price": 410500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-15-inch-m3",
+        "variants": [
+            {
+                "id": 26,
+                "price": 410500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M4",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 0.0,
+        "max_price": 0.0,
+        "in_stock": false,
+        "url": "https://luxuryx.lk/mac-mini-m4-chip",
+        "variants": [
+            {
+                "id": "single_95",
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M5 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 574500.0,
+        "max_price": 714500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1027,
+                "price": 574500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1026,
+                "price": 581500.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1028,
+                "price": 604000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1029,
+                "price": 604000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1030,
+                "price": 686000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1031,
+                "price": 686000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1285,
+                "price": 708500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1284,
+                "price": 714500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M5 Pro Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 764000.0,
+        "max_price": 1021000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka",
+        "variants": [
+            {
+                "id": 1247,
+                "price": 764000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1248,
+                "price": 764000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1286,
+                "price": 939000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1287,
+                "price": 939000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1288,
+                "price": 1021000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1289,
+                "price": 1021000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch (M5 Pro)",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 939000.0,
+        "max_price": 1143000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1237,
+                "price": 939000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1238,
+                "price": 939000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1239,
+                "price": 1143000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1240,
+                "price": 1143000.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch M5 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1396500.0,
+        "max_price": 1550000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka",
+        "variants": [
+            {
+                "id": 1241,
+                "price": 1396500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1242,
+                "price": 1396500.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1243,
+                "price": 1550000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1244,
+                "price": 1550000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M5 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1286500.0,
+        "max_price": 1286500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka",
+        "variants": [
+            {
+                "id": 1249,
+                "price": 1286500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1250,
+                "price": 1286500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M4 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 533500.0,
+        "max_price": 594500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m4-chip",
+        "variants": [
+            {
+                "id": 123,
+                "price": 533500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 124,
+                "price": 533500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 121,
+                "price": 541500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 122,
+                "price": 541500.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1430,
+                "price": 594500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1431,
+                "price": 594500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M4 Pro Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 689000.0,
+        "max_price": 771000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m4-pro-chip",
+        "variants": [
+            {
+                "id": 125,
+                "price": 689000.0,
+                "quantity": 8,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 126,
+                "price": 689000.0,
+                "quantity": 8,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 127,
+                "price": 771000.0,
+                "quantity": 8,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 128,
+                "price": 771000.0,
+                "quantity": 7,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M4 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 979000.0,
+        "max_price": 979000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m4-max",
+        "variants": [
+            {
+                "id": 129,
+                "price": 979000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 130,
+                "price": 979000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch (M4 Pro)",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 761000.0,
+        "max_price": 1212000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-inch-m4-pro",
+        "variants": [
+            {
+                "id": 137,
+                "price": 761000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 138,
+                "price": 761000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 139,
+                "price": 927000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 140,
+                "price": 927000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 143,
+                "price": 1074500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 144,
+                "price": 1074500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 141,
+                "price": 1212000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 142,
+                "price": 1212000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch (M4 Max)",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1176000.0,
+        "max_price": 1437500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-inch-m4-max",
+        "variants": [
+            {
+                "id": 145,
+                "price": 1176000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 146,
+                "price": 1176000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 147,
+                "price": 1437500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 148,
+                "price": 1437500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch M3 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 821500.0,
+        "max_price": 821500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-inch-m3-max",
+        "variants": [
+            {
+                "id": 135,
+                "price": 821500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 136,
+                "price": 821500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M3 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 817000.0,
+        "max_price": 817000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m3-max",
+        "variants": [
+            {
+                "id": 119,
+                "price": 817000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 120,
+                "price": 817000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "1 TB",
+                    "color": "Space Gray"
+                }
+            }
+        ]
+    },
+    {
+        "title": "iMac M4",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 599000.0,
+        "max_price": 766000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/imac-m4",
+        "variants": [
+            {
+                "id": 149,
+                "price": 599000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 150,
+                "price": 599000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Green"
+                }
+            },
+            {
+                "id": 151,
+                "price": 599000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Pink"
+                }
+            },
+            {
+                "id": 152,
+                "price": 599000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Purple"
+                }
+            },
+            {
+                "id": 153,
+                "price": 599000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 154,
+                "price": 599000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Orange"
+                }
+            },
+            {
+                "id": 155,
+                "price": 599000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Yellow"
+                }
+            },
+            {
+                "id": 156,
+                "price": 684000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 157,
+                "price": 684000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Green"
+                }
+            },
+            {
+                "id": 158,
+                "price": 684000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Pink"
+                }
+            },
+            {
+                "id": 159,
+                "price": 684000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Purple"
+                }
+            },
+            {
+                "id": 160,
+                "price": 684000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 161,
+                "price": 684000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Orange"
+                }
+            },
+            {
+                "id": 162,
+                "price": 684000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Yellow"
+                }
+            },
+            {
+                "id": 163,
+                "price": 725000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 164,
+                "price": 725000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Green"
+                }
+            },
+            {
+                "id": 165,
+                "price": 766000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Pink"
+                }
+            },
+            {
+                "id": 166,
+                "price": 766000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Purple"
+                }
+            },
+            {
+                "id": 167,
+                "price": 766000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 168,
+                "price": 766000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Orange"
+                }
+            },
+            {
+                "id": 169,
+                "price": 766000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Yellow"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M4 Pro",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 418500.0,
+        "max_price": 573000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-mini-m4-pro",
+        "variants": [
+            {
+                "id": 308,
+                "price": 418500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 307,
+                "price": 573000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Mac Studio M2 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 797500.0,
+        "max_price": 797500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/apple-mac-studio-m2-max",
+        "variants": [
+            {
+                "id": 309,
+                "price": 797500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "32 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Mac Studio M3 Ultra",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1340000.0,
+        "max_price": 1340000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-studio-m3-price",
+        "variants": [
+            {
+                "id": 554,
+                "price": 1340000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "96 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Mac Studio M4 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 740500.0,
+        "max_price": 740500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-studio-m4-max-price",
+        "variants": [
+            {
+                "id": 553,
+                "price": 740500.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
     }
 ]
