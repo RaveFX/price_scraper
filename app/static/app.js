@@ -8,6 +8,7 @@ const state = {
         brand: '',
         model: '',
         shop: '',
+        category: 'Android',
         inStockOnly: false,
         sortBy: 'name-asc'
     },
@@ -87,8 +88,7 @@ function setupEventListeners() {
     DOM.navItems.forEach(item => {
         item.addEventListener('click', (e) => {
             e.preventDefault();
-            const tabId = item.getAttribute('data-tab');
-            switchTab(tabId);
+            switchTab(item);
         });
     });
     
@@ -142,17 +142,16 @@ function setupEventListeners() {
 }
 
 // Switch Navigation Tabs
-function switchTab(tabId) {
-    state.activeTab = tabId;
+function switchTab(item) {
+    // Remove active from all sidebar items
+    DOM.navItems.forEach(el => el.classList.remove('active'));
+    item.classList.add('active');
     
-    // Update sidebar items
-    DOM.navItems.forEach(item => {
-        if (item.getAttribute('data-tab') === tabId) {
-            item.classList.add('active');
-        } else {
-            item.classList.remove('active');
-        }
-    });
+    const tabId = item.getAttribute('data-tab');
+    const category = item.getAttribute('data-category');
+    
+    state.filters.category = category || '';
+    state.activeTab = tabId;
     
     // Update tab panes
     DOM.tabPanes.forEach(pane => {
@@ -162,6 +161,17 @@ function switchTab(tabId) {
             pane.classList.remove('active');
         }
     });
+    
+    if (tabId === 'catalog') {
+        state.filters.brand = '';
+        state.filters.model = '';
+        DOM.brandFilter.value = '';
+        DOM.modelFilter.value = '';
+        
+        populateBrandDropdown();
+        populateModelDropdown();
+        renderProductsGrid();
+    }
 }
 
 // Fetch Stats API
@@ -194,16 +204,8 @@ async function fetchStats() {
         
         DOM.statLastUpdate.textContent = formatDate(data.latest_date);
         
-        // Populate Brand drop down filter
-        const originalValue = DOM.brandFilter.value;
-        DOM.brandFilter.innerHTML = '<option value="">All Brands</option>';
-        data.brands.sort().forEach(brand => {
-            const opt = document.createElement('option');
-            opt.value = brand;
-            opt.textContent = brand;
-            DOM.brandFilter.appendChild(opt);
-        });
-        DOM.brandFilter.value = originalValue;
+        // Populate Brand drop down filter dynamically based on category
+        populateBrandDropdown();
         
         // Populate Shop drop down filter
         const originalShopValue = DOM.shopFilter.value;
@@ -231,6 +233,7 @@ async function fetchProducts() {
         if (!response.ok) throw new Error("Product load failed");
         
         state.products = await response.json();
+        populateBrandDropdown();
         populateModelDropdown();
         renderProductsGrid();
     } catch (e) {
@@ -248,12 +251,43 @@ async function fetchProducts() {
     }
 }
 
+// Populate the dynamic Brand selection dropdown list based on category
+function populateBrandDropdown() {
+    const originalValue = DOM.brandFilter.value;
+    DOM.brandFilter.innerHTML = '<option value="">All Brands</option>';
+    
+    let filteredProducts = state.products;
+    if (state.filters.category) {
+        filteredProducts = filteredProducts.filter(p => p.category.toLowerCase() === state.filters.category.toLowerCase());
+    }
+    
+    // Get unique brand names
+    const brands = Array.from(new Set(filteredProducts.map(p => p.brand))).sort();
+    
+    brands.forEach(brand => {
+        const opt = document.createElement('option');
+        opt.value = brand;
+        opt.textContent = brand;
+        DOM.brandFilter.appendChild(opt);
+    });
+    
+    if (brands.includes(originalValue)) {
+        DOM.brandFilter.value = originalValue;
+    } else {
+        state.filters.brand = '';
+        DOM.brandFilter.value = '';
+    }
+}
+
 // Populate the dynamic Model selection dropdown list
 function populateModelDropdown() {
     const originalValue = DOM.modelFilter.value;
     DOM.modelFilter.innerHTML = '<option value="">All Models</option>';
     
     let filteredProducts = state.products;
+    if (state.filters.category) {
+        filteredProducts = filteredProducts.filter(p => p.category.toLowerCase() === state.filters.category.toLowerCase());
+    }
     if (state.filters.brand) {
         filteredProducts = filteredProducts.filter(p => p.brand.toLowerCase() === state.filters.brand.toLowerCase());
     }
@@ -296,14 +330,17 @@ function renderProductsGrid() {
         // Shop selector check
         const matchShop = !state.filters.shop || p.variants.some(v => v.shop_prices.some(sp => sp.shop === state.filters.shop));
         
-        return matchSearch && matchBrand && matchModel && matchShop;
+        // Category check
+        const matchCategory = !state.filters.category || p.category.toLowerCase() === state.filters.category.toLowerCase();
+        
+        return matchSearch && matchBrand && matchModel && matchShop && matchCategory;
     });
     
     // Render list
     if (filtered.length === 0) {
         DOM.productsGrid.innerHTML = `
             <div class="glass-panel" style="grid-column: 1/-1; padding: 60px 40px; text-align: center; color: var(--text-secondary);">
-                <i class="fa-solid fa-mobile-screen" style="font-size: 2.5rem; color: var(--text-muted); margin-bottom: 16px;"></i>
+                <i class="fa-solid fa-magnifying-glass" style="font-size: 2.5rem; color: var(--text-muted); margin-bottom: 16px;"></i>
                 <h4>No tracking products match your active filters</h4>
                 <p style="color: var(--text-muted); margin-top: 6px;">Try adjusting search text or resetting brand selection.</p>
             </div>

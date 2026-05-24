@@ -3,14 +3,14 @@ from scrapers.luxuryx_scraper import LuxuryXScraper
 from scrapers.simplytek_scraper import SimplyTekScraper
 from scrapers.gqmobiles_scraper import GQMobilesScraper
 from scrapers.lifemobile_scraper import LifeMobileScraper
-from scrapers.smartmobile_scraper import SmartMobileScraper
+# from scrapers.smartmobile_scraper import SmartMobileScraper
 
 SCRAPERS = {
     "luxuryx": LuxuryXScraper,
     "simplytek": SimplyTekScraper,
     "gqmobiles": GQMobilesScraper,
     "lifemobile": LifeMobileScraper,
-    "smartmobile": SmartMobileScraper
+    # "smartmobile": SmartMobileScraper
 }
 
 def get_scraper(name: str) -> BaseScraper:
