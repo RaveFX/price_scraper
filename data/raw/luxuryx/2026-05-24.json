@@ -220,7 +220,7 @@
             {
                 "id": 1351,
                 "price": 304500.0,
-                "quantity": 5,
+                "quantity": 4,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -836,7 +836,7 @@
             {
                 "id": 1340,
                 "price": 0.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -1488,14 +1488,14 @@
         "title": "MacBook Neo",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 243000.0,
-        "max_price": 283000.0,
+        "min_price": 231000.0,
+        "max_price": 265000.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-neo-price-in-sri-lanka",
         "variants": [
             {
                 "id": 1251,
-                "price": 243000.0,
+                "price": 231000.0,
                 "quantity": 7,
                 "in_stock": true,
                 "specifications": {
@@ -1506,7 +1506,7 @@
             },
             {
                 "id": 1252,
-                "price": 243000.0,
+                "price": 231000.0,
                 "quantity": 9,
                 "in_stock": true,
                 "specifications": {
@@ -1517,7 +1517,7 @@
             },
             {
                 "id": 1253,
-                "price": 243000.0,
+                "price": 231000.0,
                 "quantity": 8,
                 "in_stock": true,
                 "specifications": {
@@ -1528,7 +1528,7 @@
             },
             {
                 "id": 1254,
-                "price": 243000.0,
+                "price": 231000.0,
                 "quantity": 10,
                 "in_stock": true,
                 "specifications": {
@@ -1539,7 +1539,7 @@
             },
             {
                 "id": 1255,
-                "price": 283000.0,
+                "price": 265000.0,
                 "quantity": 9,
                 "in_stock": true,
                 "specifications": {
@@ -1550,7 +1550,7 @@
             },
             {
                 "id": 1256,
-                "price": 283000.0,
+                "price": 265000.0,
                 "quantity": 9,
                 "in_stock": true,
                 "specifications": {
@@ -1561,7 +1561,7 @@
             },
             {
                 "id": 1257,
-                "price": 283000.0,
+                "price": 265000.0,
                 "quantity": 6,
                 "in_stock": true,
                 "specifications": {
@@ -1572,7 +1572,7 @@
             },
             {
                 "id": 1258,
-                "price": 283000.0,
+                "price": 265000.0,
                 "quantity": 9,
                 "in_stock": true,
                 "specifications": {
@@ -1587,15 +1587,15 @@
         "title": "MacBook Air 13 inch M5 Chip",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 385000.0,
+        "min_price": 373000.0,
         "max_price": 551500.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka",
         "variants": [
             {
                 "id": 1259,
-                "price": 385000.0,
-                "quantity": 11,
+                "price": 373000.0,
+                "quantity": 10,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -1604,19 +1604,8 @@
                 }
             },
             {
-                "id": 1260,
-                "price": 385000.0,
-                "quantity": 14,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "16 GB",
-                    "storage": "512 GB",
-                    "color": "Silver"
-                }
-            },
-            {
                 "id": 1261,
-                "price": 385000.0,
+                "price": 373000.0,
                 "quantity": 15,
                 "in_stock": true,
                 "specifications": {
@@ -1627,13 +1616,24 @@
             },
             {
                 "id": 1262,
-                "price": 385000.0,
+                "price": 373000.0,
                 "quantity": 13,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
                     "storage": "512 GB",
                     "color": "MidNight"
+                }
+            },
+            {
+                "id": 1260,
+                "price": 379000.0,
+                "quantity": 14,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
                 }
             },
             {
@@ -1730,14 +1730,14 @@
         "title": "MacBook Air 15 inch M5 Chip",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 439000.0,
+        "min_price": 435000.0,
         "max_price": 618500.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch",
         "variants": [
             {
                 "id": 1271,
-                "price": 439000.0,
+                "price": 435000.0,
                 "quantity": 10,
                 "in_stock": true,
                 "specifications": {
@@ -1748,7 +1748,7 @@
             },
             {
                 "id": 1272,
-                "price": 439000.0,
+                "price": 435000.0,
                 "quantity": 10,
                 "in_stock": true,
                 "specifications": {
@@ -1759,7 +1759,7 @@
             },
             {
                 "id": 1273,
-                "price": 439000.0,
+                "price": 435000.0,
                 "quantity": 10,
                 "in_stock": true,
                 "specifications": {
@@ -1770,7 +1770,7 @@
             },
             {
                 "id": 1274,
-                "price": 439000.0,
+                "price": 435000.0,
                 "quantity": 10,
                 "in_stock": true,
                 "specifications": {

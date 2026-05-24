@@ -242,28 +242,6 @@
         ]
     },
     {
-        "title": "Xiaomi Redmi 15C 5G Smartphone",
-        "brand": "Xiaomi",
-        "category": "Android",
-        "min_price": 52999.0,
-        "max_price": 52999.0,
-        "in_stock": true,
-        "url": "https://www.simplytek.lk/products/xiaomi-redmi-15c-5g-smartphone",
-        "variants": [
-            {
-                "id": "51679533826367",
-                "price": 52999.0,
-                "quantity": 5,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "4 GB",
-                    "storage": "Standard",
-                    "color": "Black"
-                }
-            }
-        ]
-    },
-    {
         "title": "Oscal Flat 2C Smartphone",
         "brand": "Other",
         "category": "Android",
@@ -279,6 +257,28 @@
                 "in_stock": true,
                 "specifications": {
                     "ram": "3 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi 15C 5G Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 52999.0,
+        "max_price": 52999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-15c-5g-smartphone",
+        "variants": [
+            {
+                "id": "51679533826367",
+                "price": 52999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
                     "storage": "Standard",
                     "color": "Black"
                 }

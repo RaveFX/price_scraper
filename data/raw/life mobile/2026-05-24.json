@@ -92,7 +92,7 @@
         "brand": "Google",
         "category": "Android",
         "min_price": 159500.0,
-        "max_price": 167990.0,
+        "max_price": 159500.0,
         "in_stock": true,
         "url": "https://lifemobile.lk/product-category/mobile-phones/google/",
         "variants": [
@@ -104,17 +104,6 @@
                 "specifications": {
                     "ram": "8 GB",
                     "storage": "128 GB",
-                    "color": "Standard"
-                }
-            },
-            {
-                "id": "life_googlepixel10a8gbram",
-                "price": 167990.0,
-                "quantity": 5,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "256 GB",
                     "color": "Standard"
                 }
             }
@@ -534,7 +523,7 @@
         "min_price": 27990.0,
         "max_price": 27990.0,
         "in_stock": true,
-        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "url": "https://lifemobile.lk/product-category/mobile-phones/oscal-mobile-phones/",
         "variants": [
             {
                 "id": "life_oscalflat2c4g3gbram6",
@@ -652,14 +641,14 @@
         "title": "Xiaomi Redmi Note 15 4G",
         "brand": "Xiaomi",
         "category": "Android",
-        "min_price": 63500.0,
-        "max_price": 63500.0,
+        "min_price": 68990.0,
+        "max_price": 68990.0,
         "in_stock": true,
         "url": "https://lifemobile.lk/product-category/mobile-phones/",
         "variants": [
             {
                 "id": "life_xiaomiredminote154g8",
-                "price": 63500.0,
+                "price": 68990.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -818,6 +807,17 @@
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_softlogicmaxaiplus4g",
+                "price": 42999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
                     "storage": "128 GB",
                     "color": "Standard"
                 }
