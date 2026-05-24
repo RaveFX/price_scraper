@@ -1,6 +1,6 @@
-# SmartPrice | Price Scraper & Analytics Dashboard
+# GadgetGauge | Price Scraper & Analytics Dashboard
 
-SmartPrice is a premium, modular price scraping and analytics dashboard built using **Python, Pandas, FastAPI, and Vanilla HTML/CSS/JS**. 
+GadgetGauge is a premium, modular price scraping and analytics dashboard built using **Python, Pandas, FastAPI, and Vanilla HTML/CSS/JS**. 
 
 It is designed to automatically crawl online stores daily, record item prices and variants (RAM, Storage, Color), parse and structure the historical logs using Pandas, and present a modern, glassmorphic analytics dashboard. The dashboard tracks price trends over time and compares prices side-by-side across different shops to help users make informed purchasing decisions.
 
@@ -74,7 +74,7 @@ To track accurate price trends, schedule the scraper to execute once every day.
 ### Windows (Task Scheduler)
 1. Search for **Task Scheduler** in the Windows Start menu and open it.
 2. Click **Create Basic Task...** in the Actions panel.
-3. Enter a Name (e.g., `SmartPriceScraper`) and Description, then click **Next**.
+3. Enter a Name (e.g., `GadgetGaugeScraper`) and Description, then click **Next**.
 4. Choose **Daily** and set the time you want it to run (e.g., `22:00:00`), then click **Next**.
 5. Set the Action to **Start a program**, then click **Next**.
 6. In **Program/script**, enter `python` (or the absolute path to your python executable, e.g. `C:\Users\...\AppData\Local\Programs\Python\Python312\python.exe`).

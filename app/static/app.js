@@ -141,16 +141,45 @@ function setupEventListeners() {
     });
 }
 
-// Switch Navigation Tabs
-function switchTab(item) {
-    // Remove active from all sidebar items
-    DOM.navItems.forEach(el => el.classList.remove('active'));
-    item.classList.add('active');
+// Switch Navigation Tabs (Supports both DOM elements and string tab IDs)
+function switchTab(target) {
+    let activeItem = null;
+    let tabId = '';
+    let category = '';
     
-    const tabId = item.getAttribute('data-tab');
-    const category = item.getAttribute('data-category');
+    if (typeof target === 'string') {
+        tabId = target;
+        // Find the nav-item that corresponds to this tabId
+        activeItem = Array.from(DOM.navItems).find(el => {
+            const elTab = el.getAttribute('data-tab');
+            const elCat = el.getAttribute('data-category');
+            if (tabId === 'catalog') {
+                // Default to Android smartphones if catalog is requested by string
+                return elTab === 'catalog' && elCat === 'Android';
+            }
+            return elTab === tabId;
+        });
+        if (activeItem) {
+            category = activeItem.getAttribute('data-category') || '';
+        }
+    } else if (target && target.nodeType) {
+        activeItem = target;
+        tabId = activeItem.getAttribute('data-tab');
+        category = activeItem.getAttribute('data-category') || '';
+    }
     
-    state.filters.category = category || '';
+    if (!tabId) return;
+    
+    // Update sidebar items (strictly set the clicked/targeted item as active)
+    DOM.navItems.forEach(el => {
+        if (el === activeItem) {
+            el.classList.add('active');
+        } else {
+            el.classList.remove('active');
+        }
+    });
+    
+    state.filters.category = category;
     state.activeTab = tabId;
     
     // Update tab panes
@@ -258,7 +287,7 @@ function populateBrandDropdown() {
     
     let filteredProducts = state.products;
     if (state.filters.category) {
-        filteredProducts = filteredProducts.filter(p => p.category.toLowerCase() === state.filters.category.toLowerCase());
+        filteredProducts = filteredProducts.filter(p => p.category && p.category.toLowerCase() === state.filters.category.toLowerCase());
     }
     
     // Get unique brand names
@@ -286,10 +315,10 @@ function populateModelDropdown() {
     
     let filteredProducts = state.products;
     if (state.filters.category) {
-        filteredProducts = filteredProducts.filter(p => p.category.toLowerCase() === state.filters.category.toLowerCase());
+        filteredProducts = filteredProducts.filter(p => p.category && p.category.toLowerCase() === state.filters.category.toLowerCase());
     }
     if (state.filters.brand) {
-        filteredProducts = filteredProducts.filter(p => p.brand.toLowerCase() === state.filters.brand.toLowerCase());
+        filteredProducts = filteredProducts.filter(p => p.brand && p.brand.toLowerCase() === state.filters.brand.toLowerCase());
     }
     
     // Distinct sorted titles/models
@@ -331,7 +360,7 @@ function renderProductsGrid() {
         const matchShop = !state.filters.shop || p.variants.some(v => v.shop_prices.some(sp => sp.shop === state.filters.shop));
         
         // Category check
-        const matchCategory = !state.filters.category || p.category.toLowerCase() === state.filters.category.toLowerCase();
+        const matchCategory = !state.filters.category || (p.category && p.category.toLowerCase() === state.filters.category.toLowerCase());
         
         return matchSearch && matchBrand && matchModel && matchShop && matchCategory;
     });
