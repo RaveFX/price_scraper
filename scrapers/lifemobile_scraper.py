@@ -3,7 +3,13 @@ import logging
 from bs4 import BeautifulSoup
 from typing import List, Dict, Any
 from scrapers.base_scraper import BaseScraper
-from playwright.sync_api import sync_playwright
+PLAYWRIGHT_AVAILABLE = False
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    pass
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -51,6 +57,10 @@ class LifeMobileScraper(BaseScraper):
         return {"ram": ram, "storage": storage, "color": color}
 
     def scrape(self) -> List[Dict[str, Any]]:
+        if not PLAYWRIGHT_AVAILABLE:
+            logger.error("Playwright library is not installed or available on this system. Skipping Life Mobile crawler.")
+            return []
+            
         # Settle category URL
         current_url = f"{self.base_url}/product-category/mobile-phones/"
         products_dict = {}
