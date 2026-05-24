@@ -116,9 +116,17 @@ class SmartMobileScraper(BaseScraper):
                     try:
                         from playwright.sync_api import sync_playwright
                         with sync_playwright() as p:
-                            browser = p.chromium.launch(headless=True)
-                            context = browser.new_context(user_agent=headers["User-Agent"])
+                            browser = p.chromium.launch(
+                                headless=True,
+                                args=["--disable-blink-features=AutomationControlled", "--no-sandbox"]
+                            )
+                            context = browser.new_context(
+                                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+                                viewport={"width": 1920, "height": 1080},
+                                locale="en-US"
+                            )
                             page = context.new_page()
+                            page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
                             page.goto(current_url, wait_until="domcontentloaded", timeout=30000)
                             page.wait_for_timeout(5000)
                             html_content = page.content()
