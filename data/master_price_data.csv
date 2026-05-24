@@ -825,6 +825,138 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-05-24,Life Mobile,xiaomi_redmi_note_15,Xiaomi Redmi Note 15 4G,Xiaomi,Android,8 GB,256 GB,Standard,63500.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-05-24,Life Mobile,xiaomi_redmi_note_15,Xiaomi Redmi Note 15 5G,Xiaomi,Android,6 GB,128 GB,Standard,86990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-05-24,Life Mobile,xiaomi_redmi_note_15_company_warranty,Xiaomi Redmi Note 15 4G – Company Warranty,Xiaomi,Android,8 GB,256 GB,Standard,79990.0,True,https://lifemobile.lk/product-category/mobile-phones/
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,blue,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Green,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Pink,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Purple,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Silver,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Orange,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Yellow,599000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,blue,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Green,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Pink,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Purple,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Silver,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Orange,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Yellow,684000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,blue,725000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Green,725000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Pink,766000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Purple,766000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Silver,766000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Orange,766000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Yellow,766000.0,True,https://luxuryx.lk/imac-m4
+2026-05-24,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,Standard,Standard,Standard,0.0,False,https://luxuryx.lk/mac-mini-m4-chip
+2026-05-24,LuxuryX,apple_mac_mini_m4_pro,Mac Mini M4 Pro,Apple,Macbook,16 GB,512 GB,Silver,418500.0,True,https://luxuryx.lk/mac-mini-m4-pro
+2026-05-24,LuxuryX,apple_mac_mini_m4_pro,Mac Mini M4 Pro,Apple,Macbook,24 GB,512 GB,Silver,573000.0,True,https://luxuryx.lk/mac-mini-m4-pro
+2026-05-24,LuxuryX,apple_mac_studio_m2_max,Apple Mac Studio M2 Max,Apple,Macbook,32 GB,512 GB,Silver,797500.0,True,https://luxuryx.lk/apple-mac-studio-m2-max
+2026-05-24,LuxuryX,apple_mac_studio_m3_ultra,Apple Mac Studio M3 Ultra,Apple,Macbook,96 GB,1 TB,Silver,1340000.0,True,https://luxuryx.lk/mac-studio-m3-price
+2026-05-24,LuxuryX,apple_mac_studio_m4_max,Apple Mac Studio M4 Max,Apple,Macbook,36 GB,512 GB,Silver,740500.0,True,https://luxuryx.lk/mac-studio-m4-max-price
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,256 GB,blue,373500.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,256 GB,MidNight,373500.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,256 GB,StarLight,373500.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,256 GB,Silver,373500.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,512 GB,blue,377500.0,False,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,512 GB,MidNight,377500.0,False,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,512 GB,StarLight,377500.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,16 GB,512 GB,Silver,377500.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,24 GB,512 GB,blue,491000.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,24 GB,512 GB,MidNight,491000.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,24 GB,512 GB,StarLight,491000.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m4_chip,MacBook Air 13 inch M4 Chip,Apple,Macbook,24 GB,512 GB,Silver,491000.0,True,https://luxuryx.lk/macbook-air-m4
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,385000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,385000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,385000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,MidNight,385000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Sky-Blue,455500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,455500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,StarLight,455500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,MidNight,455500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Sky-Blue,551500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,551500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,StarLight,551500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,MidNight,551500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m3_chip,MacBook Air 15 inch M3 Chip,Apple,Macbook,24 GB,512 GB,Silver,410500.0,True,https://luxuryx.lk/macbook-air-15-inch-m3
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,439000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,439000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,439000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,MidNight,439000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Sky-Blue,526000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,526000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,StarLight,526000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,MidNight,526000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,618500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,StarLight,618500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,MidNight,618500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Sky-Blue,618500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,256 GB,blue,407000.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,256 GB,Silver,407000.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,256 GB,StarLight,407000.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,256 GB,MidNight,407000.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,512 GB,blue,459500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,512 GB,Silver,459500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,512 GB,StarLight,459500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,16 GB,512 GB,MidNight,459500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,24 GB,512 GB,blue,537500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,24 GB,512 GB,Silver,537500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,24 GB,512 GB,StarLight,537500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_air_m4_chip_15_inch,MacBook Air M4 Chip 15 inch,Apple,Macbook,24 GB,512 GB,MidNight,537500.0,True,https://luxuryx.lk/macbook-air-m4-15inch-price
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Silver,243000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Blush,243000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Indigo,243000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Citrus,243000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Silver,283000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Blush,283000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Indigo,283000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Citrus,283000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m3_max,MacBook Pro 14 inch M3 Max,Apple,Macbook,36 GB,1 TB,Silver,817000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m3-max
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m3_max,MacBook Pro 14 inch M3 Max,Apple,Macbook,36 GB,1 TB,Space Gray,817000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m3-max
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_chip,MacBook Pro 14 inch M4 Chip,Apple,Macbook,16 GB,1 TB,Silver,533500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_chip,MacBook Pro 14 inch M4 Chip,Apple,Macbook,16 GB,1 TB,Space Balck,533500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_chip,MacBook Pro 14 inch M4 Chip,Apple,Macbook,16 GB,512 GB,Silver,541500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_chip,MacBook Pro 14 inch M4 Chip,Apple,Macbook,16 GB,512 GB,Space Balck,541500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_chip,MacBook Pro 14 inch M4 Chip,Apple,Macbook,24 GB,1 TB,Silver,594500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_chip,MacBook Pro 14 inch M4 Chip,Apple,Macbook,24 GB,1 TB,Space Balck,594500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_max,MacBook Pro 14 inch M4 Max,Apple,Macbook,36 GB,1 TB,Silver,979000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-max
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_max,MacBook Pro 14 inch M4 Max,Apple,Macbook,36 GB,1 TB,Space Balck,979000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-max
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_pro_chip,MacBook Pro 14 inch M4 Pro Chip,Apple,Macbook,24 GB,512 GB,Silver,689000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-pro-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_pro_chip,MacBook Pro 14 inch M4 Pro Chip,Apple,Macbook,24 GB,512 GB,Space Balck,689000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-pro-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_pro_chip,MacBook Pro 14 inch M4 Pro Chip,Apple,Macbook,24 GB,1 TB,Silver,771000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-pro-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m4_pro_chip,MacBook Pro 14 inch M4 Pro Chip,Apple,Macbook,24 GB,1 TB,Space Balck,771000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m4-pro-chip
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Space Balck,574500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,581500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,604000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Space Balck,604000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Space Balck,708500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,714500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_max,MacBook Pro 14 inch M5 Max,Apple,Macbook,36 GB,2 TB,Silver,1286500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_max,MacBook Pro 14 inch M5 Max,Apple,Macbook,36 GB,2 TB,Space Balck,1286500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,1 TB,Silver,764000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,1 TB,Space Balck,764000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,2 TB,Silver,1021000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,2 TB,Space Balck,1021000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m3_max,MacBook Pro 16 inch M3 Max,Apple,Macbook,36 GB,1 TB,Silver,821500.0,True,https://luxuryx.lk/macbook-pro-16-inch-m3-max
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m3_max,MacBook Pro 16 inch M3 Max,Apple,Macbook,36 GB,1 TB,Space Balck,821500.0,True,https://luxuryx.lk/macbook-pro-16-inch-m3-max
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_max,MacBook Pro 16 inch (M4 Max),Apple,Macbook,36 GB,1 TB,Silver,1176000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-max
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_max,MacBook Pro 16 inch (M4 Max),Apple,Macbook,36 GB,1 TB,Space Balck,1176000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-max
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_max,MacBook Pro 16 inch (M4 Max),Apple,Macbook,48 GB,1 TB,Silver,1437500.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-max
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_max,MacBook Pro 16 inch (M4 Max),Apple,Macbook,48 GB,1 TB,Space Balck,1437500.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-max
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,24 GB,512 GB,Silver,761000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,24 GB,512 GB,Space Balck,761000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,48 GB,512 GB,Silver,927000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,48 GB,512 GB,Space Balck,927000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,36 GB,1 TB,Silver,1074500.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,36 GB,1 TB,Space Balck,1074500.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,48 GB,1 TB,Silver,1212000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m4_pro,MacBook Pro 16 inch (M4 Pro),Apple,Macbook,48 GB,1 TB,Space Balck,1212000.0,True,https://luxuryx.lk/macbook-pro-16-inch-m4-pro
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,36 GB,2 TB,Silver,1396500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,36 GB,2 TB,Space Balck,1396500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,48 GB,2 TB,Silver,1550000.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,48 GB,2 TB,Space Balck,1550000.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,24 GB,1 TB,Silver,939000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,24 GB,1 TB,Space Balck,939000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,1 TB,Silver,1143000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-05-24,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,1 TB,Space Balck,1143000.0,False,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
 2026-05-24,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Obsidian,245000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
 2026-05-24,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Indigo,245000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
 2026-05-24,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Frost,245000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
