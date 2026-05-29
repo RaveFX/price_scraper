@@ -1,0 +1,354 @@
+[
+    {
+        "title": "Apple iPhone 17e With Apple 20W USB C Adapter",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 214900.0,
+        "max_price": 214900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/apple-iphone-17e-with-apple-20w-usb-c-adapter",
+        "variants": [
+            {
+                "id": "gq_apple-iphone-17e-with-apple-20w-usb-c-adapter_min",
+                "price": 214900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 20",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 40900.0,
+        "max_price": 40900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/infinix-smart-20",
+        "variants": [
+            {
+                "id": "gq_infinix-smart-20_min",
+                "price": 40900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung S24",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 139900.0,
+        "max_price": 199900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/samsung-s24-5g",
+        "variants": [
+            {
+                "id": "gq_samsung-s24-5g_min",
+                "price": 139900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_samsung-s24-5g_max",
+                "price": 199900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 8A",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 109900.0,
+        "max_price": 129900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/google-pixel-8a-5g",
+        "variants": [
+            {
+                "id": "gq_google-pixel-8a-5g_min",
+                "price": 109900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_google-pixel-8a-5g_max",
+                "price": 129900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9 Pro XL",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 209900.0,
+        "max_price": 289900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/google-pixel-9-pro-xl-5g",
+        "variants": [
+            {
+                "id": "gq_google-pixel-9-pro-xl-5g_min",
+                "price": 209900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_google-pixel-9-pro-xl-5g_max",
+                "price": 289900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple iPhone 16",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 225900.0,
+        "max_price": 269900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/apple-iphone-16",
+        "variants": [
+            {
+                "id": "gq_apple-iphone-16_min",
+                "price": 225900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_apple-iphone-16_max",
+                "price": 269900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 14T Pro",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 179900.0,
+        "max_price": 179900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/xiaomi-14t-pro-5g",
+        "variants": [
+            {
+                "id": "gq_xiaomi-14t-pro-5g_min",
+                "price": 179900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung S25 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 285900.0,
+        "max_price": 349900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/samsung-s25-ultra-5g",
+        "variants": [
+            {
+                "id": "gq_samsung-s25-ultra-5g_min",
+                "price": 285900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_samsung-s25-ultra-5g_max",
+                "price": 349900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 15 Ultra 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 329900.0,
+        "max_price": 329900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/xiaomi-15-ultra-5g",
+        "variants": [
+            {
+                "id": "gq_xiaomi-15-ultra-5g_min",
+                "price": 329900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung A36",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 69900.0,
+        "max_price": 99900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/samsung-a36-5g",
+        "variants": [
+            {
+                "id": "gq_samsung-a36-5g_min",
+                "price": 69900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_samsung-a36-5g_max",
+                "price": 99900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung A26",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 59900.0,
+        "max_price": 79900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/samsung-a26-5g",
+        "variants": [
+            {
+                "id": "gq_samsung-a26-5g_min",
+                "price": 59900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_samsung-a26-5g_max",
+                "price": 79900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9a",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 135900.0,
+        "max_price": 149900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/google-pixel-9a-5g",
+        "variants": [
+            {
+                "id": "gq_google-pixel-9a-5g_min",
+                "price": 135900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_google-pixel-9a-5g_max",
+                "price": 149900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    }
+]
