@@ -1,0 +1,299 @@
+[
+    {
+        "title": "Nothing Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 139900.0,
+        "max_price": 139900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/nothing-phone-4a",
+        "variants": [
+            {
+                "id": "gq_nothing-phone-4a_min",
+                "price": 139900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung F17 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 64900.0,
+        "max_price": 66900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/samsung-f17-5g",
+        "variants": [
+            {
+                "id": "gq_samsung-f17-5g_min",
+                "price": 64900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_samsung-f17-5g_max",
+                "price": 66900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung A37 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 105900.0,
+        "max_price": 125900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/samsung-a37-5g",
+        "variants": [
+            {
+                "id": "gq_samsung-a37-5g_min",
+                "price": 105900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_samsung-a37-5g_max",
+                "price": 125900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "POCO C71",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 49900.0,
+        "max_price": 49900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/poco-c71",
+        "variants": [
+            {
+                "id": "gq_poco-c71_min",
+                "price": 49900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "POCO C85",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 59900.0,
+        "max_price": 59900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/poco-c85",
+        "variants": [
+            {
+                "id": "gq_poco-c85_min",
+                "price": 59900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17T Pro",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 289900.0,
+        "max_price": 289900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/xiaomi-17t-pro",
+        "variants": [
+            {
+                "id": "gq_xiaomi-17t-pro_min",
+                "price": 289900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17T",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 249900.0,
+        "max_price": 249900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/xiaomi-17t",
+        "variants": [
+            {
+                "id": "gq_xiaomi-17t_min",
+                "price": 249900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17 Ultra",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 429900.0,
+        "max_price": 479900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/xiaomi-17-ultra",
+        "variants": [
+            {
+                "id": "gq_xiaomi-17-ultra_min",
+                "price": 429900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_xiaomi-17-ultra_max",
+                "price": 479900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 319900.0,
+        "max_price": 319900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/xiaomi-17",
+        "variants": [
+            {
+                "id": "gq_xiaomi-17_min",
+                "price": 319900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Blackview Wave 7C",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 41900.0,
+        "max_price": 41900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/blackview-wave-7c",
+        "variants": [
+            {
+                "id": "gq_blackview-wave-7c_min",
+                "price": 41900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple iPhone 17e With Apple 20W USB C Adapter",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 214900.0,
+        "max_price": 214900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/apple-iphone-17e-with-apple-20w-usb-c-adapter",
+        "variants": [
+            {
+                "id": "gq_apple-iphone-17e-with-apple-20w-usb-c-adapter_min",
+                "price": 214900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 20",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 40900.0,
+        "max_price": 40900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/infinix-smart-20",
+        "variants": [
+            {
+                "id": "gq_infinix-smart-20_min",
+                "price": 40900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    }
+]
