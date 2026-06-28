@@ -1,0 +1,1344 @@
+[
+    {
+        "title": "Xiaomi Redmi A5 Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 32999.0,
+        "max_price": 32999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-a5-smartphone",
+        "variants": [
+            {
+                "id": "50935129014591",
+                "price": 32999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi 15C Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 49999.0,
+        "max_price": 49999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-15c-smartphone",
+        "variants": [
+            {
+                "id": "51322922041663",
+                "price": 49999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A07 4G Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 44999.0,
+        "max_price": 44999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-a07-4g-smartphone",
+        "variants": [
+            {
+                "id": "51303306166591",
+                "price": 44999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Gray"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor Play 10 4G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 31999.0,
+        "max_price": 31999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-play10-4g-smartphone",
+        "variants": [
+            {
+                "id": "51643591196991",
+                "price": 31999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix HOT 60i Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 59999.0,
+        "max_price": 59999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-hot-60i-smartphone",
+        "variants": [
+            {
+                "id": "52869488083263",
+                "price": 59999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR X6C 4G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 54999.0,
+        "max_price": 54999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x6c-4g-smartphone",
+        "variants": [
+            {
+                "id": "51536615211327",
+                "price": 54999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X5C 4G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 39999.0,
+        "max_price": 39999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x5c-4g-smartphone",
+        "variants": [
+            {
+                "id": "52905931178303",
+                "price": 39999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X5C Plus 4G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 46999.0,
+        "max_price": 46999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x5c-plus-4g-smartphone",
+        "variants": [
+            {
+                "id": "51547766554943",
+                "price": 46999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Flat 2C Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 30999.0,
+        "max_price": 30999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oscal-flat-2c-smartphone",
+        "variants": [
+            {
+                "id": "52349702177087",
+                "price": 30999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi 15C 5G Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 55999.0,
+        "max_price": 55999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-15c-5g-smartphone",
+        "variants": [
+            {
+                "id": "51679533826367",
+                "price": 55999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-tel A12 Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 3499.0,
+        "max_price": 3499.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-a12-feature-phone",
+        "variants": [
+            {
+                "id": "53669972443455",
+                "price": 3499.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR X7D 4G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 73999.0,
+        "max_price": 73999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x7d-4g-smartphone",
+        "variants": [
+            {
+                "id": "52371666305343",
+                "price": 73999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Redmi Note 15 5G Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 97999.0,
+        "max_price": 97999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/redmi-note-15-5g-smartphone",
+        "variants": [
+            {
+                "id": "52240063856959",
+                "price": 97999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X9D 5G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 169999.0,
+        "max_price": 169999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x9d-5g-smartphone",
+        "variants": [
+            {
+                "id": "52264255029567",
+                "price": 169999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Honor Choice Watch 2I Smart watch"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Redmi Note 15 Pro+ 5G Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 139999.0,
+        "max_price": 139999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/redmi-note-15-pro-5g-smartphone",
+        "variants": [
+            {
+                "id": "52240097116479",
+                "price": 139999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Brown"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26 | S26+ Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 343499.0,
+        "max_price": 343499.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-s26-s26-smartphone",
+        "variants": [
+            {
+                "id": "52359600767295",
+                "price": 343499.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Purple"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus Nord CE5 Smartphone",
+        "brand": "OnePlus",
+        "category": "Android",
+        "min_price": 132749.0,
+        "max_price": 132749.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oneplus-nord-ce5-smartphone",
+        "variants": [
+            {
+                "id": "51453501735231",
+                "price": 132749.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Alcatel 1021 Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 5999.0,
+        "max_price": 5999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/alcatel-1021-feature-phone",
+        "variants": [
+            {
+                "id": "53854376788287",
+                "price": 5999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Mi 17T Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 224999.0,
+        "max_price": 224999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-17t-smartphone",
+        "variants": [
+            {
+                "id": "53690392543551",
+                "price": 224999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Purple"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 20 Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 48999.0,
+        "max_price": 48999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-smart-20-smartphone",
+        "variants": [
+            {
+                "id": "53043398771007",
+                "price": 48999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Aspor A601 Neckband"
+                }
+            }
+        ]
+    },
+    {
+        "title": "TCL 605 SmartPhone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 49999.0,
+        "max_price": 49999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/tcl-605-smartphone-8gb-ram-256gb",
+        "variants": [
+            {
+                "id": "52879453618495",
+                "price": 49999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "TCL 60 NxtPaper SmartPhone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 74999.0,
+        "max_price": 74999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/tcl-60-nxtpaper-8gb-ram-256gb-rom",
+        "variants": [
+            {
+                "id": "52879454077247",
+                "price": 74999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "TCL Tab 10L Gen3 10.1″ LTE",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 49999.0,
+        "max_price": 49999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/tcl-tab-10l-gen3-10-1-lte-4gb-ram-64gb",
+        "variants": [
+            {
+                "id": "52879202353471",
+                "price": 49999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26 Ultra Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 549999.0,
+        "max_price": 549999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-s26-ultra-smartphone",
+        "variants": [
+            {
+                "id": "52359611023679",
+                "price": 549999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Galaxy Buds Core + Galaxy Watch Fit 3"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A06 Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 35499.0,
+        "max_price": 35499.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-a06-smart-phone",
+        "variants": [
+            {
+                "id": "49734916374847",
+                "price": 35499.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi 14C Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 37999.0,
+        "max_price": 37999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-14c-smartphone",
+        "variants": [
+            {
+                "id": "49871695708479",
+                "price": 37999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "BTS H102 Dual Sim Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 3799.0,
+        "max_price": 3799.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/bts-h102-dual-sim-feature-phone",
+        "variants": [
+            {
+                "id": "50186752557375",
+                "price": 3799.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi 13C Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 41999.0,
+        "max_price": 41999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-13c-smartphone",
+        "variants": [
+            {
+                "id": "48611663118655",
+                "price": 41999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus Nord CE 3 Lite 5G Smartphone",
+        "brand": "OnePlus",
+        "category": "Android",
+        "min_price": 79999.0,
+        "max_price": 79999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oneplus-nord-ce-3-lite-5g-8gb-ram-256gb-rom",
+        "variants": [
+            {
+                "id": "46624638009663",
+                "price": 79999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Lake Green"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-Tel T26 Pro Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 3999.0,
+        "max_price": 3999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-t26-pro-feature-phone",
+        "variants": [
+            {
+                "id": "50433024295231",
+                "price": 3999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-TEL T04 Pro Mobile Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 4999.0,
+        "max_price": 4999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-t04-pro-mobile-phone",
+        "variants": [
+            {
+                "id": "49647895216447",
+                "price": 4999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-TEL A8 Buddy Mobile Phone - Black",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 3499.0,
+        "max_price": 3499.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-a7-buddy-mobile-phone-black",
+        "variants": [
+            {
+                "id": "46624646824255",
+                "price": 3499.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-tel G1 Mobile Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 6999.0,
+        "max_price": 6999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-g1-mobile-phone",
+        "variants": [
+            {
+                "id": "47583822151999",
+                "price": 6999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 10 Plus Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 37999.0,
+        "max_price": 37999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-smart-10-plus-smartphone",
+        "variants": [
+            {
+                "id": "51625030353215",
+                "price": 37999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix HOT 60 Pro Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 64999.0,
+        "max_price": 64999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-hot-60-pro-smartphone-1",
+        "variants": [
+            {
+                "id": "51624980644159",
+                "price": 64999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi 15 Smartphone",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 60999.0,
+        "max_price": 60999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/xiaomi-redmi-15-smartphone",
+        "variants": [
+            {
+                "id": "51547586232639",
+                "price": 60999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-Tel S10 Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 4499.0,
+        "max_price": 4499.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-s10-feature-phone",
+        "variants": [
+            {
+                "id": "51451838726463",
+                "price": 4499.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-Tel T45 Plus Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 4999.0,
+        "max_price": 4999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-t45-plus-mobile-phone",
+        "variants": [
+            {
+                "id": "51039952666943",
+                "price": 4999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-Tel T24 Pro Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 3999.0,
+        "max_price": 3999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-t24-pro-feature-phone",
+        "variants": [
+            {
+                "id": "51451831419199",
+                "price": 3999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "E-tel GFORCE G2 Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 7499.0,
+        "max_price": 7499.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/e-tel-gforce-g2-feature-phone",
+        "variants": [
+            {
+                "id": "53669979160895",
+                "price": 7499.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix HOT 60 Pro+ Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 77999.0,
+        "max_price": 77999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-hot-60-pro-smartphone",
+        "variants": [
+            {
+                "id": "51624974713151",
+                "price": 77999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Infinix XBUDS 3 Lite Earbuds"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 10 HD Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 24999.0,
+        "max_price": 24999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-smart-10-hd-smartphone",
+        "variants": [
+            {
+                "id": "51625033892159",
+                "price": 24999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "2 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR 200 Smart 5G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 69999.0,
+        "max_price": 69999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-200-smart-5g-smartphone-1",
+        "variants": [
+            {
+                "id": "51600541843775",
+                "price": 69999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Green"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR X7D 5G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 74999.0,
+        "max_price": 74999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x7d-5g-smartphone",
+        "variants": [
+            {
+                "id": "51592565326143",
+                "price": 74999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy M17 5G Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 78299.0,
+        "max_price": 78299.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-m17-5g-smartphone",
+        "variants": [
+            {
+                "id": "51584974422335",
+                "price": 78299.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A17 5G Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 92399.0,
+        "max_price": 92399.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-a17-5g-smartphone",
+        "variants": [
+            {
+                "id": "51584961544511",
+                "price": 92399.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Blue"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR X7c Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 65999.0,
+        "max_price": 65999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x7c-smartphone",
+        "variants": [
+            {
+                "id": "51536618586431",
+                "price": 65999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Green"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Tiger 12 Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 54999.0,
+        "max_price": 54999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oscal-tiger-12-smartphone",
+        "variants": [
+            {
+                "id": "52965366399295",
+                "price": 54999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Purple"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus Nord 5 Smartphone",
+        "brand": "OnePlus",
+        "category": "Android",
+        "min_price": 191289.0,
+        "max_price": 191289.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oneplus-nord-5-smartphone",
+        "variants": [
+            {
+                "id": "51668697088319",
+                "price": 191289.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A25 5G Smartphone",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 69999.0,
+        "max_price": 69999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/samsung-galaxy-a25-5g",
+        "variants": [
+            {
+                "id": "49078815097151",
+                "price": 69999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Flat 2 Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 41999.0,
+        "max_price": 41999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oscal-flat-2-smartphone",
+        "variants": [
+            {
+                "id": "52965052711231",
+                "price": 41999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Modern 8 Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 42999.0,
+        "max_price": 42999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oscal-modern-8-smartphone",
+        "variants": [
+            {
+                "id": "52349705158975",
+                "price": 42999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Blue"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR Magic 7 Pro Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 379999.0,
+        "max_price": 379999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-magic7-pro-smartphone",
+        "variants": [
+            {
+                "id": "51634470388031",
+                "price": 379999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Note 50 Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 109999.0,
+        "max_price": 109999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-note-50-smartphone",
+        "variants": [
+            {
+                "id": "51621341069631",
+                "price": 109999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR 400 Pro 5G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 199999.0,
+        "max_price": 199999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-400-pro-5g-smartphone",
+        "variants": [
+            {
+                "id": "51600555835711",
+                "price": 199999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR 400 5G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 149999.0,
+        "max_price": 149999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-400-5g-smartphone",
+        "variants": [
+            {
+                "id": "51600546824511",
+                "price": 149999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR X9c Smart 5G Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 99999.0,
+        "max_price": 99999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x9c-smart-5g-smartphone",
+        "variants": [
+            {
+                "id": "51536701325631",
+                "price": 99999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Green"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR X8c Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 89999.0,
+        "max_price": 89999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-x8c-smartphone",
+        "variants": [
+            {
+                "id": "51536675537215",
+                "price": 89999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HONOR 200 Smartphone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 164999.0,
+        "max_price": 164999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/honor-200-smartphone",
+        "variants": [
+            {
+                "id": "52350930977087",
+                "price": 164999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus 13R Smartphone (5G)",
+        "brand": "OnePlus",
+        "category": "Android",
+        "min_price": 199899.0,
+        "max_price": 199899.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oneplus-13r-smartphone",
+        "variants": [
+            {
+                "id": "51440554246463",
+                "price": 199899.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus 13 Smartphone",
+        "brand": "OnePlus",
+        "category": "Android",
+        "min_price": 214999.0,
+        "max_price": 214999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/oneplus-13-smartphone",
+        "variants": [
+            {
+                "id": "51440465019199",
+                "price": 214999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "Standard",
+                    "color": "Blue"
+                }
+            }
+        ]
+    }
+]
