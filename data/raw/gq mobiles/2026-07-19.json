@@ -1,0 +1,90 @@
+[
+    {
+        "title": "OnePlus Nord CE6",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 129900.0,
+        "max_price": 129900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/oneplus-nord-ce6",
+        "variants": [
+            {
+                "id": "gq_oneplus-nord-ce6_min",
+                "price": 129900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Hot 70",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 63900.0,
+        "max_price": 76900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/infinix-hot-70",
+        "variants": [
+            {
+                "id": "gq_infinix-hot-70_min",
+                "price": 63900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_infinix-hot-70_max",
+                "price": 76900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "REDMAGIC 11S Pro",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 319900.0,
+        "max_price": 359900.0,
+        "in_stock": true,
+        "url": "https://gqmobiles.lk/product/redmagic-11s-pro",
+        "variants": [
+            {
+                "id": "gq_redmagic-11s-pro_min",
+                "price": 319900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "gq_redmagic-11s-pro_max",
+                "price": 359900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    }
+]
