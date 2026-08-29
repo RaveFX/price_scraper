@@ -495,7 +495,7 @@
             {
                 "id": 1326,
                 "price": 175500.0,
-                "quantity": 4,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -539,7 +539,7 @@
             {
                 "id": 575,
                 "price": 200500.0,
-                "quantity": 6,
+                "quantity": 5,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -1056,7 +1056,7 @@
             {
                 "id": 1420,
                 "price": 84500.0,
-                "quantity": 3,
+                "quantity": 2,
                 "in_stock": true,
                 "specifications": {
                     "ram": "6 GB",
@@ -1529,7 +1529,7 @@
             {
                 "id": 1254,
                 "price": 245000.0,
-                "quantity": 9,
+                "quantity": 8,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -1598,14 +1598,14 @@
         "title": "MacBook Air 13 inch M5 Chip",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 464000.0,
+        "min_price": 479000.0,
         "max_price": 631500.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka",
         "variants": [
             {
                 "id": 1259,
-                "price": 464000.0,
+                "price": 479000.0,
                 "quantity": 7,
                 "in_stock": true,
                 "specifications": {
@@ -1616,7 +1616,7 @@
             },
             {
                 "id": 1260,
-                "price": 464000.0,
+                "price": 479000.0,
                 "quantity": 9,
                 "in_stock": true,
                 "specifications": {
@@ -1627,7 +1627,7 @@
             },
             {
                 "id": 1261,
-                "price": 464000.0,
+                "price": 479000.0,
                 "quantity": 10,
                 "in_stock": true,
                 "specifications": {
@@ -1638,7 +1638,7 @@
             },
             {
                 "id": 1262,
-                "price": 464000.0,
+                "price": 479000.0,
                 "quantity": 6,
                 "in_stock": true,
                 "specifications": {
@@ -1752,55 +1752,11 @@
         "title": "MacBook Air 15 inch M5 Chip",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 509000.0,
+        "min_price": 559000.0,
         "max_price": 723500.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch",
         "variants": [
-            {
-                "id": 1271,
-                "price": 509000.0,
-                "quantity": 6,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "16 GB",
-                    "storage": "512 GB",
-                    "color": "Sky-Blue"
-                }
-            },
-            {
-                "id": 1272,
-                "price": 509000.0,
-                "quantity": 9,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "16 GB",
-                    "storage": "512 GB",
-                    "color": "Silver"
-                }
-            },
-            {
-                "id": 1273,
-                "price": 509000.0,
-                "quantity": 10,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "16 GB",
-                    "storage": "512 GB",
-                    "color": "StarLight"
-                }
-            },
-            {
-                "id": 1274,
-                "price": 509000.0,
-                "quantity": 9,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "16 GB",
-                    "storage": "512 GB",
-                    "color": "MidNight"
-                }
-            },
             {
                 "id": 1275,
                 "price": 559000.0,
@@ -1842,6 +1798,50 @@
                 "specifications": {
                     "ram": "16 GB",
                     "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1271,
+                "price": 564000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1272,
+                "price": 564000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1273,
+                "price": 564000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1274,
+                "price": 564000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
                     "color": "MidNight"
                 }
             },
