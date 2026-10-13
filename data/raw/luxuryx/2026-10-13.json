@@ -1,5 +1,82 @@
 [
     {
+        "title": "Redmi Note 15 Pro+ 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 129000.0,
+        "max_price": 129000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/redmi-note-15-pro-5g",
+        "variants": [
+            {
+                "id": 2045,
+                "price": 129000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 2046,
+                "price": 129000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Brown"
+                }
+            },
+            {
+                "id": 2047,
+                "price": 129000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Redmi Note 15 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 100000.0,
+        "max_price": 100000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/xiaomi-redmi-note-15-5g",
+        "variants": [
+            {
+                "id": 2048,
+                "price": 100000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 2049,
+                "price": 100000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Green"
+                }
+            }
+        ]
+    },
+    {
         "title": "Samsung Galaxy Z Fold 8",
         "brand": "Samsung",
         "category": "Android",
@@ -33,7 +110,7 @@
             {
                 "id": 1215,
                 "price": 307000.0,
-                "quantity": 1,
+                "quantity": 8,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -44,7 +121,7 @@
             {
                 "id": 1216,
                 "price": 307000.0,
-                "quantity": 1,
+                "quantity": 8,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -55,7 +132,7 @@
             {
                 "id": 1217,
                 "price": 307000.0,
-                "quantity": 1,
+                "quantity": 7,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -110,7 +187,7 @@
             {
                 "id": 1227,
                 "price": 359000.0,
-                "quantity": 1,
+                "quantity": 6,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -121,7 +198,7 @@
             {
                 "id": 1228,
                 "price": 359000.0,
-                "quantity": 1,
+                "quantity": 5,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -352,7 +429,7 @@
             {
                 "id": 1354,
                 "price": 247000.0,
-                "quantity": 1,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -363,8 +440,8 @@
             {
                 "id": 1355,
                 "price": 247000.0,
-                "quantity": 0,
-                "in_stock": false,
+                "quantity": 7,
+                "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
                     "storage": "256 GB",
@@ -418,7 +495,7 @@
             {
                 "id": 478,
                 "price": 263000.0,
-                "quantity": 1,
+                "quantity": 7,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -506,7 +583,7 @@
             {
                 "id": 1326,
                 "price": 177000.0,
-                "quantity": 1,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -517,7 +594,7 @@
             {
                 "id": 1327,
                 "price": 177000.0,
-                "quantity": 1,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -616,7 +693,7 @@
             {
                 "id": 1133,
                 "price": 43000.0,
-                "quantity": 2,
+                "quantity": 9,
                 "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
@@ -627,8 +704,8 @@
             {
                 "id": 1134,
                 "price": 43000.0,
-                "quantity": 0,
-                "in_stock": false,
+                "quantity": 10,
+                "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
                     "storage": "64 GB",
@@ -649,7 +726,7 @@
             {
                 "id": 1136,
                 "price": 57500.0,
-                "quantity": 1,
+                "quantity": 10,
                 "in_stock": true,
                 "specifications": {
                     "ram": "6 GB",
@@ -660,7 +737,7 @@
             {
                 "id": 1137,
                 "price": 57500.0,
-                "quantity": 1,
+                "quantity": 11,
                 "in_stock": true,
                 "specifications": {
                     "ram": "6 GB",
@@ -671,7 +748,7 @@
             {
                 "id": 1138,
                 "price": 57500.0,
-                "quantity": 1,
+                "quantity": 11,
                 "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
@@ -1078,6 +1155,50 @@
         ]
     },
     {
+        "title": "Redmi Note 15",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 0.0,
+        "max_price": 0.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/xiaomi-redmi-note-15-price-sri-lanka",
+        "variants": [
+            {
+                "id": 1373,
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1374,
+                "price": 0.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Purple"
+                }
+            },
+            {
+                "id": 1375,
+                "price": 0.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            }
+        ]
+    },
+    {
         "title": "Honor 600 Lite",
         "brand": "Honor",
         "category": "Android",
@@ -1375,7 +1496,7 @@
             {
                 "id": 1418,
                 "price": 49000.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
@@ -1408,138 +1529,6 @@
             {
                 "id": 1330,
                 "price": 68000.0,
-                "quantity": 3,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "128 GB",
-                    "color": "Gray"
-                }
-            }
-        ]
-    },
-    {
-        "title": "Samsung Galaxy Tab S10 Lite with S Pen",
-        "brand": "Samsung Tab",
-        "category": "Android",
-        "min_price": 129000.0,
-        "max_price": 129000.0,
-        "in_stock": true,
-        "url": "https://luxuryx.lk/samsung-galaxy-tab-s10-lite-price-sri-lanka",
-        "variants": [
-            {
-                "id": 1422,
-                "price": 129000.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "6 GB",
-                    "storage": "128 GB",
-                    "color": "Gray"
-                }
-            },
-            {
-                "id": 1689,
-                "price": 129000.0,
-                "quantity": 2,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "6 GB",
-                    "storage": "128 GB",
-                    "color": "red"
-                }
-            },
-            {
-                "id": 1690,
-                "price": 129000.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "6 GB",
-                    "storage": "128 GB",
-                    "color": "Silver"
-                }
-            }
-        ]
-    },
-    {
-        "title": "Samsung Galaxy A36 5G",
-        "brand": "Samsung",
-        "category": "Android",
-        "min_price": 85500.0,
-        "max_price": 88500.0,
-        "in_stock": true,
-        "url": "https://luxuryx.lk/samsung-galaxy-a36-price-sri-lanka",
-        "variants": [
-            {
-                "id": 2030,
-                "price": 85500.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "6 GB",
-                    "storage": "128 GB",
-                    "color": "Black"
-                }
-            },
-            {
-                "id": 1363,
-                "price": 88500.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "128 GB",
-                    "color": "Black"
-                }
-            }
-        ]
-    },
-    {
-        "title": "Samsung Galaxy Tab S10 FE",
-        "brand": "Samsung Tab",
-        "category": "Android",
-        "min_price": 0.0,
-        "max_price": 169000.0,
-        "in_stock": true,
-        "url": "https://luxuryx.lk/samsung-galaxy-tab-s10-fe-price-sri-lanka",
-        "variants": [
-            {
-                "id": 1334,
-                "price": 0.0,
-                "quantity": 0,
-                "in_stock": false,
-                "specifications": {
-                    "ram": "12 GB",
-                    "storage": "256 GB",
-                    "color": "blue"
-                }
-            },
-            {
-                "id": 1331,
-                "price": 169000.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "128 GB",
-                    "color": "blue"
-                }
-            },
-            {
-                "id": 1332,
-                "price": 169000.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "128 GB",
-                    "color": "Silver"
-                }
-            },
-            {
-                "id": 1333,
-                "price": 169000.0,
                 "quantity": 1,
                 "in_stock": true,
                 "specifications": {
@@ -1554,15 +1543,15 @@
         "title": "MacBook Air 13 inch M5 Chip",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 459000.0,
+        "min_price": 449000.0,
         "max_price": 631500.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka",
         "variants": [
             {
                 "id": 1259,
-                "price": 459000.0,
-                "quantity": 40,
+                "price": 449000.0,
+                "quantity": 38,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -1572,7 +1561,7 @@
             },
             {
                 "id": 1260,
-                "price": 464000.0,
+                "price": 449000.0,
                 "quantity": 1,
                 "in_stock": true,
                 "specifications": {
@@ -1583,8 +1572,8 @@
             },
             {
                 "id": 1261,
-                "price": 464000.0,
-                "quantity": 9,
+                "price": 449000.0,
+                "quantity": 17,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -1594,7 +1583,7 @@
             },
             {
                 "id": 1262,
-                "price": 464000.0,
+                "price": 449000.0,
                 "quantity": 2,
                 "in_stock": true,
                 "specifications": {
@@ -1716,7 +1705,7 @@
             {
                 "id": 1271,
                 "price": 515000.0,
-                "quantity": 6,
+                "quantity": 5,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -1793,7 +1782,7 @@
             {
                 "id": 1278,
                 "price": 615000.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -1859,7 +1848,7 @@
             {
                 "id": 1251,
                 "price": 244000.0,
-                "quantity": 14,
+                "quantity": 15,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -1870,7 +1859,7 @@
             {
                 "id": 1253,
                 "price": 244000.0,
-                "quantity": 5,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -1881,7 +1870,7 @@
             {
                 "id": 1254,
                 "price": 244000.0,
-                "quantity": 10,
+                "quantity": 16,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -1903,7 +1892,7 @@
             {
                 "id": 1255,
                 "price": 279000.0,
-                "quantity": 1,
+                "quantity": 6,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -1925,7 +1914,7 @@
             {
                 "id": 1258,
                 "price": 279000.0,
-                "quantity": 1,
+                "quantity": 6,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -1936,8 +1925,8 @@
             {
                 "id": 1256,
                 "price": 284000.0,
-                "quantity": 0,
-                "in_stock": false,
+                "quantity": 1,
+                "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
                     "storage": "512 GB",
@@ -1991,8 +1980,8 @@
             {
                 "id": 1029,
                 "price": 669000.0,
-                "quantity": 5,
-                "in_stock": true,
+                "quantity": 0,
+                "in_stock": false,
                 "specifications": {
                     "ram": "16 GB",
                     "storage": "1 TB",
@@ -2002,7 +1991,7 @@
             {
                 "id": 1285,
                 "price": 739000.0,
-                "quantity": 6,
+                "quantity": 5,
                 "in_stock": true,
                 "specifications": {
                     "ram": "24 GB",
@@ -2090,7 +2079,7 @@
             {
                 "id": 1248,
                 "price": 829000.0,
-                "quantity": 4,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "24 GB",
@@ -2321,8 +2310,8 @@
             {
                 "id": 304,
                 "price": 289000.0,
-                "quantity": 1,
-                "in_stock": true,
+                "quantity": 0,
+                "in_stock": false,
                 "specifications": {
                     "ram": "16 GB",
                     "storage": "256 GB",
@@ -2445,14 +2434,14 @@
         "title": "MacBook Pro 14 inch M5 Max",
         "brand": "Apple",
         "category": "Macbook",
-        "min_price": 1499500.0,
-        "max_price": 1499500.0,
+        "min_price": 1489000.0,
+        "max_price": 1489000.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka",
         "variants": [
             {
                 "id": 1249,
-                "price": 1499500.0,
+                "price": 1489000.0,
                 "quantity": 1,
                 "in_stock": true,
                 "specifications": {
@@ -2463,7 +2452,7 @@
             },
             {
                 "id": 1250,
-                "price": 1499500.0,
+                "price": 1489000.0,
                 "quantity": 2,
                 "in_stock": true,
                 "specifications": {
@@ -2541,8 +2530,8 @@
             {
                 "id": 1504,
                 "price": 799000.0,
-                "quantity": 1,
-                "in_stock": true,
+                "quantity": 0,
+                "in_stock": false,
                 "specifications": {
                     "ram": "24 GB",
                     "storage": "512 GB",
@@ -2640,7 +2629,7 @@
             {
                 "id": 2029,
                 "price": 0.0,
-                "quantity": 1,
+                "quantity": 2,
                 "in_stock": true,
                 "specifications": {
                     "ram": "",
