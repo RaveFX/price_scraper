@@ -1,0 +1,2378 @@
+[
+    {
+        "title": "Blackview Wave 2C 3+",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 27990.0,
+        "max_price": 27990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/blackview-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_blackviewwave2c39gbr",
+                "price": 27990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "9 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X6e 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 61000.0,
+        "max_price": 61000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx6e4g4gbram128g",
+                "price": 61000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X6D 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 62500.0,
+        "max_price": 62500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx6d5g4gbram128g",
+                "price": 62500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Nova 15 Max 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 113000.0,
+        "max_price": 113000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_huaweinova15max4g8gb",
+                "price": 113000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Nova 14 Pro 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 119990.0,
+        "max_price": 119990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_huaweinova14pro5g12g",
+                "price": 119990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Mate XT Ultimate 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 735000.0,
+        "max_price": 735000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_huaweimatextultimate",
+                "price": 735000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor Magic V6 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 495500.0,
+        "max_price": 495500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honormagicv65g16gbra",
+                "price": 495500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor 600 Lite 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 102500.0,
+        "max_price": 102500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honor600lite5g8gbram",
+                "price": 102500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X7e 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 73500.0,
+        "max_price": 73500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx7e4g6gbram256g",
+                "price": 73500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X7e 4G 6+",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 66000.0,
+        "max_price": 66000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx7e4g66gbram128",
+                "price": 66000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold 8 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 595000.0,
+        "max_price": 752000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxyzfold8u",
+                "price": 752000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_samsunggalaxyzfold8u",
+                "price": 595000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_samsunggalaxyzfold8u",
+                "price": 666500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X8D 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 81500.0,
+        "max_price": 81500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx8d4g8gbram256g",
+                "price": 81500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X7d 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 70000.0,
+        "max_price": 76500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx7d4g8gbram256g",
+                "price": 76500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_honorx7d4g8gbram128g",
+                "price": 70000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oppo Reno 15F 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 148500.0,
+        "max_price": 148500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_opporeno15f5g12gbram",
+                "price": 148500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oppo Reno 15 Pro Max 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 217900.0,
+        "max_price": 217900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_opporeno15promax5g12",
+                "price": 217900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oppo Find X9 Ultra 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 476900.0,
+        "max_price": 476900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oppofindx9ultra5g16g",
+                "price": 476900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oppo Find N6 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 576900.0,
+        "max_price": 576900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oppofindn65g16gbram5",
+                "price": 576900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Vivo Y31D 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 84500.0,
+        "max_price": 84500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_vivoy31d4g6gbram128g",
+                "price": 84500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi A7 Pro 4G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 53999.0,
+        "max_price": 57990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomiredmia7pro4g4g",
+                "price": 57990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_xiaomiredmia7pro4g4g",
+                "price": 53999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor Choice T10 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 37800.0,
+        "max_price": 37800.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorchoicet104g3gbr",
+                "price": 37800.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "uleFone Note 22 4G + Free Charger",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 25999.0,
+        "max_price": 25999.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ulefonenote224g3gbra",
+                "price": 25999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Flip8 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 308500.0,
+        "max_price": 308500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxyzflip85",
+                "price": 308500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26 FE 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 208500.0,
+        "max_price": 208500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxys26fe5g",
+                "price": 208500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple iPhone Duo",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 0.0,
+        "max_price": 0.0,
+        "in_stock": false,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/apple/",
+        "variants": [
+            {
+                "id": "life_appleiphoneduo2tb",
+                "price": 0.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "2 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphoneduo1tb",
+                "price": 0.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphoneduo512gb",
+                "price": 0.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphoneduo256gb",
+                "price": 0.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple iPhone 18 Pro",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 0.0,
+        "max_price": 0.0,
+        "in_stock": false,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/apple/",
+        "variants": [
+            {
+                "id": "life_appleiphone18pro2tb",
+                "price": 0.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "2 TB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple iPhone 18 Pro – E-Sim Version",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 431000.0,
+        "max_price": 645000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_appleiphone18pro1tbe",
+                "price": 645000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphone18pro512g",
+                "price": 531000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphone18pro256g",
+                "price": 431000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple iPhone 18 Pro Max – E-Sim Version",
+        "brand": "Apple",
+        "category": "Android",
+        "min_price": 488000.0,
+        "max_price": 869000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_appleiphone18promax2",
+                "price": 869000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "2 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphone18promax1",
+                "price": 717500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "1 TB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphone18promax5",
+                "price": 583000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_appleiphone18promax2",
+                "price": 488000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A07 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 73500.0,
+        "max_price": 73500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxya075g8g",
+                "price": 73500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oppo A6C 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 62990.0,
+        "max_price": 62990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oppoa6c4g4gbram64gb",
+                "price": 62990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "uleFone Note 23 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 31999.0,
+        "max_price": 31999.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ulefonenote234g3gbra",
+                "price": 31999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "JKOA Classic Dual Sim 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 7990.0,
+        "max_price": 7990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/jkoa/",
+        "variants": [
+            {
+                "id": "life_jkoaclassicdualsim4g",
+                "price": 7990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Note Edge 5G",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 115000.0,
+        "max_price": 115000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_infinixnoteedge5g8gb",
+                "price": 115000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 11 Pro Fold 5G",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 494990.0,
+        "max_price": 586000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/google/",
+        "variants": [
+            {
+                "id": "life_googlepixel11profold",
+                "price": 586000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_googlepixel11profold",
+                "price": 494990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 11 Pro XL 5G",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 353900.0,
+        "max_price": 433000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/google/",
+        "variants": [
+            {
+                "id": "life_googlepixel11proxl5g",
+                "price": 433000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_googlepixel11proxl5g",
+                "price": 353900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 11 5G",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 253900.0,
+        "max_price": 298500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/google/",
+        "variants": [
+            {
+                "id": "life_googlepixel115g12gbr",
+                "price": 298500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_googlepixel115g12gbr",
+                "price": 253900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus 15R 5G – Company Warranty",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 259990.0,
+        "max_price": 259990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oneplus15r5g12gbram2",
+                "price": 259990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus Nord CE 5 5G – Company Warranty",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 139990.0,
+        "max_price": 139990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oneplusnordce55g8gbr",
+                "price": 139990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X7e 4G 6+ – 2 Years Warranty",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 86500.0,
+        "max_price": 86500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx7e4g66gbram128",
+                "price": 86500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Mate 80 Pro 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 224000.0,
+        "max_price": 224000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/huawei/",
+        "variants": [
+            {
+                "id": "life_huaweimate80pro5g16g",
+                "price": 224000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Pura 80 Ultra 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 322000.0,
+        "max_price": 322000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/huawei/",
+        "variants": [
+            {
+                "id": "life_huaweipura80ultra5g1",
+                "price": 322000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Pura 80 Pro 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 241000.0,
+        "max_price": 241000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/huawei/",
+        "variants": [
+            {
+                "id": "life_huaweipura80pro5g12g",
+                "price": 241000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Huawei Pura 90s Pro Max 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 277500.0,
+        "max_price": 277500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/huawei/",
+        "variants": [
+            {
+                "id": "life_huaweipura90spromax5",
+                "price": 277500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X7e Plus 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 90000.0,
+        "max_price": 108500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx7eplus5g8gbram",
+                "price": 108500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_honorx7eplus5g6gbram",
+                "price": 90000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Realme C85 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 74000.0,
+        "max_price": 74000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_realmec854g8gbram256",
+                "price": 74000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor Magic V5 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 364000.0,
+        "max_price": 364000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honormagicv55g12gbra",
+                "price": 364000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor 600 Pro 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 252500.0,
+        "max_price": 252500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honor600pro5g12gbram",
+                "price": 252500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor 600 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 169500.0,
+        "max_price": 169500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honor6005g12gbram256",
+                "price": 169500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17T 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 189000.0,
+        "max_price": 189000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomi17t5g12gbram51",
+                "price": 189000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 11 Pro 5G",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 343900.0,
+        "max_price": 343900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/google/",
+        "variants": [
+            {
+                "id": "life_googlepixel11pro5g12",
+                "price": 343900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Vivo Y11D 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 64900.0,
+        "max_price": 64900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_vivoy11d4g4gbram128g",
+                "price": 64900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Vivo Y05 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 59500.0,
+        "max_price": 509023.75,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_vivoy054g4gbram128gb",
+                "price": 59500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_vivoy054g4gbram64gb",
+                "price": 509023.75,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor 600 Pro 5G – Company Warranty",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 276000.0,
+        "max_price": 299990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honor600pro5g12gbram",
+                "price": 299990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_honor600pro5g12gbram",
+                "price": 276000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ZTE Nubia Air Pro 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 149990.0,
+        "max_price": 149990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ztenubiaairpro5g8gbr",
+                "price": 149990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ZTE nubia Neo 5 GT 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 179990.0,
+        "max_price": 179990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ztenubianeo5gt5g12gb",
+                "price": 179990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Marine 2 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 87990.0,
+        "max_price": 87990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oscalmarine24g6gbram",
+                "price": 87990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Flat 3C Mini 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 29990.0,
+        "max_price": 29990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oscalflat3cmini4g3gb",
+                "price": 29990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "3 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Flat 3C 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 42989.99,
+        "max_price": 48990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oscalflat3c4g4gbram1",
+                "price": 48990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_oscalflat3c4g4gbram6",
+                "price": 42989.99,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Oscal Tiger 8 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 54990.0,
+        "max_price": 54990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oscaltiger85g4gbram1",
+                "price": 54990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi Note 15 Pro Plus 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 117500.0,
+        "max_price": 117500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomiredminote15pro",
+                "price": 117500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ZTE A57 4G 4+",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 46990.0,
+        "max_price": 46990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ztea574g48gbram64gb",
+                "price": 46990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Redmi Note 15 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 91989.99,
+        "max_price": 91989.99,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomiredminote155g8",
+                "price": 91989.99,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Coolpad X100",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 74990.0,
+        "max_price": 74990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/coolpad/",
+        "variants": [
+            {
+                "id": "life_coolpadx1008gbram256",
+                "price": 74990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Tecno Camon 50 Pro 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 131000.0,
+        "max_price": 131000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_tecnocamon50pro4g8gb",
+                "price": 131000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold 8",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 599500.0,
+        "max_price": 599500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxyzfold81",
+                "price": 599500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Motorola Moto G06 Power",
+        "brand": "Motorola",
+        "category": "Android",
+        "min_price": 46990.0,
+        "max_price": 56990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/motorola-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_motorolamotog06power",
+                "price": 56990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_motorolamotog06power",
+                "price": 46990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Poco X8 Pro 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 139500.0,
+        "max_price": 139500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomipocox8pro5g8gb",
+                "price": 139500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ZTE Nubia A77 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 50500.0,
+        "max_price": 50500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ztenubiaa774g4gbram1",
+                "price": 50500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "KXD A07 3+",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 31999.0,
+        "max_price": 31999.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/kxd/",
+        "variants": [
+            {
+                "id": "life_kxda0738gbram32gb",
+                "price": 31999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "32 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Blackview Wave 7C",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 36999.0,
+        "max_price": 41999.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/blackview-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_blackviewwave7c4gbra",
+                "price": 41999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_blackviewwave7c4gbra",
+                "price": 36999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X5d Plus 4G 4+",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 54000.0,
+        "max_price": 54000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx5dplus4g44gbra",
+                "price": 54000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Hot 70 4G",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 69300.0,
+        "max_price": 72500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_infinixhot704g6gbram",
+                "price": 72500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_infinixhot704g4gbram",
+                "price": 69300.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Motorola Moto G35 5G",
+        "brand": "Motorola",
+        "category": "Android",
+        "min_price": 68500.0,
+        "max_price": 68500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/motorola-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_motorolamotog355g8gb",
+                "price": 68500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ZTE Nubia RedMagic 11S Pro 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 386500.0,
+        "max_price": 386500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ztenubiaredmagic11sp",
+                "price": 386500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "OnePlus Nord 6 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 183500.0,
+        "max_price": 183500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_oneplusnord65g12gbra",
+                "price": 183500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A07",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 56990.0,
+        "max_price": 56990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxya076gbr",
+                "price": 56990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 20",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 46500.0,
+        "max_price": 51989.88,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/infinix/",
+        "variants": [
+            {
+                "id": "life_infinixsmart204gbram",
+                "price": 51989.88,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_infinixsmart204gbram",
+                "price": 46500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor 600 5G (COMPANY WARRANTY)",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 199990.0,
+        "max_price": 199990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honor6005g12gbram256",
+                "price": 199990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HMD 102 2G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 7100.0,
+        "max_price": 7100.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_hmd1022g",
+                "price": 7100.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17T 5G – Company Warranty",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 214990.0,
+        "max_price": 214990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomi17t5g12gbram51",
+                "price": 214990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Nokia HMD 105",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 8300.0,
+        "max_price": 8300.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_nokiahmd105",
+                "price": 8300.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Nokia 110 Power",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 8900.0,
+        "max_price": 8900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_nokia110power",
+                "price": 8900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "HMD 100 Keypad Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 6250.0,
+        "max_price": 6250.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_hmd100keypadphone",
+                "price": 6250.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi 17T Pro 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 243000.0,
+        "max_price": 243000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomi17tpro5g12gbra",
+                "price": 243000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "ZTE Blade A56 4G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 42000.0,
+        "max_price": 42000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_ztebladea564g4gbram1",
+                "price": 42000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X9D 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 117500.0,
+        "max_price": 117500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx9d5g12gbram256",
+                "price": 117500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A37 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 102000.0,
+        "max_price": 114000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxya375g12",
+                "price": 114000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            },
+            {
+                "id": "life_samsunggalaxya375g8g",
+                "price": 102000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A57 5G",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 114900.0,
+        "max_price": 114900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_samsunggalaxya575g8g",
+                "price": 114900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor 600 Lite 5G With Honor Choice Headphone Lite",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 150000.0,
+        "max_price": 150000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honor600lite5g12gbra",
+                "price": 150000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Honor X8D 4G With Honor Choice Earbuds X7e",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 109000.0,
+        "max_price": 109000.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_honorx8d4g8gbram256g",
+                "price": 109000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Motorola Moto G57 5G",
+        "brand": "Motorola",
+        "category": "Android",
+        "min_price": 77900.0,
+        "max_price": 77900.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/motorola-mobile-phones/",
+        "variants": [
+            {
+                "id": "life_motorolamotog575g8gb",
+                "price": 77900.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Nothing Phone 2 Pro",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 108500.0,
+        "max_price": 108500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_nothingphone2pro8gbr",
+                "price": 108500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Nothing Phone (3a) Lite 5G",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 112999.0,
+        "max_price": 112999.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_nothingphone3alite5g",
+                "price": 112999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Nothing Phone (4a)",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 169990.0,
+        "max_price": 169990.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_nothingphone4a12gbra",
+                "price": 169990.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Note 60 Pro",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 152500.0,
+        "max_price": 152500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_infinixnote60pro8gbr",
+                "price": 152500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Note 60",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 123499.99,
+        "max_price": 123499.99,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/infinix/",
+        "variants": [
+            {
+                "id": "life_infinixnote608gbram2",
+                "price": 123499.99,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Xiaomi Poco X8 Pro Max 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 190500.0,
+        "max_price": 190500.0,
+        "in_stock": true,
+        "url": "https://lifemobile.lk/product-category/mobile-phones/",
+        "variants": [
+            {
+                "id": "life_xiaomipocox8promax5g",
+                "price": 190500.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Standard"
+                }
+            }
+        ]
+    }
+]
