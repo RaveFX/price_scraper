@@ -1,0 +1,2807 @@
+[
+    {
+        "title": "Samsung Galaxy Z Fold8 Ultra 256GB",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 499000.0,
+        "max_price": 499000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb",
+        "variants": [
+            {
+                "id": 2050,
+                "price": 499000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Violet"
+                }
+            },
+            {
+                "id": 2051,
+                "price": 499000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 2052,
+                "price": 499000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12GB",
+                    "storage": "256GB",
+                    "color": "Graphite"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Tab S10 Lite 5G",
+        "brand": "Samsung Tab",
+        "category": "Android",
+        "min_price": 119000.0,
+        "max_price": 119000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/galaxy-tab-s10-lite-5g",
+        "variants": [
+            {
+                "id": 2078,
+                "price": 119000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6GB",
+                    "storage": "128GB",
+                    "color": "Gray"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Redmi Note 15 Pro 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 103000.0,
+        "max_price": 103000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/redmi-note-15c-pro-5g",
+        "variants": [
+            {
+                "id": 1637,
+                "price": 103000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1643,
+                "price": 103000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Purple"
+                }
+            },
+            {
+                "id": 1644,
+                "price": 103000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy Z Fold 8",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 469000.0,
+        "max_price": 469000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-fold-8",
+        "variants": [
+            {
+                "id": 1704,
+                "price": 469000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 312000.0,
+        "max_price": 556500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1215,
+                "price": 312000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Cobalt Violet"
+                }
+            },
+            {
+                "id": 1216,
+                "price": 312000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 1217,
+                "price": 312000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1218,
+                "price": 312000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 1219,
+                "price": 312000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Silver Shadow"
+                }
+            },
+            {
+                "id": 1220,
+                "price": 312000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Pink Gold"
+                }
+            },
+            {
+                "id": 1226,
+                "price": 362000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Cobalt Violet"
+                }
+            },
+            {
+                "id": 1227,
+                "price": 362000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 1228,
+                "price": 362000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1229,
+                "price": 362000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 1230,
+                "price": 362000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Silver Shadow"
+                }
+            },
+            {
+                "id": 1232,
+                "price": 362000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Pink Gold"
+                }
+            },
+            {
+                "id": 1318,
+                "price": 556500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Cobalt Violet"
+                }
+            },
+            {
+                "id": 1319,
+                "price": 556500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 1320,
+                "price": 556500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1321,
+                "price": 556500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 1322,
+                "price": 556500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1323,
+                "price": 556500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "1 TB",
+                    "color": "Pink Gold"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S25 Ultra",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 272000.0,
+        "max_price": 292000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/sumsung-galaxy-s25-ultra",
+        "variants": [
+            {
+                "id": 476,
+                "price": 272000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Titanium Silverblue"
+                }
+            },
+            {
+                "id": 477,
+                "price": 272000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Titanium Black"
+                }
+            },
+            {
+                "id": 478,
+                "price": 272000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Titanium Gray"
+                }
+            },
+            {
+                "id": 479,
+                "price": 272000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Titanium Whitesilver"
+                }
+            },
+            {
+                "id": 1548,
+                "price": 289000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Titanium Silverblue"
+                }
+            },
+            {
+                "id": 480,
+                "price": 289000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Titanium Gray"
+                }
+            },
+            {
+                "id": 481,
+                "price": 289000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Titanium Black"
+                }
+            },
+            {
+                "id": 1875,
+                "price": 292000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "512 GB",
+                    "color": "Titanium Whitesilver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26+",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 293500.0,
+        "max_price": 293500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-s26-plus-5g",
+        "variants": [
+            {
+                "id": 1491,
+                "price": 293500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1492,
+                "price": 293500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 1493,
+                "price": 293500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1494,
+                "price": 293500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1495,
+                "price": 293500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Cobalt Violet"
+                }
+            },
+            {
+                "id": 1496,
+                "price": 293500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Pink Gold"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S26",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 247000.0,
+        "max_price": 247000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka",
+        "variants": [
+            {
+                "id": 1351,
+                "price": 247000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Cobalt Violet"
+                }
+            },
+            {
+                "id": 1352,
+                "price": 247000.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Pink Gold"
+                }
+            },
+            {
+                "id": 1353,
+                "price": 247000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Silver Shadow"
+                }
+            },
+            {
+                "id": 1354,
+                "price": 247000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1355,
+                "price": 247000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1356,
+                "price": 247000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "White"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S25 FE",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 177000.0,
+        "max_price": 177000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka",
+        "variants": [
+            {
+                "id": 1325,
+                "price": 177000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Navy"
+                }
+            },
+            {
+                "id": 1326,
+                "price": 177000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Jet-Black"
+                }
+            },
+            {
+                "id": 1327,
+                "price": 177000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Ice-Blue"
+                }
+            },
+            {
+                "id": 1328,
+                "price": 177000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "White"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy S25",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 209000.0,
+        "max_price": 209000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/galaxy-s25-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 575,
+                "price": 209000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Mint"
+                }
+            },
+            {
+                "id": 576,
+                "price": 209000.0,
+                "quantity": 16,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Ice-Blue"
+                }
+            },
+            {
+                "id": 577,
+                "price": 209000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Silver-Shadow"
+                }
+            },
+            {
+                "id": 578,
+                "price": 209000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Blue-Black"
+                }
+            },
+            {
+                "id": 1500,
+                "price": 209000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Navy"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A07",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 42000.0,
+        "max_price": 56000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1133,
+                "price": 42000.0,
+                "quantity": 9,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1134,
+                "price": 42000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Violet"
+                }
+            },
+            {
+                "id": 1135,
+                "price": 42000.0,
+                "quantity": 18,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "64 GB",
+                    "color": "Green"
+                }
+            },
+            {
+                "id": 1136,
+                "price": 56000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1137,
+                "price": 56000.0,
+                "quantity": 27,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Violet"
+                }
+            },
+            {
+                "id": 1138,
+                "price": 56000.0,
+                "quantity": 11,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "128 GB",
+                    "color": "Green"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A36",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 83000.0,
+        "max_price": 88000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-a36-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1995,
+                "price": 83000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 1996,
+                "price": 83000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 1997,
+                "price": 83000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "6 GB",
+                    "storage": "128 GB",
+                    "color": "Lavender"
+                }
+            },
+            {
+                "id": 596,
+                "price": 88000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 597,
+                "price": 88000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 598,
+                "price": 88000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "128 GB",
+                    "color": "Lavender"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Samsung Galaxy A37",
+        "brand": "Samsung",
+        "category": "Android",
+        "min_price": 118000.0,
+        "max_price": 124000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/samsung-galaxy-a37-price",
+        "variants": [
+            {
+                "id": 2009,
+                "price": 118000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 2010,
+                "price": 118000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Gray"
+                }
+            },
+            {
+                "id": 2011,
+                "price": 118000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Lavender"
+                }
+            },
+            {
+                "id": 2012,
+                "price": 118000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 2013,
+                "price": 124000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 2014,
+                "price": 124000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Gray"
+                }
+            },
+            {
+                "id": 2015,
+                "price": 124000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Lavender"
+                }
+            },
+            {
+                "id": 2016,
+                "price": 124000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "White"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Redmi Note 15 Pro+ 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 129000.0,
+        "max_price": 129000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/redmi-note-15-pro-5g",
+        "variants": [
+            {
+                "id": 2045,
+                "price": 129000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "blue"
+                }
+            },
+            {
+                "id": 2046,
+                "price": 129000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Brown"
+                }
+            },
+            {
+                "id": 2047,
+                "price": 129000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 11 Pro XL",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 329000.0,
+        "max_price": 329000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/pixel-11-pro-xl-price",
+        "variants": [
+            {
+                "id": 2037,
+                "price": 329000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256GB",
+                    "color": "Olive"
+                }
+            },
+            {
+                "id": 2038,
+                "price": 329000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 2039,
+                "price": 329000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256GB",
+                    "color": "Canyon"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10 Pro XL",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 329000.0,
+        "max_price": 519500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka",
+        "variants": [
+            {
+                "id": 919,
+                "price": 329000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 920,
+                "price": 329000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Jade"
+                }
+            },
+            {
+                "id": 921,
+                "price": 329000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 922,
+                "price": 329000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Moonstone"
+                }
+            },
+            {
+                "id": 923,
+                "price": 406500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 924,
+                "price": 406500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Jade"
+                }
+            },
+            {
+                "id": 925,
+                "price": 406500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 926,
+                "price": 406500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Moonstone"
+                }
+            },
+            {
+                "id": 927,
+                "price": 519500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 928,
+                "price": 519500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Jade"
+                }
+            },
+            {
+                "id": 929,
+                "price": 519500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 930,
+                "price": 519500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Moonstone"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 256500.0,
+        "max_price": 256500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-10-pro",
+        "variants": [
+            {
+                "id": 1559,
+                "price": 256500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Moonstone"
+                }
+            },
+            {
+                "id": 1560,
+                "price": 256500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 1561,
+                "price": 256500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Jade"
+                }
+            },
+            {
+                "id": 1562,
+                "price": 256500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Porcelain"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10 Pro Fold",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 636500.0,
+        "max_price": 731500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 972,
+                "price": 636500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Moonstone"
+                }
+            },
+            {
+                "id": 973,
+                "price": 636500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Jade"
+                }
+            },
+            {
+                "id": 974,
+                "price": 731500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Moonstone"
+                }
+            },
+            {
+                "id": 975,
+                "price": 731500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Jade"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Redmi Note 15 5G",
+        "brand": "Xiaomi",
+        "category": "Android",
+        "min_price": 100000.0,
+        "max_price": 100000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/xiaomi-redmi-note-15-5g",
+        "variants": [
+            {
+                "id": 2048,
+                "price": 100000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Black"
+                }
+            },
+            {
+                "id": 2049,
+                "price": 100000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Green"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 10",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 194000.0,
+        "max_price": 290500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-10-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 964,
+                "price": 194000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 965,
+                "price": 194000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Indigo"
+                }
+            },
+            {
+                "id": 966,
+                "price": 194000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Frost"
+                }
+            },
+            {
+                "id": 967,
+                "price": 194000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Lemongrass"
+                }
+            },
+            {
+                "id": 968,
+                "price": 290500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 969,
+                "price": 290500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Indigo"
+                }
+            },
+            {
+                "id": 970,
+                "price": 290500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Frost"
+                }
+            },
+            {
+                "id": 971,
+                "price": 290500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Lemongrass"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9 Pro XL",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 290500.0,
+        "max_price": 317500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 341,
+                "price": 290500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 343,
+                "price": 290500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 342,
+                "price": 317500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "rose quartz"
+                }
+            },
+            {
+                "id": 344,
+                "price": 317500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Porcelain"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9 Pro",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 274500.0,
+        "max_price": 274500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka",
+        "variants": [
+            {
+                "id": 1312,
+                "price": 274500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 1313,
+                "price": 274500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "rose quartz"
+                }
+            },
+            {
+                "id": 1314,
+                "price": 274500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 1315,
+                "price": 274500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "128 GB",
+                    "color": "Hazel"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9a",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 155000.0,
+        "max_price": 155000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-9a-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1563,
+                "price": 155000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 1564,
+                "price": 155000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Iris"
+                }
+            },
+            {
+                "id": 1565,
+                "price": 155000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 1566,
+                "price": 155000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Pink"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Google Pixel 9",
+        "brand": "Google",
+        "category": "Android",
+        "min_price": 189000.0,
+        "max_price": 239500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/google-pixel-9-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 335,
+                "price": 189000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 336,
+                "price": 189000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "128 GB",
+                    "color": "Porcelain"
+                }
+            },
+            {
+                "id": 337,
+                "price": 239500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Obsidian"
+                }
+            },
+            {
+                "id": 338,
+                "price": 239500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "12 GB",
+                    "storage": "256 GB",
+                    "color": "Porcelain"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air 13 inch M5 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 429000.0,
+        "max_price": 619000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1259,
+                "price": 429000.0,
+                "quantity": 16,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1260,
+                "price": 429000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1261,
+                "price": 429000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1262,
+                "price": 429000.0,
+                "quantity": 8,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1263,
+                "price": 519000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1264,
+                "price": 519000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1265,
+                "price": 519000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1266,
+                "price": 519000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1863,
+                "price": 535000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1267,
+                "price": 619000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1268,
+                "price": 619000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1269,
+                "price": 619000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1270,
+                "price": 619000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Air 15 inch M5 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 499000.0,
+        "max_price": 723500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch",
+        "variants": [
+            {
+                "id": 1271,
+                "price": 499000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1272,
+                "price": 499000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1273,
+                "price": 499000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1274,
+                "price": 499000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1275,
+                "price": 615000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            },
+            {
+                "id": 1276,
+                "price": 615000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1277,
+                "price": 615000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1278,
+                "price": 615000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1280,
+                "price": 723500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1281,
+                "price": 723500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "StarLight"
+                }
+            },
+            {
+                "id": 1282,
+                "price": 723500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "MidNight"
+                }
+            },
+            {
+                "id": 1279,
+                "price": 723500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Sky-Blue"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Neo",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 244000.0,
+        "max_price": 284000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-neo-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1251,
+                "price": 244000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1253,
+                "price": 244000.0,
+                "quantity": 10,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Indigo"
+                }
+            },
+            {
+                "id": 1254,
+                "price": 244000.0,
+                "quantity": 14,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Citrus"
+                }
+            },
+            {
+                "id": 1252,
+                "price": 258000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "256 GB",
+                    "color": "Blush"
+                }
+            },
+            {
+                "id": 1255,
+                "price": 279000.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1257,
+                "price": 279000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Indigo"
+                }
+            },
+            {
+                "id": 1258,
+                "price": 279000.0,
+                "quantity": 6,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Citrus"
+                }
+            },
+            {
+                "id": 1256,
+                "price": 284000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "8 GB",
+                    "storage": "512 GB",
+                    "color": "Blush"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M5 Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 627500.0,
+        "max_price": 897500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1026,
+                "price": 627500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1027,
+                "price": 627500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1028,
+                "price": 669000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1029,
+                "price": 669000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1285,
+                "price": 739000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1284,
+                "price": 759000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1030,
+                "price": 790500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1031,
+                "price": 790500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1599,
+                "price": 897500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "32 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1601,
+                "price": 897500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "32 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M5 Pro Chip",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 825000.0,
+        "max_price": 1106500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka",
+        "variants": [
+            {
+                "id": 1247,
+                "price": 825000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1248,
+                "price": 825000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1286,
+                "price": 1029500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1287,
+                "price": 1029500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1288,
+                "price": 1106500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1289,
+                "price": 1106500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch (M5 Pro)",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 940000.0,
+        "max_price": 1805500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 1237,
+                "price": 940000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1238,
+                "price": 940000.0,
+                "quantity": 3,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1239,
+                "price": 1190000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1240,
+                "price": 1190000.0,
+                "quantity": 4,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "1 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1463,
+                "price": 1320000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1464,
+                "price": 1320000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1465,
+                "price": 1805500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1466,
+                "price": 1805500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M5 Pro",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 659000.0,
+        "max_price": 659000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-mini-m5-pro-price-in-sri-lanka",
+        "variants": [
+            {
+                "id": 2040,
+                "price": 659000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M6",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 359000.0,
+        "max_price": 685000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-mini-m6-price",
+        "variants": [
+            {
+                "id": 2031,
+                "price": 359000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16GB",
+                    "storage": "256GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 2032,
+                "price": 445000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16GB",
+                    "storage": "512GB",
+                    "color": "White"
+                }
+            },
+            {
+                "id": 2033,
+                "price": 685000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24GB",
+                    "storage": "512GB",
+                    "color": "White"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M4",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 289000.0,
+        "max_price": 540500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-mini-m4-chip",
+        "variants": [
+            {
+                "id": 304,
+                "price": 289000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 305,
+                "price": 329000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 306,
+                "price": 540500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Studio Display 27-inch 5K",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 810500.0,
+        "max_price": 892500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/apple-studio-display-sri-lanka",
+        "variants": [
+            {
+                "id": 1505,
+                "price": 810500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "",
+                    "storage": "",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1506,
+                "price": 892500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "",
+                    "storage": "",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 16 inch M5 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1554500.0,
+        "max_price": 1640000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka",
+        "variants": [
+            {
+                "id": 1241,
+                "price": 1554500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1242,
+                "price": 1554500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            },
+            {
+                "id": 1243,
+                "price": 1640000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1244,
+                "price": 1640000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "48 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "MacBook Pro 14 inch M5 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1489000.0,
+        "max_price": 1489000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka",
+        "variants": [
+            {
+                "id": 1249,
+                "price": 1489000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1250,
+                "price": 1489000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "2 TB",
+                    "color": "Space Balck"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M2 Pro",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 525500.0,
+        "max_price": 525500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-mini-m2-pro",
+        "variants": [
+            {
+                "id": 303,
+                "price": 525500.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "iMac M4",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 545000.0,
+        "max_price": 799000.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/imac-m4",
+        "variants": [
+            {
+                "id": 149,
+                "price": 545000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1502,
+                "price": 615000.0,
+                "quantity": 2,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "256 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1503,
+                "price": 749000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 1504,
+                "price": 799000.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Mini M4 Pro",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 475500.0,
+        "max_price": 668500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-mini-m4-pro",
+        "variants": [
+            {
+                "id": 308,
+                "price": 475500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "16 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            },
+            {
+                "id": 307,
+                "price": 668500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "24 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Mac Studio M2 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 862500.0,
+        "max_price": 862500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/apple-mac-studio-m2-max",
+        "variants": [
+            {
+                "id": 309,
+                "price": 862500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "32 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Mac Studio M3 Ultra",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1415500.0,
+        "max_price": 1415500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-studio-m3-price",
+        "variants": [
+            {
+                "id": 554,
+                "price": 1415500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "96 GB",
+                    "storage": "1 TB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Studio M5 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 0.0,
+        "max_price": 0.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-studio-m5-max",
+        "variants": [
+            {
+                "id": 2029,
+                "price": 0.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "",
+                    "storage": "",
+                    "color": "White"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Apple Mac Studio M4 Max",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 1208500.0,
+        "max_price": 1208500.0,
+        "in_stock": true,
+        "url": "https://luxuryx.lk/mac-studio-m4-max-price",
+        "variants": [
+            {
+                "id": 553,
+                "price": 1208500.0,
+                "quantity": 1,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "36 GB",
+                    "storage": "512 GB",
+                    "color": "Silver"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Mac Studio M4 Max CTO",
+        "brand": "Apple",
+        "category": "Macbook",
+        "min_price": 0.0,
+        "max_price": 0.0,
+        "in_stock": false,
+        "url": "https://luxuryx.lk/mac-studio-m4-max-cto",
+        "variants": [
+            {
+                "id": 1864,
+                "price": 0.0,
+                "quantity": 0,
+                "in_stock": false,
+                "specifications": {
+                    "ram": "36GB",
+                    "storage": "1 TB",
+                    "color": "White"
+                }
+            }
+        ]
+    }
+]
