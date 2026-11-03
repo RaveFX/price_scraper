@@ -77,7 +77,7 @@
             {
                 "id": 1215,
                 "price": 312000.0,
-                "quantity": 7,
+                "quantity": 4,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -286,7 +286,7 @@
             {
                 "id": 476,
                 "price": 272000.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -308,7 +308,7 @@
             {
                 "id": 478,
                 "price": 272000.0,
-                "quantity": 4,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "12 GB",
@@ -531,37 +531,15 @@
         "title": "Samsung Galaxy S25 FE",
         "brand": "Samsung",
         "category": "Android",
-        "min_price": 1.0,
+        "min_price": 177000.0,
         "max_price": 177000.0,
         "in_stock": true,
         "url": "https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka",
         "variants": [
             {
-                "id": 2095,
-                "price": 1.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "128 GB",
-                    "color": "Navy"
-                }
-            },
-            {
-                "id": 2096,
-                "price": 1.0,
-                "quantity": 1,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "8 GB",
-                    "storage": "128 GB",
-                    "color": "Black"
-                }
-            },
-            {
                 "id": 1325,
                 "price": 177000.0,
-                "quantity": 4,
+                "quantity": 2,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -682,7 +660,7 @@
             {
                 "id": 1133,
                 "price": 42000.0,
-                "quantity": 7,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
@@ -704,7 +682,7 @@
             {
                 "id": 1135,
                 "price": 42000.0,
-                "quantity": 6,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
@@ -726,7 +704,7 @@
             {
                 "id": 1137,
                 "price": 56000.0,
-                "quantity": 24,
+                "quantity": 23,
                 "in_stock": true,
                 "specifications": {
                     "ram": "6 GB",
@@ -737,7 +715,7 @@
             {
                 "id": 1138,
                 "price": 56000.0,
-                "quantity": 6,
+                "quantity": 4,
                 "in_stock": true,
                 "specifications": {
                     "ram": "4 GB",
@@ -990,7 +968,7 @@
             {
                 "id": 2038,
                 "price": 329000.0,
-                "quantity": 3,
+                "quantity": 4,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -1023,7 +1001,7 @@
             {
                 "id": 919,
                 "price": 319000.0,
-                "quantity": 2,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -2090,7 +2068,7 @@
             {
                 "id": 1251,
                 "price": 242000.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -2101,7 +2079,7 @@
             {
                 "id": 1253,
                 "price": 242000.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -2123,7 +2101,7 @@
             {
                 "id": 1252,
                 "price": 255000.0,
-                "quantity": 3,
+                "quantity": 2,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -2145,7 +2123,7 @@
             {
                 "id": 1257,
                 "price": 279000.0,
-                "quantity": 11,
+                "quantity": 10,
                 "in_stock": true,
                 "specifications": {
                     "ram": "8 GB",
@@ -2211,7 +2189,7 @@
             {
                 "id": 1028,
                 "price": 669000.0,
-                "quantity": 2,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -2222,7 +2200,7 @@
             {
                 "id": 1029,
                 "price": 669000.0,
-                "quantity": 7,
+                "quantity": 6,
                 "in_stock": true,
                 "specifications": {
                     "ram": "16 GB",
@@ -2244,7 +2222,7 @@
             {
                 "id": 1284,
                 "price": 759000.0,
-                "quantity": 2,
+                "quantity": 1,
                 "in_stock": true,
                 "specifications": {
                     "ram": "24 GB",
@@ -2321,7 +2299,7 @@
             {
                 "id": 1248,
                 "price": 825000.0,
-                "quantity": 1,
+                "quantity": 3,
                 "in_stock": true,
                 "specifications": {
                     "ram": "24 GB",

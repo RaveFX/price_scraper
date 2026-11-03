@@ -49103,9 +49103,9 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,Life Mobile,google_pixel_11_pro_xl,Google Pixel 11 Pro XL 5G,Google,Android,12 GB,256 GB,Standard,353900.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,infinix_hot_70,Infinix Hot 70 4G,Infinix,Android,6 GB,128 GB,Standard,72500.0,True,https://lifemobile.lk/product-category/mobile-phones/infinix/
 2026-11-03,Life Mobile,infinix_hot_70,Infinix Hot 70 4G,Infinix,Android,4 GB,128 GB,Standard,69300.0,True,https://lifemobile.lk/product-category/mobile-phones/infinix/
-2026-11-03,Life Mobile,infinix_note_edge,Infinix Note Edge 5G,Infinix,Android,8 GB,128 GB,Standard,115000.0,True,https://lifemobile.lk/product-category/mobile-phones/
+2026-11-03,Life Mobile,infinix_note_edge,Infinix Note Edge 5G,Infinix,Android,8 GB,128 GB,Standard,115000.0,True,https://lifemobile.lk/product-category/mobile-phones/infinix/
 2026-11-03,Life Mobile,infinix_smart_20,Infinix Smart 20,Infinix,Android,4 GB,128 GB,Standard,51989.88,True,https://lifemobile.lk/product-category/mobile-phones/infinix/
-2026-11-03,Life Mobile,motorola_moto_g06_power,Motorola Moto G06 Power,Motorola,Android,4 GB,128 GB,Standard,56990.0,True,https://lifemobile.lk/product-category/mobile-phones/
+2026-11-03,Life Mobile,motorola_moto_g06_power,Motorola Moto G06 Power,Motorola,Android,4 GB,128 GB,Standard,56990.0,True,https://lifemobile.lk/product-category/mobile-phones/motorola-mobile-phones/
 2026-11-03,Life Mobile,motorola_moto_g35,Motorola Moto G35 5G,Motorola,Android,8 GB,128 GB,Standard,68500.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_blackview_wave_2c_3,Blackview Wave 2C 3+,Other,Android,9 GB,32 GB,Standard,25989.99,True,https://lifemobile.lk/product-category/mobile-phones/blackview-mobile-phones/
 2026-11-03,Life Mobile,other_blackview_wave_7c,Blackview Wave 7C,Other,Android,4 GB,128 GB,Standard,41999.0,True,https://lifemobile.lk/product-category/mobile-phones/blackview-mobile-phones/
@@ -49121,6 +49121,7 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,Life Mobile,other_honor_x6d,Honor X6D 5G,Other,Android,4 GB,128 GB,Standard,62500.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_honor_x6e,Honor X6e 4G,Other,Android,4 GB,128 GB,Standard,61000.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_honor_x7d,Honor X7d 4G,Other,Android,8 GB,256 GB,Standard,76500.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
+2026-11-03,Life Mobile,other_honor_x7d,Honor X7d 4G,Other,Android,8 GB,128 GB,Standard,70000.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_honor_x7e,Honor X7e 4G,Other,Android,6 GB,256 GB,Standard,73500.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_honor_x7e_6,Honor X7e 4G 6+,Other,Android,6 GB,128 GB,Standard,66000.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_honor_x7e_6_2_years_warranty,Honor X7e 4G 6+ – 2 Years Warranty,Other,Android,6 GB,128 GB,Standard,86500.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
@@ -49128,12 +49129,12 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,Life Mobile,other_honor_x7e_plus,Honor X7e Plus 5G,Other,Android,6 GB,128 GB,Standard,90000.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_honor_x8d,Honor X8D 4G,Other,Android,8 GB,256 GB,Standard,81500.0,True,https://lifemobile.lk/product-category/mobile-phones/honor-mobile-phones/
 2026-11-03,Life Mobile,other_huawei_mate_80_pro,Huawei Mate 80 Pro 5G,Other,Android,16 GB,512 GB,Standard,224000.0,True,https://lifemobile.lk/product-category/mobile-phones/
-2026-11-03,Life Mobile,other_huawei_mate_xt_ultimate,Huawei Mate XT Ultimate 5G,Other,Android,16 GB,512 GB,Standard,735000.0,True,https://lifemobile.lk/product-category/mobile-phones/
-2026-11-03,Life Mobile,other_huawei_nova_14_pro,Huawei Nova 14 Pro 5G,Other,Android,12 GB,512 GB,Standard,119990.0,True,https://lifemobile.lk/product-category/mobile-phones/huawei/
+2026-11-03,Life Mobile,other_huawei_mate_xt_ultimate,Huawei Mate XT Ultimate 5G,Other,Android,16 GB,512 GB,Standard,727500.0,True,https://lifemobile.lk/product-category/mobile-phones/
+2026-11-03,Life Mobile,other_huawei_nova_14_pro,Huawei Nova 14 Pro 5G,Other,Android,12 GB,512 GB,Standard,119990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_huawei_nova_15_max,Huawei Nova 15 Max 4G,Other,Android,8 GB,256 GB,Standard,113000.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_huawei_pura_80_pro,Huawei Pura 80 Pro 5G,Other,Android,12 GB,512 GB,Standard,241000.0,True,https://lifemobile.lk/product-category/mobile-phones/huawei/
 2026-11-03,Life Mobile,other_huawei_pura_80_ultra,Huawei Pura 80 Ultra 5G,Other,Android,16 GB,512 GB,Standard,322000.0,True,https://lifemobile.lk/product-category/mobile-phones/huawei/
-2026-11-03,Life Mobile,other_huawei_pura_90s_pro_max,Huawei Pura 90s Pro Max 5G,Other,Android,12 GB,512 GB,Standard,277500.0,True,https://lifemobile.lk/product-category/mobile-phones/huawei/
+2026-11-03,Life Mobile,other_huawei_pura_90s_pro_max,Huawei Pura 90s Pro Max 5G,Other,Android,12 GB,512 GB,Standard,277500.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_jkoa_classic,JKOA Classic Dual Sim 4G,Other,Android,Standard,Standard,Standard,7990.0,True,https://lifemobile.lk/product-category/mobile-phones/jkoa/
 2026-11-03,Life Mobile,other_kxd_a07_3,KXD A07 3+,Other,Android,8 GB,32 GB,Standard,31999.0,True,https://lifemobile.lk/product-category/mobile-phones/kxd/
 2026-11-03,Life Mobile,other_oneplus_15r_company_warranty,OnePlus 15R 5G – Company Warranty,Other,Android,12 GB,256 GB,Standard,259990.0,True,https://lifemobile.lk/product-category/mobile-phones/
@@ -49150,6 +49151,7 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,Life Mobile,other_oscal_flat_3c_mini,Oscal Flat 3C Mini 4G,Other,Android,3 GB,32 GB,Standard,29990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_oscal_marine_2,Oscal Marine 2 4G,Other,Android,6 GB,128 GB,Standard,87990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_oscal_tiger_8,Oscal Tiger 8 5G,Other,Android,4 GB,128 GB,Standard,54990.0,True,https://lifemobile.lk/product-category/mobile-phones/oscal-mobile-phones/
+2026-11-03,Life Mobile,other_philips_xenium_s8306,Philips Xenium S8306,Other,Android,6 GB,128 GB,Standard,56999.0,True,https://lifemobile.lk/product-category/mobile-phones/philips-mobile-phones/
 2026-11-03,Life Mobile,other_poco_c81_pro,Poco C81 Pro 4G,Other,Android,4 GB,128 GB,Standard,54000.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_poco_c95_pro,Poco C95 Pro 4G,Other,Android,8 GB,256 GB,Standard,81900.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_poco_f8_pro,Poco F8 Pro 5G,Other,Android,12 GB,512 GB,Standard,188500.0,True,https://lifemobile.lk/product-category/mobile-phones/
@@ -49161,14 +49163,14 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,Life Mobile,other_realme_c85,Realme C85 4G,Other,Android,8 GB,256 GB,Standard,74000.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_tecno_camon_50_pro,Tecno Camon 50 Pro 4G,Other,Android,8 GB,256 GB,Standard,131000.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_ulefone_note_22_free_charger,uleFone Note 22 4G + Free Charger,Other,Android,3 GB,32 GB,Standard,25999.0,True,https://lifemobile.lk/product-category/mobile-phones/
-2026-11-03,Life Mobile,other_ulefone_note_23,uleFone Note 23 4G,Other,Android,3 GB,32 GB,Standard,31999.0,True,https://lifemobile.lk/product-category/mobile-phones/ulefone/
+2026-11-03,Life Mobile,other_ulefone_note_23,uleFone Note 23 4G,Other,Android,3 GB,32 GB,Standard,31999.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_vivo_y05,Vivo Y05 4G,Other,Android,4 GB,128 GB,Standard,59500.0,True,https://lifemobile.lk/product-category/mobile-phones/
-2026-11-03,Life Mobile,other_vivo_y05,Vivo Y05 4G,Other,Android,4 GB,64 GB,Standard,509023.75,True,https://lifemobile.lk/product-category/mobile-phones/
+2026-11-03,Life Mobile,other_vivo_y05,Vivo Y05 4G,Other,Android,4 GB,64 GB,Standard,54990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_vivo_y11d,Vivo Y11D 4G,Other,Android,4 GB,128 GB,Standard,64900.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_vivo_y31d,Vivo Y31D 4G,Other,Android,6 GB,128 GB,Standard,84500.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_zte_a57_4,ZTE A57 4G 4+,Other,Android,8 GB,64 GB,Standard,46990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_zte_nubia_a77,ZTE Nubia A77 4G,Other,Android,4 GB,128 GB,Standard,50500.0,True,https://lifemobile.lk/product-category/mobile-phones/
-2026-11-03,Life Mobile,other_zte_nubia_air_pro,ZTE Nubia Air Pro 5G,Other,Android,8 GB,256 GB,Standard,149990.0,True,https://lifemobile.lk/product-category/mobile-phones/
+2026-11-03,Life Mobile,other_zte_nubia_air_pro,ZTE Nubia Air Pro 5G,Other,Android,8 GB,256 GB,Standard,126000.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_zte_nubia_neo_5_gt,ZTE nubia Neo 5 GT 5G,Other,Android,12 GB,256 GB,Standard,179990.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,other_zte_nubia_redmagic_11s_pro,ZTE Nubia RedMagic 11S Pro 5G,Other,Android,12 GB,256 GB,Standard,319500.0,True,https://lifemobile.lk/product-category/mobile-phones/
 2026-11-03,Life Mobile,samsung_galaxy_a07,Samsung Galaxy A07 5G,Samsung,Android,8 GB,256 GB,Standard,73500.0,True,https://lifemobile.lk/product-category/mobile-phones/
@@ -49216,6 +49218,7 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,LuxuryX,apple_mac_studio_m3_ultra,Apple Mac Studio M3 Ultra,Apple,Macbook,96 GB,1 TB,Silver,1415500.0,True,https://luxuryx.lk/mac-studio-m3-price
 2026-11-03,LuxuryX,apple_mac_studio_m4_max,Apple Mac Studio M4 Max,Apple,Macbook,36 GB,512 GB,Silver,1208500.0,True,https://luxuryx.lk/mac-studio-m4-max-price
 2026-11-03,LuxuryX,apple_mac_studio_m4_max_cto,Mac Studio M4 Max CTO,Apple,Macbook,36GB,1 TB,White,0.0,False,https://luxuryx.lk/mac-studio-m4-max-cto
+2026-11-03,LuxuryX,apple_mac_studio_m5_max,Mac Studio M5 Max,Apple,Macbook,,,White,0.0,True,https://luxuryx.lk/mac-studio-m5-max
 2026-11-03,LuxuryX,apple_mac_studio_m5_max,Mac Studio M5 Max,Apple,Macbook,,,White,0.0,True,https://luxuryx.lk/mac-studio-m5-max
 2026-11-03,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,423000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
 2026-11-03,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,423000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
@@ -49280,6 +49283,7 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-03,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,36 GB,2 TB,Space Balck,1320000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
 2026-11-03,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Silver,1805500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
 2026-11-03,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Space Balck,1805500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-03,LuxuryX,apple_studio_display_27_inch_5k,Apple Studio Display 27-inch 5K,Apple,Macbook,,,Silver,892500.0,True,https://luxuryx.lk/apple-studio-display-sri-lanka
 2026-11-03,LuxuryX,apple_studio_display_27_inch_5k,Apple Studio Display 27-inch 5K,Apple,Macbook,,,Silver,892500.0,True,https://luxuryx.lk/apple-studio-display-sri-lanka
 2026-11-03,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Obsidian,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
 2026-11-03,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Indigo,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka

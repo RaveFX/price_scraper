@@ -176,28 +176,6 @@
         ]
     },
     {
-        "title": "Infinix Smart 20 Smartphone",
-        "brand": "Infinix",
-        "category": "Android",
-        "min_price": 44999.0,
-        "max_price": 44999.0,
-        "in_stock": true,
-        "url": "https://www.simplytek.lk/products/infinix-smart-20-smartphone",
-        "variants": [
-            {
-                "id": "53043398771007",
-                "price": 44999.0,
-                "quantity": 5,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "4 GB",
-                    "storage": "Standard",
-                    "color": "Black"
-                }
-            }
-        ]
-    },
-    {
         "title": "Redmi Note 15 Pro+ 5G Smartphone",
         "brand": "Xiaomi",
         "category": "Android",
@@ -1049,6 +1027,28 @@
                 "in_stock": true,
                 "specifications": {
                     "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Infinix Smart 20 Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 44999.0,
+        "max_price": 44999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-smart-20-smartphone",
+        "variants": [
+            {
+                "id": "53043398771007",
+                "price": 44999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
                     "storage": "Standard",
                     "color": "Black"
                 }
