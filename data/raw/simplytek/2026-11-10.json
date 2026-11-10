@@ -3,14 +3,14 @@
         "title": "Xiaomi Redmi 15C Smartphone",
         "brand": "Xiaomi",
         "category": "Android",
-        "min_price": 54999.0,
-        "max_price": 54999.0,
+        "min_price": 59999.0,
+        "max_price": 59999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/xiaomi-redmi-15c-smartphone",
         "variants": [
             {
                 "id": "51322922041663",
-                "price": 54999.0,
+                "price": 59999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -47,14 +47,14 @@
         "title": "Honor Play 10 4G Smartphone",
         "brand": "Other",
         "category": "Android",
-        "min_price": 49999.0,
-        "max_price": 49999.0,
+        "min_price": 54999.0,
+        "max_price": 54999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/honor-play10-4g-smartphone",
         "variants": [
             {
                 "id": "52813138493759",
-                "price": 49999.0,
+                "price": 54999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -141,14 +141,14 @@
         "url": "https://www.simplytek.lk/products/redmi-note-15-5g-smartphone",
         "variants": [
             {
-                "id": "52240063856959",
+                "id": "52240063988031",
                 "price": 99999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
                     "ram": "6 GB",
                     "storage": "Standard",
-                    "color": "Black"
+                    "color": "Purple"
                 }
             }
         ]
@@ -267,14 +267,14 @@
         "title": "Infinix Note 60 Pro Smartphone",
         "brand": "Infinix",
         "category": "Android",
-        "min_price": 159999.0,
-        "max_price": 159999.0,
+        "min_price": 169999.0,
+        "max_price": 169999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/infinix-note-60-pro-smartphone",
         "variants": [
             {
                 "id": "54092954304831",
-                "price": 159999.0,
+                "price": 169999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -377,14 +377,14 @@
         "title": "Honor X5d Plus Smartphone",
         "brand": "Other",
         "category": "Android",
-        "min_price": 59999.0,
-        "max_price": 59999.0,
+        "min_price": 64999.0,
+        "max_price": 64999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/honor-x5d-plus-smartphone-4gb-ram-128gb-rom",
         "variants": [
             {
                 "id": "54607748071743",
-                "price": 59999.0,
+                "price": 64999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -399,14 +399,14 @@
         "title": "Honor X5d Smartphone",
         "brand": "Other",
         "category": "Android",
-        "min_price": 52999.0,
-        "max_price": 52999.0,
+        "min_price": 58999.0,
+        "max_price": 58999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/honor-x5d-4gb-ram-64gb-rom",
         "variants": [
             {
                 "id": "54607112110399",
-                "price": 52999.0,
+                "price": 58999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -421,14 +421,14 @@
         "title": "Infinix Hot 70 Smartphone",
         "brand": "Infinix",
         "category": "Android",
-        "min_price": 67499.0,
-        "max_price": 67499.0,
+        "min_price": 74999.0,
+        "max_price": 74999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/infinix-hot-70-smartphone",
         "variants": [
             {
                 "id": "54071908991295",
-                "price": 67499.0,
+                "price": 74999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -465,14 +465,14 @@
         "title": "Infinix Note 60 Smartphone",
         "brand": "Infinix",
         "category": "Android",
-        "min_price": 124999.0,
-        "max_price": 124999.0,
+        "min_price": 139999.0,
+        "max_price": 139999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/infinix-note-60-smartphone",
         "variants": [
             {
                 "id": "52956185985343",
-                "price": 124999.0,
+                "price": 139999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -531,14 +531,14 @@
         "title": "HONOR Magic 7 Pro Smartphone",
         "brand": "Other",
         "category": "Android",
-        "min_price": 338999.0,
-        "max_price": 338999.0,
+        "min_price": 339999.0,
+        "max_price": 339999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/honor-magic7-pro-smartphone",
         "variants": [
             {
                 "id": "55100192522559",
-                "price": 338999.0,
+                "price": 339999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -883,14 +883,14 @@
         "title": "HONOR X7D 4G Smartphone",
         "brand": "Other",
         "category": "Android",
-        "min_price": 69999.0,
-        "max_price": 69999.0,
+        "min_price": 73999.0,
+        "max_price": 73999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/honor-x7d-4g-smartphone",
         "variants": [
             {
                 "id": "52371666305343",
-                "price": 69999.0,
+                "price": 73999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -990,6 +990,28 @@
         ]
     },
     {
+        "title": "Infinix Smart 20 Smartphone",
+        "brand": "Infinix",
+        "category": "Android",
+        "min_price": 54999.0,
+        "max_price": 54999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/infinix-smart-20-smartphone",
+        "variants": [
+            {
+                "id": "53043398771007",
+                "price": 54999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "4 GB",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
         "title": "E-Tel T45 Plus Feature Phone",
         "brand": "Other",
         "category": "Android",
@@ -1005,28 +1027,6 @@
                 "in_stock": true,
                 "specifications": {
                     "ram": "Standard",
-                    "storage": "Standard",
-                    "color": "Black"
-                }
-            }
-        ]
-    },
-    {
-        "title": "Infinix Smart 20 Smartphone",
-        "brand": "Infinix",
-        "category": "Android",
-        "min_price": 44999.0,
-        "max_price": 44999.0,
-        "in_stock": true,
-        "url": "https://www.simplytek.lk/products/infinix-smart-20-smartphone",
-        "variants": [
-            {
-                "id": "53043398771007",
-                "price": 44999.0,
-                "quantity": 5,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "4 GB",
                     "storage": "Standard",
                     "color": "Black"
                 }

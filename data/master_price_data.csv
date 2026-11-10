@@ -51461,6 +51461,7 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-10,LuxuryX,apple_mac_studio_m4_max,Apple Mac Studio M4 Max,Apple,Macbook,36 GB,512 GB,Silver,1208500.0,True,https://luxuryx.lk/mac-studio-m4-max-price
 2026-11-10,LuxuryX,apple_mac_studio_m4_max_cto,Mac Studio M4 Max CTO,Apple,Macbook,36GB,1 TB,White,0.0,False,https://luxuryx.lk/mac-studio-m4-max-cto
 2026-11-10,LuxuryX,apple_mac_studio_m5_max,Mac Studio M5 Max,Apple,Macbook,,,White,0.0,True,https://luxuryx.lk/mac-studio-m5-max
+2026-11-10,LuxuryX,apple_mac_studio_m5_max,Mac Studio M5 Max,Apple,Macbook,,,White,0.0,True,https://luxuryx.lk/mac-studio-m5-max
 2026-11-10,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,423000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
 2026-11-10,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,423000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
 2026-11-10,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,423000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
@@ -51530,6 +51531,7 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-10,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,36 GB,2 TB,Space Balck,1320000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
 2026-11-10,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Silver,1805500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
 2026-11-10,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Space Balck,1805500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-10,LuxuryX,apple_studio_display_27_inch_5k,Apple Studio Display 27-inch 5K,Apple,Macbook,,,Silver,892500.0,True,https://luxuryx.lk/apple-studio-display-sri-lanka
 2026-11-10,LuxuryX,apple_studio_display_27_inch_5k,Apple Studio Display 27-inch 5K,Apple,Macbook,,,Silver,892500.0,True,https://luxuryx.lk/apple-studio-display-sri-lanka
 2026-11-10,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Obsidian,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
 2026-11-10,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Indigo,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
@@ -51655,13 +51657,13 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-10,SimplyTek,infinix_hot_60_pro_smartphone,Infinix HOT 60 Pro Smartphone,Infinix,Android,8 GB,Standard,Black,64999.0,True,https://www.simplytek.lk/products/infinix-hot-60-pro-smartphone-1
 2026-11-10,SimplyTek,infinix_hot_60_pro_smartphone,Infinix HOT 60 Pro+ Smartphone,Infinix,Android,8 GB,Standard,Infinix XBUDS 3 Lite Earbuds,77999.0,True,https://www.simplytek.lk/products/infinix-hot-60-pro-smartphone
 2026-11-10,SimplyTek,infinix_hot_60i_smartphone,Infinix HOT 60i Smartphone,Infinix,Android,8 GB,Standard,Black,59999.0,True,https://www.simplytek.lk/products/infinix-hot-60i-smartphone
-2026-11-10,SimplyTek,infinix_hot_70_smartphone,Infinix Hot 70 Smartphone,Infinix,Android,4 GB,Standard,Black,67499.0,True,https://www.simplytek.lk/products/infinix-hot-70-smartphone
+2026-11-10,SimplyTek,infinix_hot_70_smartphone,Infinix Hot 70 Smartphone,Infinix,Android,4 GB,Standard,Black,74999.0,True,https://www.simplytek.lk/products/infinix-hot-70-smartphone
 2026-11-10,SimplyTek,infinix_note_50_smartphone,Infinix Note 50 Smartphone,Infinix,Android,8 GB,Standard,Black,109999.0,True,https://www.simplytek.lk/products/infinix-note-50-smartphone
-2026-11-10,SimplyTek,infinix_note_60_pro_smartphone,Infinix Note 60 Pro Smartphone,Infinix,Android,8 GB,Standard,Orange,159999.0,True,https://www.simplytek.lk/products/infinix-note-60-pro-smartphone
-2026-11-10,SimplyTek,infinix_note_60_smartphone,Infinix Note 60 Smartphone,Infinix,Android,8 GB,Standard,Black,124999.0,True,https://www.simplytek.lk/products/infinix-note-60-smartphone
+2026-11-10,SimplyTek,infinix_note_60_pro_smartphone,Infinix Note 60 Pro Smartphone,Infinix,Android,8 GB,Standard,Orange,169999.0,True,https://www.simplytek.lk/products/infinix-note-60-pro-smartphone
+2026-11-10,SimplyTek,infinix_note_60_smartphone,Infinix Note 60 Smartphone,Infinix,Android,8 GB,Standard,Black,139999.0,True,https://www.simplytek.lk/products/infinix-note-60-smartphone
 2026-11-10,SimplyTek,infinix_smart_10_hd_smartphone,Infinix Smart 10 HD Smartphone,Infinix,Android,2 GB,Standard,Black,24999.0,True,https://www.simplytek.lk/products/infinix-smart-10-hd-smartphone
 2026-11-10,SimplyTek,infinix_smart_10_plus_smartphone,Infinix Smart 10 Plus Smartphone,Infinix,Android,4 GB,Standard,Black,37999.0,True,https://www.simplytek.lk/products/infinix-smart-10-plus-smartphone
-2026-11-10,SimplyTek,infinix_smart_20_smartphone,Infinix Smart 20 Smartphone,Infinix,Android,4 GB,Standard,Black,44999.0,True,https://www.simplytek.lk/products/infinix-smart-20-smartphone
+2026-11-10,SimplyTek,infinix_smart_20_smartphone,Infinix Smart 20 Smartphone,Infinix,Android,4 GB,Standard,Black,54999.0,True,https://www.simplytek.lk/products/infinix-smart-20-smartphone
 2026-11-10,SimplyTek,oneplus_13_smartphone,OnePlus 13 Smartphone,OnePlus,Android,12 GB,Standard,Blue,214999.0,True,https://www.simplytek.lk/products/oneplus-13-smartphone
 2026-11-10,SimplyTek,oneplus_13r_smartphone,OnePlus 13R Smartphone (5G),OnePlus,Android,12 GB,Standard,Black,199899.0,True,https://www.simplytek.lk/products/oneplus-13r-smartphone
 2026-11-10,SimplyTek,oneplus_15r_smartphone,OnePlus 15R Smartphone,OnePlus,Android,12 GB,Standard,Oneplus Bullets Wireless Z3 Samba sunset Red + Oneplus Supervooc 100W 12000mAh PB,279999.0,True,https://www.simplytek.lk/products/oneplus-15r-smartphone
@@ -51683,16 +51685,16 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-10,SimplyTek,other_honor_400_pro_smartphone,HONOR 400 Pro 5G Smartphone,Other,Android,12 GB,Standard,Black,199999.0,True,https://www.simplytek.lk/products/honor-400-pro-5g-smartphone
 2026-11-10,SimplyTek,other_honor_400_smartphone,HONOR 400 5G Smartphone,Other,Android,12 GB,Standard,Gold,129999.0,True,https://www.simplytek.lk/products/honor-400-5g-smartphone
 2026-11-10,SimplyTek,other_honor_600_pro_smartphone,⁠Honor 600 Pro Smartphone,Other,Android,12 GB,Standard,Orange,309999.0,True,https://www.simplytek.lk/products/honor-600-pro-smartphone
-2026-11-10,SimplyTek,other_honor_magic_7_pro_smartphone,HONOR Magic 7 Pro Smartphone,Other,Android,12 GB,Standard,Black,338999.0,True,https://www.simplytek.lk/products/honor-magic7-pro-smartphone
-2026-11-10,SimplyTek,other_honor_play_10_smartphone,Honor Play 10 4G Smartphone,Other,Android,4 GB,Standard,Black,49999.0,True,https://www.simplytek.lk/products/honor-play10-4g-smartphone
+2026-11-10,SimplyTek,other_honor_magic_7_pro_smartphone,HONOR Magic 7 Pro Smartphone,Other,Android,12 GB,Standard,Black,339999.0,True,https://www.simplytek.lk/products/honor-magic7-pro-smartphone
+2026-11-10,SimplyTek,other_honor_play_10_smartphone,Honor Play 10 4G Smartphone,Other,Android,4 GB,Standard,Black,54999.0,True,https://www.simplytek.lk/products/honor-play10-4g-smartphone
 2026-11-10,SimplyTek,other_honor_x5c_plus_smartphone,Honor X5C Plus 4G Smartphone,Other,Android,4 GB,Standard,Silver,54999.0,True,https://www.simplytek.lk/products/honor-x5c-plus-4g-smartphone
 2026-11-10,SimplyTek,other_honor_x5c_smartphone,Honor X5C 4G Smartphone,Other,Android,4 GB,Standard,Silver,39999.0,True,https://www.simplytek.lk/products/honor-x5c-4g-smartphone
-2026-11-10,SimplyTek,other_honor_x5d_plus_smartphone,Honor X5d Plus Smartphone,Other,Android,4 GB,Standard,Blue,59999.0,True,https://www.simplytek.lk/products/honor-x5d-plus-smartphone-4gb-ram-128gb-rom
-2026-11-10,SimplyTek,other_honor_x5d_smartphone,Honor X5d Smartphone,Other,Android,4 GB,Standard,Black,52999.0,True,https://www.simplytek.lk/products/honor-x5d-4gb-ram-64gb-rom
+2026-11-10,SimplyTek,other_honor_x5d_plus_smartphone,Honor X5d Plus Smartphone,Other,Android,4 GB,Standard,Blue,64999.0,True,https://www.simplytek.lk/products/honor-x5d-plus-smartphone-4gb-ram-128gb-rom
+2026-11-10,SimplyTek,other_honor_x5d_smartphone,Honor X5d Smartphone,Other,Android,4 GB,Standard,Black,58999.0,True,https://www.simplytek.lk/products/honor-x5d-4gb-ram-64gb-rom
 2026-11-10,SimplyTek,other_honor_x6c_smartphone,HONOR X6C 4G Smartphone,Other,Android,6 GB,Standard,Black,49999.0,True,https://www.simplytek.lk/products/honor-x6c-4g-smartphone
 2026-11-10,SimplyTek,other_honor_x6d_smartphone,HONOR X6D 5G Smartphone,Other,Android,4 GB,Standard,Black,69999.0,True,https://www.simplytek.lk/products/honor-x6d-5g-4gb-ram-128gb-rom
 2026-11-10,SimplyTek,other_honor_x7c_smartphone,HONOR X7c Smartphone,Other,Android,8 GB,Standard,Green,65999.0,True,https://www.simplytek.lk/products/honor-x7c-smartphone
-2026-11-10,SimplyTek,other_honor_x7d_smartphone,HONOR X7D 4G Smartphone,Other,Android,8 GB,Standard,Black,69999.0,True,https://www.simplytek.lk/products/honor-x7d-4g-smartphone
+2026-11-10,SimplyTek,other_honor_x7d_smartphone,HONOR X7D 4G Smartphone,Other,Android,8 GB,Standard,Black,73999.0,True,https://www.simplytek.lk/products/honor-x7d-4g-smartphone
 2026-11-10,SimplyTek,other_honor_x7d_smartphone,HONOR X7D 5G Smartphone,Other,Android,6 GB,Standard,Black,74999.0,True,https://www.simplytek.lk/products/honor-x7d-5g-smartphone
 2026-11-10,SimplyTek,other_honor_x8c_smartphone,HONOR X8c Smartphone,Other,Android,8 GB,Standard,Black,89999.0,True,https://www.simplytek.lk/products/honor-x8c-smartphone
 2026-11-10,SimplyTek,other_honor_x9c_smart_smartphone,HONOR X9c Smart 5G Smartphone,Other,Android,12 GB,Standard,Green,99999.0,True,https://www.simplytek.lk/products/honor-x9c-smart-5g-smartphone
@@ -51723,3 +51725,4 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-10,SimplyTek,xiaomi_redmi_a7_pro_smartphone,Redmi A7 Pro 4G Smartphone,Xiaomi,Android,4 GB,Standard,Black,55999.0,True,https://www.simplytek.lk/products/xiaomi-redmi-a7-pro-4g-smartphone
 2026-11-10,SimplyTek,xiaomi_redmi_note_15_pro_smartphone,Redmi Note 15 Pro+ 5G Smartphone,Xiaomi,Android,8 GB,Standard,Blue,139999.0,True,https://www.simplytek.lk/products/redmi-note-15-pro-5g-smartphone
 2026-11-10,SimplyTek,xiaomi_redmi_note_15_smartphone,Redmi Note 15 5G Smartphone,Xiaomi,Android,6 GB,Standard,Black,99999.0,True,https://www.simplytek.lk/products/redmi-note-15-5g-smartphone
+2026-11-10,SimplyTek,xiaomi_redmi_note_15_smartphone,Redmi Note 15 5G Smartphone,Xiaomi,Android,6 GB,Standard,Purple,99999.0,True,https://www.simplytek.lk/products/redmi-note-15-5g-smartphone
