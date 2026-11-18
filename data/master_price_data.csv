@@ -53518,226 +53518,228 @@ date,shop,product_id,title,brand,category,spec_ram,spec_storage,spec_color,price
 2026-11-17,SimplyTek,xiaomi_redmi_note_17_pro_max_smartphone,Redmi Note 17 Pro Max 5G Smartphone,Xiaomi,Android,8 GB,Standard,Black,174999.0,True,https://www.simplytek.lk/products/redmi-note-17-pro-max-5g-smartphone
 2026-11-17,SimplyTek,xiaomi_redmi_note_17_pro_smartphone,Redmi Note 17 Pro 5G Smartphone,Xiaomi,Android,8 GB,Standard,Black,154999.0,True,https://www.simplytek.lk/products/redmi-note-17-pro-5g-smartphone
 2026-11-17,SimplyTek,xiaomi_redmi_note_17_smartphone,Redmi Note 17 Smartphone (4G),Xiaomi,Android,6 GB,Standard,Black,94999.0,True,https://www.simplytek.lk/products/redmi-note-17-smartphone-4g
-2026-11-18,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Silver,621500.0,True,https://luxuryx.lk/imac-m4
-2026-11-18,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Silver,756500.0,True,https://luxuryx.lk/imac-m4
-2026-11-18,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Silver,807000.0,True,https://luxuryx.lk/imac-m4
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,Silver,702000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,Green,702000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,blue,702000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,Pink,702000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,Silver,803000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,Green,803000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,blue,803000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,Pink,803000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,24 GB,512 GB,Silver,894000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,24 GB,512 GB,Green,894000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,24 GB,512 GB,blue,894000.0,True,https://luxuryx.lk/imac-m6
-2026-11-18,LuxuryX,apple_mac_mini_m2_pro,Mac Mini M2 Pro,Apple,Macbook,16 GB,512 GB,Silver,531000.0,True,https://luxuryx.lk/mac-mini-m2-pro
-2026-11-18,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,16 GB,256 GB,Silver,282000.0,True,https://luxuryx.lk/mac-mini-m4-chip
-2026-11-18,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,16 GB,512 GB,Silver,332500.0,True,https://luxuryx.lk/mac-mini-m4-chip
-2026-11-18,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,24 GB,512 GB,Silver,546000.0,True,https://luxuryx.lk/mac-mini-m4-chip
-2026-11-18,LuxuryX,apple_mac_mini_m4_pro,Mac Mini M4 Pro,Apple,Macbook,16 GB,512 GB,Silver,480500.0,True,https://luxuryx.lk/mac-mini-m4-pro
-2026-11-18,LuxuryX,apple_mac_mini_m4_pro,Mac Mini M4 Pro,Apple,Macbook,24 GB,512 GB,Silver,675500.0,True,https://luxuryx.lk/mac-mini-m4-pro
-2026-11-18,LuxuryX,apple_mac_mini_m5_pro,Mac Mini M5 Pro,Apple,Macbook,24 GB,512 GB,Silver,666000.0,True,https://luxuryx.lk/mac-mini-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_mac_mini_m6,Mac Mini M6,Apple,Macbook,16GB,256GB,White,312500.0,True,https://luxuryx.lk/mac-mini-m6-price
-2026-11-18,LuxuryX,apple_mac_mini_m6,Mac Mini M6,Apple,Macbook,16GB,512GB,White,413500.0,True,https://luxuryx.lk/mac-mini-m6-price
-2026-11-18,LuxuryX,apple_mac_mini_m6,Mac Mini M6,Apple,Macbook,24GB,512GB,White,692000.0,True,https://luxuryx.lk/mac-mini-m6-price
-2026-11-18,LuxuryX,apple_mac_studio_m2_max,Apple Mac Studio M2 Max,Apple,Macbook,32 GB,512 GB,Silver,871500.0,True,https://luxuryx.lk/apple-mac-studio-m2-max
-2026-11-18,LuxuryX,apple_mac_studio_m3_ultra,Apple Mac Studio M3 Ultra,Apple,Macbook,96 GB,1 TB,Silver,1430000.0,True,https://luxuryx.lk/mac-studio-m3-price
-2026-11-18,LuxuryX,apple_mac_studio_m4_max,Apple Mac Studio M4 Max,Apple,Macbook,36 GB,512 GB,Silver,1221000.0,True,https://luxuryx.lk/mac-studio-m4-max-price
+2026-11-18,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,256 GB,Silver,628000.0,True,https://luxuryx.lk/imac-m4
+2026-11-18,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,16 GB,512 GB,Silver,764500.0,True,https://luxuryx.lk/imac-m4
+2026-11-18,LuxuryX,apple_imac_m4,iMac M4,Apple,Macbook,24 GB,512 GB,Silver,815500.0,True,https://luxuryx.lk/imac-m4
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,Silver,709500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,Green,709500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,blue,709500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,256 GB,Pink,709500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,Silver,811500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,Green,811500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,blue,811500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,16 GB,512 GB,Pink,811500.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,24 GB,512 GB,Silver,903000.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,24 GB,512 GB,Green,903000.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_imac_m6,iMac M6,Apple,Macbook,24 GB,512 GB,blue,903000.0,True,https://luxuryx.lk/imac-m6
+2026-11-18,LuxuryX,apple_mac_mini_m2_pro,Mac Mini M2 Pro,Apple,Macbook,16 GB,512 GB,Silver,536500.0,True,https://luxuryx.lk/mac-mini-m2-pro
+2026-11-18,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,16 GB,256 GB,Silver,285000.0,True,https://luxuryx.lk/mac-mini-m4-chip
+2026-11-18,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,16 GB,512 GB,Silver,336000.0,True,https://luxuryx.lk/mac-mini-m4-chip
+2026-11-18,LuxuryX,apple_mac_mini_m4,Mac Mini M4,Apple,Macbook,24 GB,512 GB,Silver,551500.0,True,https://luxuryx.lk/mac-mini-m4-chip
+2026-11-18,LuxuryX,apple_mac_mini_m4_pro,Mac Mini M4 Pro,Apple,Macbook,16 GB,512 GB,Silver,485500.0,True,https://luxuryx.lk/mac-mini-m4-pro
+2026-11-18,LuxuryX,apple_mac_mini_m4_pro,Mac Mini M4 Pro,Apple,Macbook,24 GB,512 GB,Silver,682500.0,True,https://luxuryx.lk/mac-mini-m4-pro
+2026-11-18,LuxuryX,apple_mac_mini_m5_pro,Mac Mini M5 Pro,Apple,Macbook,24 GB,512 GB,Silver,673000.0,True,https://luxuryx.lk/mac-mini-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_mac_mini_m6,Mac Mini M6,Apple,Macbook,16GB,256GB,White,316000.0,True,https://luxuryx.lk/mac-mini-m6-price
+2026-11-18,LuxuryX,apple_mac_mini_m6,Mac Mini M6,Apple,Macbook,16GB,512GB,White,418000.0,True,https://luxuryx.lk/mac-mini-m6-price
+2026-11-18,LuxuryX,apple_mac_mini_m6,Mac Mini M6,Apple,Macbook,24GB,512GB,White,699000.0,True,https://luxuryx.lk/mac-mini-m6-price
+2026-11-18,LuxuryX,apple_mac_studio_m2_max,Apple Mac Studio M2 Max,Apple,Macbook,32 GB,512 GB,Silver,880500.0,True,https://luxuryx.lk/apple-mac-studio-m2-max
+2026-11-18,LuxuryX,apple_mac_studio_m3_ultra,Apple Mac Studio M3 Ultra,Apple,Macbook,96 GB,1 TB,Silver,1444500.0,True,https://luxuryx.lk/mac-studio-m3-price
+2026-11-18,LuxuryX,apple_mac_studio_m4_max,Apple Mac Studio M4 Max,Apple,Macbook,36 GB,512 GB,Silver,1233500.0,True,https://luxuryx.lk/mac-studio-m4-max-price
 2026-11-18,LuxuryX,apple_mac_studio_m4_max_cto,Mac Studio M4 Max CTO,Apple,Macbook,36GB,1 TB,White,0.0,False,https://luxuryx.lk/mac-studio-m4-max-cto
 2026-11-18,LuxuryX,apple_mac_studio_m5_max,Mac Studio M5 Max,Apple,Macbook,,,White,0.0,True,https://luxuryx.lk/mac-studio-m5-max
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,416500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,416500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,416500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,MidNight,421500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Sky-Blue,534500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,534500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,StarLight,534500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,MidNight,534500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,512 GB,Sky-Blue,540500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Sky-Blue,625500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,625500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,StarLight,625500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,MidNight,625500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,499000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,499000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,499000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,MidNight,504000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Sky-Blue,621500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,621500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,StarLight,621500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,MidNight,621500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,731000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,StarLight,731000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,MidNight,731000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Sky-Blue,731000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Silver,246500.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Indigo,246500.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Citrus,246500.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Blush,251500.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Silver,282000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Indigo,282000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Citrus,282000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Blush,287000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,634000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Space Balck,634000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,672000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Space Balck,672000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Space Balck,746500.0,False,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,767000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,32 GB,1 TB,Silver,906500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,32 GB,1 TB,Space Balck,906500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_max,MacBook Pro 14 inch M5 Max,Apple,Macbook,36 GB,2 TB,Silver,1504000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_max,MacBook Pro 14 inch M5 Max,Apple,Macbook,36 GB,2 TB,Space Balck,1504000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,1 TB,Silver,833500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,1 TB,Space Balck,833500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,2 TB,Silver,1118000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,2 TB,Space Balck,1118000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-11-18,LuxuryX,apple_mac_studio_m5_max,Mac Studio M5 Max,Apple,Macbook,,,White,0.0,True,https://luxuryx.lk/mac-studio-m5-max
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,421000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,421000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,421000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,512 GB,MidNight,426000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Sky-Blue,540000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,540000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,StarLight,540000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,16 GB,1 TB,MidNight,540000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,512 GB,Sky-Blue,546000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Sky-Blue,632000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,632000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,StarLight,632000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_13_inch_m5_chip,MacBook Air 13 inch M5 Chip,Apple,Macbook,24 GB,1 TB,MidNight,632000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Sky-Blue,504000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,504000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,StarLight,504000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,512 GB,MidNight,509500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Sky-Blue,628000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,628000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,StarLight,628000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,16 GB,1 TB,MidNight,628000.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,738500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,StarLight,738500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,MidNight,738500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_air_15_inch_m5_chip,MacBook Air 15 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Sky-Blue,738500.0,True,https://luxuryx.lk/macbook-air-m5-price-in-sri-lanka-15-inch
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Silver,249000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Indigo,249000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Citrus,249000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,256 GB,Blush,254500.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Silver,285000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Indigo,285000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Citrus,285000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_neo,MacBook Neo,Apple,Macbook,8 GB,512 GB,Blush,290000.0,True,https://luxuryx.lk/macbook-neo-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Silver,640500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,512 GB,Space Balck,640500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Silver,679000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,16 GB,1 TB,Space Balck,679000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Space Balck,754000.0,False,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,24 GB,1 TB,Silver,775000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,32 GB,1 TB,Silver,916000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_chip,MacBook Pro 14 inch M5 Chip,Apple,Macbook,32 GB,1 TB,Space Balck,916000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_max,MacBook Pro 14 inch M5 Max,Apple,Macbook,36 GB,2 TB,Silver,1519500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_max,MacBook Pro 14 inch M5 Max,Apple,Macbook,36 GB,2 TB,Space Balck,1519500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-max-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,1 TB,Silver,842000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,1 TB,Space Balck,842000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,2 TB,Silver,1129500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip,MacBook Pro 14 inch M5 Pro Chip,Apple,Macbook,24 GB,2 TB,Space Balck,1129500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-sri-lanka
 2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip_proled_xdr_display,MacBook Pro 14 inch M5 Pro Chip PROLED XDR Display,Apple,Macbook,24 GB,1 TB,Silver,0.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-chip-proled-xdr-display
 2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m5_pro_chip_proled_xdr_display,MacBook Pro 14 inch M5 Pro Chip PROLED XDR Display,Apple,Macbook,24 GB,1 TB,Space Balck,0.0,True,https://luxuryx.lk/macbook-pro-14-inch-m5-pro-chip-proled-xdr-display
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,16 GB,1 TB,Silver,757500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,16 GB,1 TB,Space Balck,757500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,24 GB,1 TB,Silver,818500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,24 GB,1 TB,Space Balck,818500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,32 GB,1 TB,Silver,879000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,32 GB,1 TB,Space Balck,879000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,36 GB,2 TB,Silver,1570500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,36 GB,2 TB,Space Balck,1570500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,48 GB,2 TB,Silver,1656500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,48 GB,2 TB,Space Balck,1656500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,24 GB,1 TB,Silver,949500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,24 GB,1 TB,Space Balck,949500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,1 TB,Silver,1202000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,1 TB,Space Balck,1202000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,36 GB,2 TB,Silver,1333500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,36 GB,2 TB,Space Balck,1333500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Silver,1824000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
-2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Space Balck,1824000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,16 GB,1 TB,Silver,765500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,16 GB,1 TB,Space Balck,765500.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,24 GB,1 TB,Silver,827000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,24 GB,1 TB,Space Balck,827000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,32 GB,1 TB,Silver,888000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_14_inch_m6_chip,MacBook Pro 14 inch M6 Chip,Apple,Macbook,32 GB,1 TB,Space Balck,888000.0,True,https://luxuryx.lk/macbook-pro-14-inch-m6-chip-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,36 GB,2 TB,Silver,1586500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,36 GB,2 TB,Space Balck,1586500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,48 GB,2 TB,Silver,1673500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_max,MacBook Pro 16 inch M5 Max,Apple,Macbook,48 GB,2 TB,Space Balck,1673500.0,True,https://luxuryx.lk/macbook-pro-16-m5-max-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,24 GB,1 TB,Silver,959000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,24 GB,1 TB,Space Balck,959000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,1 TB,Silver,1214500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,1 TB,Space Balck,1214500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,36 GB,2 TB,Silver,1347000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,36 GB,2 TB,Space Balck,1347000.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Silver,1842500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
+2026-11-18,LuxuryX,apple_macbook_pro_16_inch_m5_pro,MacBook Pro 16 inch (M5 Pro),Apple,Macbook,48 GB,2 TB,Space Balck,1842500.0,True,https://luxuryx.lk/macbook-pro-16-m5-pro-price-in-sri-lanka
 2026-11-18,LuxuryX,apple_studio_display_27_inch_5k,Apple Studio Display 27-inch 5K,Apple,Macbook,,,Silver,901500.0,True,https://luxuryx.lk/apple-studio-display-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Obsidian,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Indigo,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Frost,194000.0,False,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Lemongrass,194000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Obsidian,290500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Indigo,290500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Frost,290500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Lemongrass,290500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Moonstone,256500.0,True,https://luxuryx.lk/google-pixel-10-pro
-2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Obsidian,256500.0,True,https://luxuryx.lk/google-pixel-10-pro
-2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Jade,256500.0,True,https://luxuryx.lk/google-pixel-10-pro
-2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Porcelain,256500.0,True,https://luxuryx.lk/google-pixel-10-pro
-2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,256 GB,Moonstone,636500.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,256 GB,Jade,636500.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,512 GB,Moonstone,731500.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,512 GB,Jade,731500.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Obsidian,319000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Jade,319000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Porcelain,319000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Moonstone,319000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Obsidian,406500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Jade,406500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Porcelain,406500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Moonstone,406500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Obsidian,519500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Jade,519500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Porcelain,519500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Moonstone,519500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
-2026-11-18,LuxuryX,google_pixel_11_pro_xl,Google Pixel 11 Pro XL,Google,Android,16 GB,256GB,Olive,329000.0,True,https://luxuryx.lk/pixel-11-pro-xl-price
-2026-11-18,LuxuryX,google_pixel_11_pro_xl,Google Pixel 11 Pro XL,Google,Android,16 GB,256GB,Obsidian,329000.0,True,https://luxuryx.lk/pixel-11-pro-xl-price
-2026-11-18,LuxuryX,google_pixel_11_pro_xl,Google Pixel 11 Pro XL,Google,Android,16 GB,256GB,Canyon,329000.0,True,https://luxuryx.lk/pixel-11-pro-xl-price
-2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,Obsidian,274500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,rose quartz,274500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,Porcelain,274500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,Hazel,274500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,128 GB,Obsidian,290500.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,128 GB,Porcelain,290500.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,256 GB,Obsidian,317500.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
-2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,256 GB,Porcelain,317500.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,64 GB,Black,42000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,64 GB,Violet,42000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,64 GB,Green,42000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,6 GB,128 GB,Black,56000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,6 GB,128 GB,Violet,56000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,128 GB,Green,56000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,128 GB,Black,81500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,128 GB,blue,81500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,128 GB,Gray,81500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,6 GB,128 GB,Black,83500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,6 GB,128 GB,blue,83500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,6 GB,128 GB,Gray,83500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,256 GB,Black,84000.0,True,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,256 GB,blue,84000.0,True,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,256 GB,Gray,84000.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,6 GB,128 GB,Black,83000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,6 GB,128 GB,White,83000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,6 GB,128 GB,Lavender,83000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,8 GB,128 GB,Black,88000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,8 GB,128 GB,White,88000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,8 GB,128 GB,Lavender,88000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,Black,118000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,Gray,118000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,Lavender,118000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,White,118000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,Black,124000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,Gray,124000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,Lavender,124000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,White,124000.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
-2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Mint,214000.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Ice-Blue,214000.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Silver-Shadow,214000.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Blue-Black,214000.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Navy,214000.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,128 GB,Navy,162000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,128 GB,Black,162000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,Navy,182000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,Jet-Black,182000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,Ice-Blue,182000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,White,182000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Silverblue,274000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Black,274000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Gray,274000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Whitesilver,274000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Silverblue,297000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Whitesilver,297000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Gray,297000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Black,297000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26+,Samsung,Android,12 GB,256 GB,Silver,298500.0,True,https://luxuryx.lk/samsung-galaxy-s26-plus-5g
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Cobalt Violet,247000.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Pink Gold,247000.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Silver Shadow,247000.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Black,247000.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Sky-Blue,247000.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,White,247000.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Cobalt Violet,319000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,blue,319000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Black,319000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,White,319000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Silver Shadow,319000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Pink Gold,319000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Cobalt Violet,377000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,blue,377000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Black,377000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,White,377000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Silver Shadow,377000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Pink Gold,377000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Cobalt Violet,561500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,blue,561500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Black,561500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,White,561500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Silver,561500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Pink Gold,561500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
-2026-11-18,LuxuryX,samsung_galaxy_z_fold8_ultra_256gb,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung,Android,12GB,256GB,Violet,499000.0,True,https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb
-2026-11-18,LuxuryX,samsung_galaxy_z_fold8_ultra_256gb,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung,Android,12GB,256GB,White,499000.0,True,https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb
-2026-11-18,LuxuryX,samsung_galaxy_z_fold8_ultra_256gb,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung,Android,12GB,256GB,Graphite,499000.0,True,https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb
-2026-11-18,LuxuryX,samsung_galaxy_z_fold_8,Samsung Galaxy Z Fold 8,Samsung,Android,12 GB,256 GB,Black,469000.0,True,https://luxuryx.lk/samsung-galaxy-fold-8
-2026-11-18,LuxuryX,samsung_tab_samsung_galaxy_tab_s10_lite,Samsung Galaxy Tab S10 Lite 5G,Samsung Tab,Android,6GB,128GB,Gray,119000.0,True,https://luxuryx.lk/galaxy-tab-s10-lite-5g
-2026-11-18,LuxuryX,xiaomi_redmi_note_15,Redmi Note 15 5G,Xiaomi,Android,8 GB,256 GB,Black,100000.0,True,https://luxuryx.lk/xiaomi-redmi-note-15-5g
-2026-11-18,LuxuryX,xiaomi_redmi_note_15,Redmi Note 15 5G,Xiaomi,Android,8 GB,256 GB,Green,100000.0,True,https://luxuryx.lk/xiaomi-redmi-note-15-5g
-2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro+ 5G,Xiaomi,Android,8 GB,256 GB,Brown,129000.0,True,https://luxuryx.lk/redmi-note-15-pro-5g
-2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro 5G,Xiaomi,Android,8 GB,256 GB,Black,103000.0,True,https://luxuryx.lk/redmi-note-15c-pro-5g
-2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro 5G,Xiaomi,Android,8 GB,256 GB,Purple,103000.0,True,https://luxuryx.lk/redmi-note-15c-pro-5g
-2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro 5G,Xiaomi,Android,8 GB,256 GB,blue,103000.0,True,https://luxuryx.lk/redmi-note-15c-pro-5g
+2026-11-18,LuxuryX,apple_studio_display_27_inch_5k,Apple Studio Display 27-inch 5K,Apple,Macbook,,,Silver,911000.0,True,https://luxuryx.lk/apple-studio-display-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Obsidian,196000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Indigo,196000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Frost,196000.0,False,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,128 GB,Lemongrass,196000.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Obsidian,293500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Indigo,293500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Frost,293500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10,Google Pixel 10,Google,Android,12 GB,256 GB,Lemongrass,293500.0,True,https://luxuryx.lk/google-pixel-10-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Moonstone,259500.0,True,https://luxuryx.lk/google-pixel-10-pro
+2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Obsidian,259500.0,True,https://luxuryx.lk/google-pixel-10-pro
+2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Jade,259500.0,True,https://luxuryx.lk/google-pixel-10-pro
+2026-11-18,LuxuryX,google_pixel_10_pro,Google Pixel 10 Pro,Google,Android,16 GB,128 GB,Porcelain,259500.0,True,https://luxuryx.lk/google-pixel-10-pro
+2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,256 GB,Moonstone,643000.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,256 GB,Jade,643000.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,512 GB,Moonstone,739000.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_fold,Google Pixel 10 Pro Fold,Google,Android,16 GB,512 GB,Jade,739000.0,True,https://luxuryx.lk/google-pixel-10-pro-fold-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Obsidian,322500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Jade,322500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Porcelain,322500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,256 GB,Moonstone,322500.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Obsidian,411000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Jade,411000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Porcelain,411000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,512 GB,Moonstone,411000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Obsidian,525000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Jade,525000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Porcelain,525000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_10_pro_xl,Google Pixel 10 Pro XL,Google,Android,16 GB,1 TB,Moonstone,525000.0,True,https://luxuryx.lk/google-pixel-10-pro-xl-sri-lanka
+2026-11-18,LuxuryX,google_pixel_11_pro_xl,Google Pixel 11 Pro XL,Google,Android,16 GB,256GB,Olive,332500.0,True,https://luxuryx.lk/pixel-11-pro-xl-price
+2026-11-18,LuxuryX,google_pixel_11_pro_xl,Google Pixel 11 Pro XL,Google,Android,16 GB,256GB,Obsidian,332500.0,True,https://luxuryx.lk/pixel-11-pro-xl-price
+2026-11-18,LuxuryX,google_pixel_11_pro_xl,Google Pixel 11 Pro XL,Google,Android,16 GB,256GB,Canyon,332500.0,True,https://luxuryx.lk/pixel-11-pro-xl-price
+2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,Obsidian,277500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,rose quartz,277500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,Porcelain,277500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro,Google Pixel 9 Pro,Google,Android,16 GB,128 GB,Hazel,277500.0,True,https://luxuryx.lk/google-pixel-9-pro-price-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,128 GB,Obsidian,293500.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,128 GB,Porcelain,293500.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,256 GB,Obsidian,321000.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
+2026-11-18,LuxuryX,google_pixel_9_pro_xl,Google Pixel 9 Pro XL,Google,Android,16 GB,256 GB,Porcelain,321000.0,True,https://luxuryx.lk/google-pixel-9-pro-xl-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,64 GB,Black,42500.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,64 GB,Violet,42500.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,64 GB,Green,42500.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,6 GB,128 GB,Black,57000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,6 GB,128 GB,Violet,57000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a07,Samsung Galaxy A07,Samsung,Android,4 GB,128 GB,Green,57000.0,True,https://luxuryx.lk/samsung-galaxy-a07-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,128 GB,Black,82500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,128 GB,blue,82500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,128 GB,Gray,82500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,6 GB,128 GB,Black,84500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,6 GB,128 GB,blue,84500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,6 GB,128 GB,Gray,84500.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,256 GB,Black,85000.0,True,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,256 GB,blue,85000.0,True,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a17,Samsung Galaxy A17 5G,Samsung,Android,8 GB,256 GB,Gray,85000.0,False,https://luxuryx.lk/samsung-galaxy-a17-5g-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,6 GB,128 GB,Black,84000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,6 GB,128 GB,White,84000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,6 GB,128 GB,Lavender,84000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,8 GB,128 GB,Black,89000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,8 GB,128 GB,White,89000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a36,Samsung Galaxy A36,Samsung,Android,8 GB,128 GB,Lavender,89000.0,True,https://luxuryx.lk/samsung-a36-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,Black,119500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,Gray,119500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,Lavender,119500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,8 GB,256 GB,White,119500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,Black,125500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,Gray,125500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,Lavender,125500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_a37,Samsung Galaxy A37,Samsung,Android,12 GB,256 GB,White,125500.0,True,https://luxuryx.lk/samsung-galaxy-a37-price
+2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Mint,216500.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Ice-Blue,216500.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Silver-Shadow,216500.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Blue-Black,216500.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25,Samsung Galaxy S25,Samsung,Android,12 GB,256 GB,Navy,216500.0,True,https://luxuryx.lk/galaxy-s25-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,128 GB,Navy,164000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,128 GB,Black,164000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,Navy,184000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,Jet-Black,184000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,Ice-Blue,184000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_fe,Samsung Galaxy S25 FE,Samsung,Android,8 GB,256 GB,White,184000.0,True,https://luxuryx.lk/samsung-galaxy-s25-fe-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Silverblue,277000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Black,277000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Gray,277000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,256 GB,Titanium Whitesilver,277000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Silverblue,300000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Whitesilver,300000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Gray,300000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s25_ultra,Samsung Galaxy S25 Ultra,Samsung,Android,12 GB,512 GB,Titanium Black,300000.0,True,https://luxuryx.lk/sumsung-galaxy-s25-ultra
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26+,Samsung,Android,12 GB,256 GB,Silver,301500.0,True,https://luxuryx.lk/samsung-galaxy-s26-plus-5g
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Cobalt Violet,249500.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Pink Gold,249500.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Silver Shadow,249500.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Black,249500.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,Sky-Blue,249500.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26,Samsung Galaxy S26,Samsung,Android,12 GB,256 GB,White,249500.0,True,https://luxuryx.lk/samsung-galaxy-s26-price-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Cobalt Violet,322500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,blue,322500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Black,322500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,White,322500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Silver Shadow,322500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,256 GB,Pink Gold,322500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Cobalt Violet,381000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,blue,381000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Black,381000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,White,381000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Silver Shadow,381000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,512 GB,Pink Gold,381000.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Cobalt Violet,567500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,blue,567500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Black,567500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,White,567500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Silver,567500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_s26_ultra,Samsung Galaxy S26 Ultra,Samsung,Android,12 GB,1 TB,Pink Gold,567500.0,True,https://luxuryx.lk/samsung-galaxy-s26-ultra-price-in-sri-lanka
+2026-11-18,LuxuryX,samsung_galaxy_z_fold8_ultra_256gb,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung,Android,12GB,256GB,Violet,504000.0,True,https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb
+2026-11-18,LuxuryX,samsung_galaxy_z_fold8_ultra_256gb,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung,Android,12GB,256GB,White,504000.0,True,https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb
+2026-11-18,LuxuryX,samsung_galaxy_z_fold8_ultra_256gb,Samsung Galaxy Z Fold8 Ultra 256GB,Samsung,Android,12GB,256GB,Graphite,504000.0,True,https://luxuryx.lk/samsung-galaxy-z-fold8-ultra-256gb
+2026-11-18,LuxuryX,samsung_galaxy_z_fold_8,Samsung Galaxy Z Fold 8,Samsung,Android,12 GB,256 GB,Black,474000.0,True,https://luxuryx.lk/samsung-galaxy-fold-8
+2026-11-18,LuxuryX,samsung_tab_samsung_galaxy_tab_s10_lite,Samsung Galaxy Tab S10 Lite 5G,Samsung Tab,Android,6GB,128GB,Gray,120500.0,True,https://luxuryx.lk/galaxy-tab-s10-lite-5g
+2026-11-18,LuxuryX,xiaomi_redmi_note_15,Redmi Note 15 5G,Xiaomi,Android,8 GB,256 GB,Black,101500.0,True,https://luxuryx.lk/xiaomi-redmi-note-15-5g
+2026-11-18,LuxuryX,xiaomi_redmi_note_15,Redmi Note 15 5G,Xiaomi,Android,8 GB,256 GB,Green,101500.0,True,https://luxuryx.lk/xiaomi-redmi-note-15-5g
+2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro+ 5G,Xiaomi,Android,8 GB,256 GB,Brown,130500.0,True,https://luxuryx.lk/redmi-note-15-pro-5g
+2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro 5G,Xiaomi,Android,8 GB,256 GB,Black,104500.0,True,https://luxuryx.lk/redmi-note-15c-pro-5g
+2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro 5G,Xiaomi,Android,8 GB,256 GB,Purple,104500.0,True,https://luxuryx.lk/redmi-note-15c-pro-5g
+2026-11-18,LuxuryX,xiaomi_redmi_note_15_pro,Redmi Note 15 Pro 5G,Xiaomi,Android,8 GB,256 GB,blue,104500.0,True,https://luxuryx.lk/redmi-note-15c-pro-5g
 2026-11-18,SimplyTek,apple_anker_ultra_protect_tempered_glass_for_iphone_screen_protector,Anker Ultra Protect Tempered Glass for iPhone (Screen Protector),Apple,Android,Standard,Standard,iPhone 16 Pro,1599.0,True,https://www.simplytek.lk/products/anker-ultra-protect-tempered-glass-for-iphone
 2026-11-18,SimplyTek,infinix_hot_60_pro_smartphone,Infinix HOT 60 Pro Smartphone,Infinix,Android,8 GB,Standard,Black,64999.0,True,https://www.simplytek.lk/products/infinix-hot-60-pro-smartphone-1
 2026-11-18,SimplyTek,infinix_hot_60_pro_smartphone,Infinix HOT 60 Pro+ Smartphone,Infinix,Android,8 GB,Standard,Infinix XBUDS 3 Lite Earbuds,77999.0,True,https://www.simplytek.lk/products/infinix-hot-60-pro-smartphone
