@@ -3,14 +3,14 @@
         "title": "Xiaomi Redmi 15C Smartphone",
         "brand": "Xiaomi",
         "category": "Android",
-        "min_price": 59999.0,
-        "max_price": 59999.0,
+        "min_price": 49999.0,
+        "max_price": 49999.0,
         "in_stock": true,
         "url": "https://www.simplytek.lk/products/xiaomi-redmi-15c-smartphone",
         "variants": [
             {
                 "id": "51322922041663",
-                "price": 59999.0,
+                "price": 49999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
@@ -105,28 +105,6 @@
                     "ram": "Standard",
                     "storage": "Standard",
                     "color": "iPhone 16 Pro"
-                }
-            }
-        ]
-    },
-    {
-        "title": "Alcatel 1021 Feature Phone",
-        "brand": "Other",
-        "category": "Android",
-        "min_price": 5999.0,
-        "max_price": 5999.0,
-        "in_stock": true,
-        "url": "https://www.simplytek.lk/products/alcatel-1021-feature-phone",
-        "variants": [
-            {
-                "id": "53854376788287",
-                "price": 5999.0,
-                "quantity": 5,
-                "in_stock": true,
-                "specifications": {
-                    "ram": "Standard",
-                    "storage": "Standard",
-                    "color": "Black"
                 }
             }
         ]
@@ -869,6 +847,28 @@
             {
                 "id": "49647895216447",
                 "price": 4999.0,
+                "quantity": 5,
+                "in_stock": true,
+                "specifications": {
+                    "ram": "Standard",
+                    "storage": "Standard",
+                    "color": "Black"
+                }
+            }
+        ]
+    },
+    {
+        "title": "Alcatel 1021 Feature Phone",
+        "brand": "Other",
+        "category": "Android",
+        "min_price": 5999.0,
+        "max_price": 5999.0,
+        "in_stock": true,
+        "url": "https://www.simplytek.lk/products/alcatel-1021-feature-phone",
+        "variants": [
+            {
+                "id": "53854376788287",
+                "price": 5999.0,
                 "quantity": 5,
                 "in_stock": true,
                 "specifications": {
